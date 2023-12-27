@@ -1,0 +1,130 @@
+{
+	"credit": "Made with Blockbench",
+	"textureSize": [64, 64],
+	"models": [
+		{
+			"part": "head",
+			"id": "head",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0]
+		},
+		{
+			"part": "headwear",
+			"id": "headwear",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0]
+		},
+		{
+			"part": "body",
+			"id": "body",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0],
+			"submodels": [
+				{
+					"id": "scaling",
+					"invertAxis": "xy",
+					"translate": [0, 0, 0],
+					"boxes": [
+						{"coordinates": [-2, 6, -1, 4, 6, 2], "textureOffset": [24, 0]}
+					],
+					"submodels": [
+						{
+							"id": "head2",
+							"invertAxis": "xy",
+							"translate": [0, 12, 0],
+							"boxes": [
+								{"coordinates": [-3, 0, -3, 6, 6, 6], "textureOffset": [0, 32]},
+								{"coordinates": [-3, 0, -3, 6, 6, 6], "textureOffset": [24, 32], "sizeAdd": 0.5}
+							]
+						},
+						{
+							"id": "left_arm2",
+							"invertAxis": "xy",
+							"mirrorTexture": "u",
+							"translate": [-2.5, 11, 0],
+							"boxes": [
+								{"coordinates": [-1.5, -5, -1, 2, 6, 2], "textureOffset": [56, 0]}
+							]
+						},
+						{
+							"id": "right_arm2",
+							"invertAxis": "xy",
+							"translate": [2.5, 11, 0],
+							"boxes": [
+								{"coordinates": [-0.5, -5, -1, 2, 6, 2], "textureOffset": [0, 0]}
+							]
+						},
+						{
+							"id": "left_leg2",
+							"invertAxis": "xy",
+							"mirrorTexture": "u",
+							"translate": [-0.9, 6, 0],
+							"boxes": [
+								{"coordinates": [-1.1, -6, -1, 2, 6, 2], "textureOffset": [56, 24]}
+							]
+						},
+						{
+							"id": "right_leg2",
+							"invertAxis": "xy",
+							"translate": [0.9, 6, 0],
+							"boxes": [
+								{"coordinates": [-0.9, -6, -1, 2, 6, 2], "textureOffset": [56, 32]}
+							]
+						}
+					]
+				}
+			],
+			"animations": [
+				{
+					"head2.rx": "head.rx",
+					"head2.ry": "head.ry",
+					"head2.rz": "head.rz",
+					"headwear2.rx": "headwear.rx",
+					"headwear2.ry": "headwear.ry",
+					"headwear2.rz": "headwear.rz",
+					"left_arm2.rx": "left_arm.rx",
+					"left_arm2.ry": "left_arm.ry",
+					"left_arm2.rz": "left_arm.rz",
+					"right_arm2.rx": "right_arm.rx",
+					"right_arm2.ry": "right_arm.ry",
+					"right_arm2.rz": "right_arm.rz",
+					"left_leg2.rx": "left_leg.rx",
+					"left_leg2.ry": "left_leg.ry",
+					"left_leg2.rz": "left_leg.rz",
+					"right_leg2.rx": "right_leg.rx",
+					"right_leg2.ry": "right_leg.ry",
+					"right_leg2.rz": "right_leg.rz",
+					"scaling.sx": 2,
+					"scaling.sy": 2,
+					"scaling.sz": 2
+				}
+			]
+		},
+		{
+			"part": "left_arm",
+			"id": "left_arm",
+			"invertAxis": "xy",
+			"mirrorTexture": "u",
+			"translate": [5, -22, 0]
+		},
+		{
+			"part": "right_arm",
+			"id": "right_arm",
+			"invertAxis": "xy",
+			"translate": [-5, -22, 0]
+		},
+		{
+			"part": "left_leg",
+			"id": "left_leg",
+			"invertAxis": "xy",
+			"mirrorTexture": "u",
+			"translate": [1.9, -12, 0]
+		},
+		{
+			"part": "right_leg",
+			"id": "right_leg",
+			"invertAxis": "xy",
+			"translate": [-1.9, -12, 0]
+		}
+	]
+}

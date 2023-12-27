@@ -1,0 +1,43 @@
+{
+	"credit": "Made with Blockbench",
+	"textureSize": [128, 64],
+	"models": [
+		{
+			"part": "body",
+			"id": "body",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0],
+			"boxes": [
+				{"coordinates": [-6, 2, -6, 12, 12, 12], "textureOffset": [0, 32]},
+				{"coordinates": [-8, 0, -8, 16, 16, 16], "textureOffset": [0, 0]}
+			]
+		},
+		{
+			"part": "right_eye",
+			"id": "right_eye",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0],
+			"boxes": [
+				{"coordinates": [-6.6, 8, -7, 4, 4, 4], "textureOffset": [64, 8]}
+			]
+		},
+		{
+			"part": "left_eye",
+			"id": "left_eye",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0],
+			"boxes": [
+				{"coordinates": [2.6, 8, -7, 4, 4, 4], "textureOffset": [64, 0]}
+			]
+		},
+		{
+			"part": "mouth",
+			"id": "mouth",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0],
+			"boxes": [
+				{"coordinates": [0, 4, -7, 2, 2, 2], "textureOffset": [64, 16]}
+			]
+		}
+	]
+}

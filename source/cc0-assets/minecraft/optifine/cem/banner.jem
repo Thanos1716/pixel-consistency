@@ -1,0 +1,67 @@
+{
+	"credit": "Made with Blockbench",
+	"textureSize": [64, 64],
+	"models": [
+		{
+			"part": "top",
+			"id": "top",
+			"invertAxis": "xy",
+			"translate": [0, -12, 0],
+			"submodels": [
+				{
+					"id": "top_scale",
+					"invertAxis": "xy",
+					"translate": [0, 0, 0],
+					"boxes": [
+						{"coordinates": [-7, 28, -1, 14, 2, 2], "textureOffset": [0, 30]}
+					]
+				}
+			]
+		},
+		{
+			"part": "slate",
+			"id": "slate",
+			"invertAxis": "xy",
+			"translate": [0, -44, 0],
+			"submodels": [
+				{
+					"id": "slate_scale",
+					"invertAxis": "xy",
+					"translate": [0, 0, 0],
+					"boxes": [
+						{"coordinates": [-7, 2, -2, 14, 28, 1], "textureOffset": [0, 0]}
+					]
+				}
+			]
+		},
+		{
+			"part": "stand",
+			"id": "stand",
+			"invertAxis": "xy",
+			"translate": [0, -12, 0],
+			"submodels": [
+				{
+					"id": "stand_scale",
+					"invertAxis": "xy",
+					"translate": [0, 0, 0],
+					"boxes": [
+						{"coordinates": [-1, 0, -1, 2, 28, 2], "textureOffset": [30, 0]}
+					]
+				}
+			],
+			"animations": [
+				{
+					"stand_scale.sx": "1.5",
+					"stand_scale.sy": "1.5",
+					"stand_scale.sz": "1.5",
+					"top_scale.sx": "1.5",
+					"top_scale.sy": "1.5",
+					"top_scale.sz": "1.5",
+					"slate_scale.sx": "1.5",
+					"slate_scale.sy": "1.5",
+					"slate_scale.sz": "1.5"
+				}
+			]
+		}
+	]
+}

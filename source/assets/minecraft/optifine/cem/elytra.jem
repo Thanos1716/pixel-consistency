@@ -1,0 +1,32 @@
+{
+	"credit": "Made with Blockbench",
+	"textureSize": [64, 32],
+	"models": [
+		{
+			"part": "right_wing",
+			"id": "right_wing",
+			"invertAxis": "xy",
+			"translate": [-5, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [-5, -19, 0, 10, 20, 2],
+					"uvNorth": [34, 2, 24, 22],
+					"uvEast": [36, 2, 34, 22],
+					"uvSouth": [46, 2, 36, 22],
+					"uvWest": [24, 2, 22, 22],
+					"uvUp": [24, 2, 34, 0],
+					"uvDown": [34, 0, 44, 2]
+				}
+			]
+		},
+		{
+			"part": "left_wing",
+			"id": "left_wing",
+			"invertAxis": "xy",
+			"translate": [5, 0, 0],
+			"boxes": [
+				{"coordinates": [-5, -19, 0, 10, 20, 2], "textureOffset": [22, 0]}
+			]
+		}
+	]
+}

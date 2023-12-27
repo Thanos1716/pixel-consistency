@@ -1,0 +1,200 @@
+{
+	"id": "foliageplus",
+	"version": 7,
+	"capabilities": ["FileFilter", "DirFilter", "DirAdditive"],
+	"conf": {
+		"playerOverlay": true,
+		"lowerGrass": {
+			"grassBlock": true,
+			"grassBlockSnow": true,
+			"grassPath": true,
+			"mycelium": true,
+			"podzol": true,
+			"warpedNylium": true,
+			"crimsonNylium": true
+		},
+		"vegetation": {
+			"grass": true,
+			"tallGrass": true,
+			"deadBush": true,
+			"hangingRoots": true,
+			"fern": true,
+			"largeFern": true,
+			"lilyPad": true,
+			"smallDripLeaf": true,
+			"sugarCane": true,
+			"warpedRoots": true,
+			"crimsonRoots": true,
+			"netherSprouts": true
+		},
+		"crops": {
+			"wheat": true,
+			"crops": true,
+			"netherWart": true,
+			"sweetBerryBushes": true,
+			"stems": true
+		},
+		"vines": {
+			"caveVines": true,
+			"weepingVines": true,
+			"twistingVines": true
+		},
+		"flower": {
+			"allium": true,
+			"azureBluet": true,
+			"blueOrchid": true,
+			"cornflower": true,
+			"dandelion": true,
+			"lilyOfTheValley": true,
+			"oxeyeDaisy": true,
+			"poppy": true,
+			"redTulip": true,
+			"orangeTulip": true,
+			"pinkTulip": true,
+			"whiteTulip": true,
+			"witherRose": true,
+			"lilac": true,
+			"peony": true,
+			"sunflower": true,
+			"roseBush": true
+		},
+		"mushroomAndFungus": {
+			"brownMushroom": true,
+			"redMushroom": true,
+			"warpedFungus": true,
+			"crimsonFungus": true
+		},
+		"pottedPlant": {
+			"pottedOakSapling": true,
+			"pottedSpruceSapling": true,
+			"pottedBirchSapling": true,
+			"pottedJungleSapling": true,
+			"pottedAcaciaSapling": true,
+			"pottedDarkOakSapling": true,
+			"pottedAzalea": true,
+			"pottedFloweringAzalea": true,
+			"pottedCactus": true,
+			"pottedFern": true,
+			"pottedDeadBush": true,
+			"pottedAzureBluet": true,
+			"pottedBlueOrchid": true,
+			"pottedDandelion": true,
+			"pottedLilyOfTheValley": true,
+			"pottedPoppy": true
+		},
+		"bushyLeaves": {
+			"oakLeaves": true,
+			"spruceLeaves": true,
+			"birchLeaves": true,
+			"jungleLeaves": true,
+			"acaciaLeaves": true,
+			"darkOakLeaves": true,
+			"mangroveLeaves": true,
+			"azaleaLeaves": true,
+			"floweringAzaleaLeaves": true
+		},
+		"underwater": {
+			"seagrass": true,
+			"tallSeagrass": true,
+			"kelp": {
+				"kelp": true,
+				"kelpPlant": true
+			},
+			"corals": {
+				"brainCoral": true,
+				"bubbleCoral": true,
+				"fireCoral": true,
+				"hornCoral": true,
+				"tubeCoral": true
+			},
+			"coralFan": true,
+			"coralWallFan": true
+		},
+		"sapling": {
+			"bambooSapling": true,
+			"oakSapling": true,
+			"spruceSapling": true,
+			"birchSapling": true,
+			"jungleSapling": true,
+			"acaciaSapling": true,
+			"darkOakSapling": true,
+			"mangrovePropagule": true
+		},
+		"azalea": {
+			"azalea": true,
+			"floweringAzalea": true
+		},
+		"other": {
+			"amethyst": {
+				"smallAmethystBud": true,
+				"mediumAmethystBud": true,
+				"largeAmethystBud": true,
+				"amethystCluster": true
+			},
+			"bamboo": true,
+			"cobweb": true,
+			"cactus": true,
+			"pointedDripstone": true,
+			"sand": true
+		},
+		"the_aether": {
+			"lowerGrass": {
+				"aetherGrass": true,
+				"aetherGrassSnow": true,
+				"aetherFrozenGrass": true,
+				"enchantedAetherGrass": true,
+				"enchantedAetherGrassSnow": true
+			},
+			"vegetation": {
+				"aetherGrassPlant": true,
+				"aetherGrassFlowering": true,
+				"aetherShortGrass": true,
+				"fluteGrass": true,
+				"aetherBush": true,
+				"aetherTallGrass": true,
+				"aetherFern": true,
+				"halophia": true,
+				"honeyNettle": true,
+				"giantLily": true,
+				"blueBerry": true,
+				"rootCap": true,
+				"wildSwetroot": true,
+				"mossStar": true,
+				"groundCover": true,
+				"stellated": true
+			},
+			"bushyLeaves": {
+				"skyrootLeaves": true,
+				"goldenOakLeaves": true,
+				"orangeLeaves": true,
+				"crystalLeaves": true,
+				"roseWisteriaLeaves": true,
+				"frostWisteriaLeaves": true,
+				"lavenderWisteriaLeaves": true,
+				"borealWisteriaLeaves": true,
+				"leafPile": {
+					"skyrootLeafPile": true,
+					"roseWisteriaLeafPile": true,
+					"frostWisteriaLeafPile": true,
+					"lavenderWisteriaLeafPile": true
+				},
+				"wisteriaHanger": true
+			},
+			"aercloud": {
+				"coldAercloud": true,
+				"blueAercloud": true,
+				"pinkAercloud": true,
+				"goldenAercloud": true
+			},
+			"flower": {
+				"ancientFlower": true,
+				"ataraxia": true,
+				"cloudsbluff": true,
+				"drigean": true,
+				"luminar": true,
+				"wildFlax": true,
+				"flax": true
+			}
+		}
+	}
+}

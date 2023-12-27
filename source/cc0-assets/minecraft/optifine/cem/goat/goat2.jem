@@ -1,0 +1,180 @@
+{
+	"credit": "Made with Blockbench",
+	"textureSize": [128, 64],
+	"models": [
+		{
+			"part": "head",
+			"id": "head",
+			"invertAxis": "xy",
+			"translate": [0, -10, 0]
+		},
+		{
+			"part": "nose",
+			"id": "nose",
+			"invertAxis": "xy",
+			"translate": [0, -18, 8],
+			"rotate": [-55, 0, 0],
+			"animations": [
+				{
+					"this.rx": 0
+				}
+			]
+		},
+		{
+			"part": "left_horn",
+			"id": "left_horn",
+			"invertAxis": "xy",
+			"translate": [0, -10, 0],
+			"submodels": [
+				{
+					"id": "left_horn_scale",
+					"invertAxis": "xy",
+					"translate": [0, 0, 0],
+					"boxes": [
+						{"coordinates": [-1.25, 13.5, -7.25, 1, 4, 1], "textureOffset": [43, 45]}
+					]
+				}
+			]
+		},
+		{
+			"part": "right_horn",
+			"id": "right_horn",
+			"invertAxis": "xy",
+			"translate": [0, -10, 0],
+			"submodels": [
+				{
+					"id": "right_horn_scale",
+					"invertAxis": "xy",
+					"translate": [0, 0, 0],
+					"boxes": [
+						{"coordinates": [1.5, 13.5, -7.25, 1, 4, 1], "textureOffset": [35, 45]}
+					]
+				}
+			]
+		},
+		{
+			"part": "body",
+			"id": "body",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0],
+			"submodels": [
+				{
+					"id": "scale",
+					"invertAxis": "xy",
+					"translate": [0, 0, 0],
+					"boxes": [
+						{"coordinates": [-2.5, 5.5, -5, 5, 6, 11], "textureOffset": [5, 24]},
+						{"coordinates": [-3.5, 3.5, -6, 7, 9, 7], "textureOffset": [23, 8]}
+					],
+					"submodels": [
+						{
+							"id": "head2",
+							"invertAxis": "xy",
+							"translate": [0, 8.5, -0.5],
+							"boxes": [
+								{"coordinates": [0, -4, -9.5, 0, 4, 3], "textureOffset": [56, 27]},
+								{"coordinates": [2, 4.5, -6.25, 2, 1, 1], "textureOffset": [44, 24]}
+							],
+							"submodels": [
+								{
+									"id": "nose2",
+									"invertAxis": "xy",
+									"translate": [-0.5, 4, -7],
+									"rotate": [-55, 0, 0],
+									"boxes": [
+										{"coordinates": [-1.5, -3, -5, 4, 4, 7], "textureOffset": [37, 30]}
+									]
+								},
+								{
+									"id": "mirror2",
+									"invertAxis": "xy",
+									"mirrorTexture": "u",
+									"translate": [0, -6.5, 0.25],
+									"boxes": [
+										{"coordinates": [-4, 11, -6.5, 2, 1, 1], "textureOffset": [56, 27]}
+									]
+								}
+							]
+						},
+						{
+							"id": "leg5",
+							"invertAxis": "xy",
+							"translate": [0.25, 8, 3],
+							"boxes": [
+								{"coordinates": [0, -8, 0, 2, 6, 2], "textureOffset": [51, 54]}
+							]
+						},
+						{
+							"id": "leg6",
+							"invertAxis": "xy",
+							"translate": [-0.25, 8, 3],
+							"boxes": [
+								{"coordinates": [-2, -8, 0, 2, 6, 2], "textureOffset": [51, 46]}
+							]
+						},
+						{
+							"id": "leg7",
+							"invertAxis": "xy",
+							"translate": [0.25, 8, -2.75],
+							"boxes": [
+								{"coordinates": [0, -8, -2, 2, 8, 2], "textureOffset": [53, 15]}
+							]
+						},
+						{
+							"id": "leg8",
+							"invertAxis": "xy",
+							"translate": [-0.25, 8, -2.75],
+							"boxes": [
+								{"coordinates": [-2, -8, -2, 2, 8, 2], "textureOffset": [53, 5]}
+							]
+						}
+					]
+				}
+			],
+			"animations": [
+				{
+					"scale.sx": 2,
+					"scale.sy": 2,
+					"scale.sz": 2,
+					"head2.rx": "head.rx",
+					"head2.ry": "head.ry",
+					"head2.rz": "head.rz",
+					"left_horn_scale.sx": "1/0.6",
+					"left_horn_scale.sy": "1/0.6",
+					"left_horn_scale.sz": "1/0.6",
+					"right_horn_scale.sx": "1/0.6",
+					"right_horn_scale.sy": "1/0.6",
+					"right_horn_scale.sz": "1/0.6",
+					"leg5.rx": "leg1.rx",
+					"leg6.rx": "leg2.rx",
+					"leg7.rx": "leg3.rx",
+					"leg8.rx": "leg4.rx"
+				}
+			]
+		},
+		{
+			"part": "leg1",
+			"id": "leg1",
+			"invertAxis": "xy",
+			"translate": [-3.5, -10, -4]
+		},
+		{
+			"part": "leg2",
+			"id": "leg2",
+			"invertAxis": "xy",
+			"translate": [0.5, -10, -4]
+		},
+		{
+			"part": "leg3",
+			"id": "leg3",
+			"invertAxis": "xy",
+			"translate": [-3.5, -10, 6]
+		},
+		{
+			"part": "leg4",
+			"id": "leg4",
+			"invertAxis": "xy",
+			"translate": [0.5, -10, 6]
+		}
+	]
+}

@@ -360,4 +360,3 @@ If you are a resourcepack developer and enjoy my work, I would love it if you in
 <!-- 🗶 ❌ -->
 <!-- ✔ ✔️ -->
 <!-- ✅ -->
-# pixel-consistency

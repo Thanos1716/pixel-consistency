@@ -1,0 +1,48 @@
+{
+	"credit": "Made with Blockbench",
+	"textureSize": [64, 32],
+	"models": [
+		{
+			"part": "board",
+			"id": "board",
+			"invertAxis": "xy",
+			"translate": [0, -12, 0],
+			"submodels": [
+				{
+					"id": "board_scale",
+					"invertAxis": "xy",
+					"translate": [0, 0, 0],
+					"boxes": [
+						{"coordinates": [-8, 9, -0.5, 16, 9, 1], "textureOffset": [0, 0]}
+					]
+				}
+			],
+			"animations": [
+				{
+					"board_scale.sx": 1.5,
+					"board_scale.sy": 1.5,
+					"board_scale.sz": 1.5,
+					"stick_scale.sx": 1.5,
+					"stick_scale.sy": 1.5,
+					"stick_scale.sz": 1.5
+				}
+			]
+		},
+		{
+			"part": "stick",
+			"id": "stick",
+			"invertAxis": "xy",
+			"translate": [0, -12, 0],
+			"submodels": [
+				{
+					"id": "stick_scale",
+					"invertAxis": "xy",
+					"translate": [0, 0, 0],
+					"boxes": [
+						{"coordinates": [-1, 0, -0.5, 2, 9, 1], "textureOffset": [34, 0]}
+					]
+				}
+			]
+		}
+	]
+}

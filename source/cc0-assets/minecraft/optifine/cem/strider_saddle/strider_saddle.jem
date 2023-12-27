@@ -1,0 +1,181 @@
+{
+	"credit": "Made with Blockbench",
+	"textureSize": [64, 128],
+	"models": [
+		{
+			"part": "body",
+			"id": "body",
+			"invertAxis": "xy",
+			"translate": [0, -23, 0],
+			"boxes": [
+				{"coordinates": [-8, 15, -8, 16, 14, 16], "textureOffset": [0, 0]}
+			],
+			"animations": [
+				{
+					"rotate_back.rx": "-body.rx",
+					"rotate_back.ry": "-body.ry",
+					"rotate_back.rz": "-body.rz",
+					"body2.rx": "body.rx",
+					"body2.ry": "body.ry",
+					"body2.rz": "body.rz"
+				}
+			]
+		},
+		{
+			"part": "left_leg",
+			"id": "left_leg",
+			"invertAxis": "xy",
+			"translate": [-4, -17, 0],
+			"boxes": [
+				{"coordinates": [2, 0, -2, 4, 17, 4], "textureOffset": [0, 53]}
+			]
+		},
+		{
+			"part": "right_leg",
+			"id": "right_leg",
+			"invertAxis": "xy",
+			"translate": [4, -17, 0],
+			"boxes": [
+				{"coordinates": [-6, 0, -2, 4, 17, 4], "textureOffset": [0, 30]}
+			]
+		},
+		{
+			"part": "hair_left_top",
+			"id": "hair_left_top",
+			"invertAxis": "xy",
+			"translate": [8, -29, 8],
+			"submodels": [
+				{
+					"id": "hair_left_top_rotation",
+					"invertAxis": "xy",
+					"translate": [-8, 29, 0],
+					"rotate": [0, 0, 60],
+					"boxes": [
+						{"coordinates": [-12, 0, -8, 12, 0, 16], "textureOffset": [24, 30]}
+					]
+				}
+			],
+			"animations": [
+				{
+					"hair_left_top_rotation.rz": 0
+				}
+			]
+		},
+		{
+			"part": "hair_left_middle",
+			"id": "hair_left_middle",
+			"invertAxis": "xy",
+			"translate": [8, -25, 8],
+			"submodels": [
+				{
+					"id": "hair_left_middle_rotation",
+					"invertAxis": "xy",
+					"translate": [-8, 25, 0],
+					"rotate": [0, 0, 60],
+					"boxes": [
+						{"coordinates": [-12, 0, -8, 12, 0, 16], "textureOffset": [24, 46]}
+					]
+				}
+			],
+			"animations": [
+				{
+					"hair_left_middle_rotation.rz": 0
+				}
+			]
+		},
+		{
+			"part": "hair_left_bottom",
+			"id": "hair_left_bottom",
+			"invertAxis": "xy",
+			"translate": [8, -20, 8],
+			"submodels": [
+				{
+					"id": "hair_left_bottom_rotation",
+					"invertAxis": "xy",
+					"translate": [-8, 20, 0],
+					"rotate": [0, 0, 60],
+					"boxes": [
+						{"coordinates": [-12, 0, -8, 12, 0, 16], "textureOffset": [24, 62]}
+					]
+				}
+			],
+			"animations": [
+				{
+					"hair_left_bottom_rotation.rz": 0
+				}
+			]
+		},
+		{
+			"part": "hair_right_top",
+			"id": "hair_right_top",
+			"invertAxis": "xy",
+			"mirrorTexture": "u",
+			"translate": [-8, -28, 8],
+			"submodels": [
+				{
+					"id": "hair_right_top_rotation",
+					"invertAxis": "xy",
+					"mirrorTexture": "u",
+					"translate": [8, 28, 0],
+					"rotate": [0, 0, -60],
+					"boxes": [
+						{"coordinates": [0, 0, -8, 12, 0, 16], "textureOffset": [0, 30]}
+					]
+				}
+			],
+			"animations": [
+				{
+					"hair_right_top_rotation.rz": 0
+				}
+			]
+		},
+		{
+			"part": "hair_right_middle",
+			"id": "hair_right_middle",
+			"invertAxis": "xy",
+			"mirrorTexture": "u",
+			"translate": [-8, -24, 8],
+			"submodels": [
+				{
+					"id": "hair_right_middle_rotation",
+					"invertAxis": "xy",
+					"mirrorTexture": "u",
+					"translate": [8, 24, 0],
+					"rotate": [0, 0, -60],
+					"boxes": [
+						{"coordinates": [0, 0, -8, 12, 0, 16], "textureOffset": [0, 46]}
+					]
+				}
+			],
+			"animations": [
+				{
+					"hair_right_middle_rotation.rz": 0
+				}
+			]
+		},
+		{
+			"part": "hair_right_bottom",
+			"id": "hair_right_bottom",
+			"invertAxis": "xy",
+			"mirrorTexture": "u",
+			"translate": [-8, -19, 8],
+			"submodels": [
+				{
+					"id": "hair_right_bottom_rotation",
+					"invertAxis": "xy",
+					"mirrorTexture": "u",
+					"translate": [8, 19, 0],
+					"rotate": [0, 0, -60],
+					"boxes": [
+						{"coordinates": [0, 0, -8, 12, 0, 16], "textureOffset": [0, 62]}
+					]
+				}
+			],
+			"animations": [
+				{
+					"hair_right_bottom_rotation.rz": 0
+				}
+			]
+		}
+	]
+}
