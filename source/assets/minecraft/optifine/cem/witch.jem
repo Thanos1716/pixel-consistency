@@ -53,7 +53,7 @@
 									"translate": [-1.75, 2, 2],
 									"rotate": [12, 0, 6],
 									"boxes": [
-										{"coordinates": [-1, -2, 0, 1, 2, 1], "textureOffset": [0, 95], "sizeAdd": 0.25}
+										{"coordinates": [-1, -2.25, 0, 1, 2, 1], "textureOffset": [0, 95]}
 									]
 								}
 							]
@@ -92,7 +92,7 @@
 			"invertAxis": "xy",
 			"translate": [0, -24, 0],
 			"boxes": [
-				{"coordinates": [-4, 4, -3, 8, 20, 6], "textureOffset": [0, 38], "sizeAdd": 0.25}
+				{"coordinates": [-4, 4, -3, 8, 20, 6], "textureOffset": [0, 38], "sizeAdd": 0.1}
 			]
 		},
 		{
