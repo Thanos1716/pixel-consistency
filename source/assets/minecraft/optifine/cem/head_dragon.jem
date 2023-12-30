@@ -1,0 +1,57 @@
+{
+	"credit": "Made with Blockbench",
+	"texture": "textures/entity/enderdragon/head_dragon.png",
+	"textureSize": [64, 64],
+	"models": [
+		{
+			"part": "head",
+			"id": "head",
+			"invertAxis": "xy",
+			"translate": [0, -8, -2],
+			"boxes": [
+				{"coordinates": [-5, 5, -16, 10, 4, 12], "textureOffset": [0, 24]},
+				{"coordinates": [-6, 2, -5, 12, 12, 12], "textureOffset": [0, 0]},
+				{"coordinates": [-4, 9, -14, 2, 2, 4], "textureOffset": [0, 30]},
+				{"coordinates": [-4, 14, 0, 2, 3, 4], "textureOffset": [36, 0]}
+			],
+			"submodels": [
+				{
+					"invertAxis": "xy",
+					"mirrorTexture": "u",
+					"boxes": [
+						{"coordinates": [2, 9, -14, 2, 2, 4], "textureOffset": [0, 24]},
+						{"coordinates": [2, 14, 0, 2, 3, 4], "textureOffset": [0, 0]}
+					]
+				},
+				{
+					"id": "mirrored",
+					"invertAxis": "xy",
+					"mirrorTexture": "u",
+					"translate": [0, 2, 26]
+				},
+				{
+					"id": "jaw2",
+					"invertAxis": "xy",
+					"translate": [0, 5, -4],
+					"boxes": [
+						{"coordinates": [-5, -3, -12, 10, 3, 12], "textureOffset": [0, 40]}
+					]
+				}
+			],
+			"animations": [
+				{
+					"head.sx": "4/3",
+					"head.sy": "4/3",
+					"head.sz": "4/3",
+					"jaw2.rx": "jaw.rx"
+				}
+			]
+		},
+		{
+			"part": "jaw",
+			"id": "jaw",
+			"invertAxis": "xy",
+			"translate": [0, -4, 6]
+		}
+	]
+}

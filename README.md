@@ -227,7 +227,7 @@ Before                                                                          
 
 Entity                | Fixed? | Notes
 :---------------------|:------:|:-
-Dragon Head           | ❌      |
+Dragon Head           | •      | Block support, but head model is still inconsistent, needs to be scaled
 Banner                | ✅      |
 Banner Patterns       | ✅      |
 Hanging Sign Text     | ❌      |
