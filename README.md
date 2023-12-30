@@ -180,7 +180,7 @@ Ghast                   | •      | Large texture
 Giant                   | ❌      | Extremely large texture, very low priority
 Horse                   | ❌      | Many textures at different scaling to horse and donkey
 Llama Decor             | ✅      |
-Magma Cube              | •      | Larger textures need work
+Magma Cube              | ✅      | Survival only
 Mule                    | ❌      | Different scale to horse and donkey
 Phantom                 | ❌      | Changes size
 Pig Saddle              | ❌      | Inflated
@@ -190,12 +190,12 @@ Player Slim Outer Layer | •      | Should be configurable, EMF only
 Rabbit                  | ❌      | Many textures
 Sheep Wool              | ✅      |
 Skeleton Horse          | ❌      |
-Slime                   | ✅      | Textures only
+Slime                   | ✅      | Survival only
 Snow Golem Pumpkin      | ❌      |
 Stray Outer             | ❌      | Inflated
 Trader Llama Decor      | ✅      |
 Vex                     | •      | Updated by Mojang
-Witch                   | ❌      |
+Witch                   | ✅      | Nose, hat tip and bodywear
 Wither                  | •      | Double resolution created so far, wither can change size
 Wither Armor            | ❌      | Texture moves
 Wither Skeleton         | ✅      |
