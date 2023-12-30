@@ -63,7 +63,7 @@ Baby Cow                | ✅      | Consider adding back horns
 Baby Donkey             | ❌      | Waiting on adult
 Baby Drowned            | ✅      |
 Baby Fox                | •      | Textures complete, scaling for feet incorrect
-Baby Goat               | •      | Horns need work
+Baby Goat               | ✅      |
 Baby Hoglin             | ✅      |
 Baby Horse              | ❌      | Waiting on adult
 Baby Husk               | ✅      |
@@ -227,7 +227,7 @@ Before                                                                          
 
 Entity                | Fixed? | Notes
 :---------------------|:------:|:-
-Dragon Head           | •      | Block support, but head model is still inconsistent, needs to be scaled
+Dragon Head           | •      | Block support, but model on head is still inconsistent, needs to be scaled
 Banner                | ✅      |
 Banner Patterns       | ✅      |
 Hanging Sign Text     | ❌      |
