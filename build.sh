@@ -1,6 +1,7 @@
 #!/bin/sh
 rm build/* -r
 
+mkdir build
 cp source/pack.png build
 cp source/pack.mcmeta build
 cp source/LICENSE.txt build
@@ -16,4 +17,7 @@ cp source/assets build -r
 # cd build/assets
 # pwd
 # recursively_cd
-find build/assets -maxdepth 1 -type f | while read file; do cp -f $(readlink $file) $file; done
+# find build/assets -maxdepth 1 -type f | while read file; do cp -f $(readlink $file) $file; done
+
+rsync -a --progress --delete ./build/ ../../22/pixel-consistency
+
