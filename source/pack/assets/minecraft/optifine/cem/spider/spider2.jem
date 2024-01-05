@@ -1,6 +1,6 @@
 {
 	"credit": "Made with Blockbench",
-	"textureSize": [32, 32],
+	"textureSize": [64, 64],
 	"models": [
 		{
 			"part": "head",
@@ -19,53 +19,53 @@
 					"invertAxis": "xy",
 					"translate": [0, 0, 0],
 					"boxes": [
-						{"coordinates": [-2.5, 2, 0, 5, 4, 6], "textureOffset": [0, 22]},
-						{"coordinates": [-1.5, 2.5, -3, 3, 3, 3], "textureOffset": [0, 8]}
+						{"coordinates": [-1.5, 2, -0.5, 3, 2, 3], "textureOffset": [42, 38]},
+						{"coordinates": [-0.5, 2.5, -1.5, 1, 1, 1], "textureOffset": [42, 32]}
 					],
 					"submodels": [
 						{
 							"id": "head2",
 							"invertAxis": "xy",
-							"translate": [0, 6, -3],
+							"translate": [0, 3, -1.5],
 							"boxes": [
-								{"coordinates": [-2, -4, -4, 4, 4, 4], "textureOffset": [0, 14]}
+								{"coordinates": [-1, -1, -2, 2, 2, 2], "textureOffset": [42, 34]}
 							]
 						},
 						{
 							"id": "right_legs",
 							"invertAxis": "xy",
-							"translate": [-4, 6, 4],
+							"translate": [-4, 5, 3],
 							"submodels": [
 								{
 									"id": "right_leg1",
 									"invertAxis": "xy",
-									"translate": [6, -2, -6],
+									"translate": [5, -2, -4.25],
 									"boxes": [
-										{"coordinates": [-0.5, -0.5, -0.5, 8, 1, 1], "textureOffset": [14, 12]}
+										{"coordinates": [-0.5, -0.5, -0.5, 4, 1, 1], "textureOffset": [54, 44]}
 									]
 								},
 								{
 									"id": "right_leg2",
 									"invertAxis": "xy",
-									"translate": [6, -2, -5.5],
+									"translate": [5, -2, -4],
 									"boxes": [
-										{"coordinates": [-0.5, -0.5, -0.5, 8, 1, 1], "textureOffset": [14, 8]}
+										{"coordinates": [-0.5, -0.5, -0.5, 4, 1, 1], "textureOffset": [54, 40]}
 									]
 								},
 								{
 									"id": "right_leg3",
 									"invertAxis": "xy",
-									"translate": [6, -2, -5],
+									"translate": [5, -2, -3.75],
 									"boxes": [
-										{"coordinates": [-0.5, -0.5, -0.5, 8, 1, 1], "textureOffset": [14, 4]}
+										{"coordinates": [-0.5, -0.5, -0.5, 4, 1, 1], "textureOffset": [54, 36]}
 									]
 								},
 								{
 									"id": "right_leg4",
 									"invertAxis": "xy",
-									"translate": [6, -2, -4.5],
+									"translate": [5, -2, -3.5],
 									"boxes": [
-										{"coordinates": [-0.5, -0.5, -0.5, 8, 1, 1], "textureOffset": [14, 0]}
+										{"coordinates": [-0.5, -0.5, -0.5, 4, 1, 1], "textureOffset": [54, 32]}
 									]
 								}
 							]
@@ -74,42 +74,42 @@
 							"id": "left_legs",
 							"invertAxis": "xy",
 							"mirrorTexture": "u",
-							"translate": [4, 6, 4],
+							"translate": [4, 5, 3],
 							"submodels": [
 								{
 									"id": "left_leg1",
 									"invertAxis": "xy",
 									"mirrorTexture": "u",
-									"translate": [-6, -2, -6],
+									"translate": [-5, -2, -4.25],
 									"boxes": [
-										{"coordinates": [-7.5, -0.5, -0.5, 8, 1, 1], "textureOffset": [14, 14]}
+										{"coordinates": [-3.5, -0.5, -0.5, 4, 1, 1], "textureOffset": [54, 46]}
 									]
 								},
 								{
 									"id": "left_leg2",
 									"invertAxis": "xy",
 									"mirrorTexture": "u",
-									"translate": [-6, -2, -5.5],
+									"translate": [-5, -2, -4],
 									"boxes": [
-										{"coordinates": [-7.5, -0.5, -0.5, 8, 1, 1], "textureOffset": [14, 10]}
+										{"coordinates": [-3.5, -0.5, -0.5, 4, 1, 1], "textureOffset": [54, 42]}
 									]
 								},
 								{
 									"id": "left_leg3",
 									"invertAxis": "xy",
 									"mirrorTexture": "u",
-									"translate": [-6, -2, -5],
+									"translate": [-5, -2, -3.75],
 									"boxes": [
-										{"coordinates": [-7.5, -0.5, -0.5, 8, 1, 1], "textureOffset": [14, 6]}
+										{"coordinates": [-3.5, -0.5, -0.5, 4, 1, 1], "textureOffset": [54, 38]}
 									]
 								},
 								{
 									"id": "left_leg4",
 									"invertAxis": "xy",
 									"mirrorTexture": "u",
-									"translate": [-6, -2, -4.5],
+									"translate": [-5, -2, -3.5],
 									"boxes": [
-										{"coordinates": [-7.5, -0.5, -0.5, 8, 1, 1], "textureOffset": [14, 2]}
+										{"coordinates": [-3.5, -0.5, -0.5, 4, 1, 1], "textureOffset": [54, 34]}
 									]
 								}
 							]
@@ -146,9 +146,9 @@
 					"right_leg4.rx": "leg1.rx",
 					"right_leg4.ry": "leg1.ry",
 					"right_leg4.rz": "leg1.rz",
-					"scale.sx": 1.5,
-					"scale.sy": 1.5,
-					"scale.sz": 1.5
+					"scale.sx": 2.6353,
+					"scale.sy": 2.6353,
+					"scale.sz": 2.6353
 				}
 			]
 		},
