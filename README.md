@@ -66,11 +66,11 @@ Baby Fox                | •      | Textures complete, scaling for feet incorre
 Baby Goat               | ✅      |
 Baby Hoglin             | ✅      |
 Baby Horse              | ❌      | Waiting on adult
-Baby Husk               | ✅      |
+Baby Husk               | •      | Complete, but consider scaling up?
 Baby Llama              | ✅      |
 Baby Llama Decor        | ✅      |
-Baby Mooshroom (Red)    | ✅      | Consider adding back horns
-Baby Mooshroom (Brown)  | ✅      | Consider adding back horns
+Baby Mooshroom (Red)    | •      | Consider adding back horns, mushrooms not consistent
+Baby Mooshroom (Brown)  | •      | Consider adding back horns, mushrooms not consistent
 Baby Mule               | ❌      | Waiting on adult
 Baby Ocelot             | ❌      | Waiting on adult
 Baby Panda              | ✅      |
@@ -170,27 +170,31 @@ Here we have the miscellaneous living entities that don't really fit into any of
 
 Entity                  | Fixed? | Notes
 :-----------------------|:------:|:-
-Bat                     | •      | Updated by Mojang, after I did T.T
-Cave Spider             | ✅      | Uses interesting UVs to get around spider/cave spider shared eye texture (fixable)
+Bat                     | •      | Updated by Mojang, needs backporting
+Cat                     | ❌      |
+Cat Collar              | ❌      |
+Cave Spider             | ✅      | Currently using ETF emissives, bright emissives setting recommended to match vanilla
 Charged Creeper Aura    | ❌      | Texture moves
 Donkey                  | ❌      | Different scale to horse and mule
 Drowned Overlay         | ❌      |
 Elder Guardian          | ❌      | Large texture
-Ghast                   | •      | Large texture
+Ghast                   | ✅      | Mostly complete, but may be tweaked in the future
 Giant                   | ❌      | Extremely large texture, very low priority
 Horse                   | ❌      | Many textures at different scaling to horse and donkey
+Husk                    | ❌      | Scaled up
 Llama Decor             | ✅      |
 Magma Cube              | ✅      | Survival only
 Mule                    | ❌      | Different scale to horse and donkey
 Phantom                 | ❌      | Changes size
 Pig Saddle              | ❌      | Inflated
 Pillager                | ✅      | Shrunk body overlay to make armor fit, could do retexturing in future?
-Player Outer Layer      | •      | Should be configurable, EMF only
-Player Slim Outer Layer | •      | Should be configurable, EMF only
+Player Outer Layer      | •      | Exists, should be configurable, EMF only
+Player Slim Outer Layer | •      | Exists, should be configurable, EMF only
 Rabbit                  | ❌      | Many textures
 Sheep Wool              | ✅      |
 Skeleton Horse          | ❌      |
 Slime                   | ✅      | Survival only
+Snow Golem              | ❌      |
 Snow Golem Pumpkin      | ❌      |
 Stray Outer             | ❌      | Inflated
 Trader Llama Decor      | ✅      |
@@ -240,34 +244,35 @@ Sign Text             | ❌      |
 
 <details> <summary>Other Entity Status</summary>
 
-Entity                      | Fixed? | Notes
-:---------------------------|:------:|:-
-Arrow                       | ❌      |
-Dragon Fireball             | ❌      |
-Elytra                      | ✅      | Model shrunk to size, but the size of the textures can't be easily modified since they use cape textures, needs more testing
-End Crystal                 | ❌      | Pretty sure this model isn't consistent, though needs more testing because it's so bouncy
-Experience Orbs             | •      | No model support yet, but textured to almost consistency
-Fireball                    | ❌      |
-Item Models                 | ❌      | Will need config support and to be disabled by default, will be a drastic overhaul to the look
-Llama Spit                  | ❌      | Not actually inconsistent, just looks oddly blocky
-Minecart With Chest         | ❌      |
-Minecart With Hopper        | ❌      |
-Minecart With Furnace       | ❌      |
-Minecart With TNT           | ❌      |
-Minecart With Command Block | ❌      |
-Minecart With Other Blocks  | ❌      |
-Spyglass Model              | ❌      |
-Shulker Bullet              | ❌      |
-Small Fireball              | ❌      |
-Spectral Arrow              | ❌      |
-Trident                     | ❌      |
-Worn Creeper Head           | ❌      |
-Worn Zombie Head            | ❌      |
-Worn Player Head            | ❌      |
-Worn Piglin Head            | ❌      |
-Worn Dragon Head            | ❌      |
-Worn Skeleton Skull         | ❌      |
-Worn Wither Skeleton Skull  | ❌      |
+Entity                          | Fixed? | Notes
+:-------------------------------|:------:|:-
+Arrow                           | ❌      |
+Dragon Fireball                 | ❌      |
+Elytra                          | ✅      | Model shrunk to size, but the size of the textures can't be easily modified since they use cape textures, needs more testing
+End Crystal                     | ❌      |
+Experience Orbs                 | •      | No model support yet, but textured to almost consistency
+Fireball                        | ❌      |
+Item Models                     | ❌      | Will need config support and to be disabled by default, will be a drastic overhaul to the look
+Llama Spit                      | ❌      | Not actually inconsistent, just looks oddly blocky
+Minecart With Chest             | ❌      |
+Minecart With Chest (Christmas) | ❌      |
+Minecart With Hopper            | ❌      |
+Minecart With Furnace           | ❌      |
+Minecart With TNT               | ❌      |
+Minecart With Command Block     | ❌      |
+Minecart With Other Blocks      | ❌      |
+Spyglass Model                  | ❌      |
+Shulker Bullet                  | ❌      |
+Small Fireball                  | ❌      |
+Spectral Arrow                  | ❌      |
+Trident                         | ❌      |
+Worn Creeper Head               | ❌      |
+Worn Zombie Head                | ❌      |
+Worn Player Head                | ❌      |
+Worn Piglin Head                | ❌      |
+Worn Dragon Head                | ❌      |
+Worn Skeleton Skull             | ❌      |
+Worn Wither Skeleton Skull      | ❌      |
 
 </details>
 
@@ -311,8 +316,21 @@ Many more inconsistent particles are missing.
 
 ### Spawner Entity Models
 
-This heading refers to the tiny entity models that spin around inside a mob spawner.
-Currently there is no way to support this, but it is something I would love to add in the future.
+This heading refers to the tiny entity models that spin around inside a mob spawner. The ability to support these was added in recent ETF updates, thanks to Traben with the new isSpawner property.
+The status list currently here is not exhaustive, most mobs will need a spawner model, however any completed ones will show up here.
+
+<details> <summary>Spawner Entity Status</summary>
+
+Spawner Entity | Fixed? | Notes
+:--------------|:------:|:-
+Blaze          | ❌      |
+Cave Spider    | ✅      |
+Silverfish     | ❌      |
+Skeleton       | ✅      |
+Spider         | ✅      |
+Zombie         | ✅      |
+
+</details>
 
 ### Fresh Animations Support?
 
