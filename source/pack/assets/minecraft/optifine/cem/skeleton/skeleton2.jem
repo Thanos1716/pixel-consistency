@@ -1,6 +1,5 @@
 {
 	"credit": "Made with Blockbench",
-	"texture": "random/entity/skeleton/skeleton2.png",
 	"textureSize": [64, 32],
 	"models": [
 		{
