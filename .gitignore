@@ -1,5 +1,6 @@
 build
 local
+wiki
 *.png~
 *.kra~
 *folder.json
