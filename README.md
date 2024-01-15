@@ -4,16 +4,16 @@
 
 ### What is this?
 
-The goal of this resourcepack is to make all textures in Minecraft have consistently sized pixels in-game.
-In my opinion, this significantly improves the look and feel of Minecraft as a whole, and lends itself to a more coherent visual style.
+For years, Minecraft's lack of respect for uniform pixel sizes has bothered me, I'm glad that Mojang are finally starting to acknowledge this with the addition of new models for the vex and bat, but they nowhere near cover everything that's inconsistent, so I've designed and tested hundreds of new models that fix exactly that!
 
+The goal of this resourcepack is to make all textures in Minecraft have consistently sized pixels in-game.
+In my opinion, this significantly improves the look and feel of Minecraft, giving it a more coherent visual style.
+<!--
 An example of the baby turtle differences is shown below:
 
-<center><img src="https://cdn.modrinth.com/data/scjjjdC9/images/744f221298bd85bffcf4d44e2ef1cbb1265cbcf9.png" alt="Difference between vanilla turtle and consistent turtle" width="100%"></center>
+<center><img src="https://cdn.modrinth.com/data/scjjjdC9/images/744f221298bd85bffcf4d44e2ef1cbb1265cbcf9.png" alt="Difference between vanilla turtle and consistent turtle" width="100%"></center>-->
 
-This project is currently in beta development at roughly 40% complete, but the majority of commonly observed inconsistencies have been fixed.
-
-There may be issues, and not all pixel inconsistencies can be, or have been fixed yet.
+This project is currently in beta development at roughly **50% complete**, and most of the commonly observed inconsistencies have been fixed.
 
 ### How do I get it to work?
 
@@ -21,8 +21,8 @@ This resourcepack is designed to work with [Fabulously Optimized](https://downlo
 
 The vast majority of the features in this pack require <strong>client mods</strong>, so whilst a few will work in vanilla, most features will only work if you have one of the following installed:
  - [Fabulously Optimized](https://download.fo) (recommended)
- - [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures) & [Entity Model Features](https://modrinth.com/mod/entity-model-features) (manual installation)
- - Any modpack including ETF & EMF on Fabric or Forge
+ - [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures), [Entity Model Features](https://modrinth.com/mod/entity-model-features) and optionally [Animatica](https://modrinth.com/mod/animatica) (manual installation)
+ - Any modpack including the above mods on Fabric or Forge
  - [Optifine](https://optifine.net/downloads) (not recommended)
 
 <strong>If you use this resourcepack with Optifine, please be aware that <ins>not all features will work</ins>, and I do not provide support for it directly.</strong>
@@ -31,14 +31,17 @@ The vast majority of the features in this pack require <strong>client mods</stro
 
 ## Features
 
-A complete list of the features found in this pack can be found [here](https://github.com/Thanos1716/pixel-consistency/wiki/features.md)
+This resourcepack currently supports around 100 new models for consistent babies, signs, banners, minecart blocks, spawner entities, and all sorts of other entities, as well as a collection of fixes to blocks, particles and GUIs too!
+
+There may be issues, and not all pixel inconsistencies can be, or have been fixed yet, but I'm always working to expand the list of possible fixes
+
+A complete list of the features found in this pack can be found on the [Wiki](https://github.com/Thanos1716/pixel-consistency/wiki/features).
+<!--
 Textures and models that are already pixel consistent in vanilla Minecraft are not listed.
+Some models found in this resourcepack aren't fully pixel consistent, due to the Z-fighting issues that can occur when rendering two textures directly over the top of each other. In future there may be an option to use fully pixel consistent models, however at present they are not included because they don't look great.-->
 
-Some models found in this resourcepack aren't fully pixel consistent, due to the Z-fighting issues that can occur when rendering two textures directly over the top of each other. In future there may be an option to use fully pixel consistent models, however at present they are not included because they don't look great.
 
-For years, Minecraft's lack of respect for uniform pixel sizes has bothered me, I'm glad that Mojang are finally starting to acknowledge this with the addition of new models for the vex and bat, but they nowhere near cover everything that's inconsistent, so here I have made a list of everything that isn't and am doing my best to fix them one by one.
-
-This project has taken too many hours, but I'm happy with how it's coming along.
+<!-- This project has taken too many hours, but I'm happy with how it's coming along. -->
 
 <!-- ### GUI -->
 <!-- The anvil hammer texture had? a double column of pixels? -->
@@ -77,13 +80,21 @@ Thanks to Traben for developing both ETF and EMF, and for being very helpful whe
 
 This resourcepack is partially inspired by [Better Vanilla Babies & Pixel Perfect Mobs](https://www.planetminecraft.com/texture-pack/better-vanilla-babies-optifine-1-14-4/) by DraminOver. No assets from that pack are used in this one.
 
+If you are a resourcepack developer and enjoy my work, I would love if you included any of my textures or models from this pack in yours. Any credit is appreciated!
+
+If you would like to upload a video showcasing this resourcepack to a third party platform like Youtube or Odysee, credit would be highly appreciated, and be sure to let me know, I might include it here!
+
 ## Support Me
 
-The best way to support me at the moment is by downloading my resourcepack!
+The easiest way to support me at the moment is by downloading my resourcepack!
 
-I don't have any donation options available, but that is something I may consider setting up in the future. If this is something you would like, please [raise an issue](https://github.com/Thanos1716/pixel-consistency/issues).
+If you would like to:
 
-If you are a resourcepack developer and enjoy my work, I would love it if you included any models from this pack in yours!
+ - Ask a question about this pack, or something related
+ - Request a commission, or
+ - Donate, to me directly
+
+please [raise an issue](https://github.com/Thanos1716/pixel-consistency/issues) on the Github page.
 
 <!--------->
 <!-- 🗶 ❌ -->
