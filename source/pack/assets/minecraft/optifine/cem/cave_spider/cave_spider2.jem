@@ -1,6 +1,7 @@
 {
 	"credit": "Made with Blockbench",
-	"textureSize": [32, 32],
+	"texture": "textures/entity/spawner/cave_spider.png",
+	"textureSize": [32, 16],
 	"models": [
 		{
 			"part": "head",
@@ -19,8 +20,8 @@
 					"invertAxis": "xy",
 					"translate": [0, 0, 0],
 					"boxes": [
-						{"coordinates": [-1.5, 2, -0.5, 3, 2, 3], "textureOffset": [20, 16]},
-						{"coordinates": [-0.5, 2.5, -1.5, 1, 1, 1], "textureOffset": [24, 26]}
+						{"coordinates": [-1.5, 2, -0.5, 3, 2, 3], "textureOffset": [10, 11]},
+						{"coordinates": [-0.5, 2.5, -1.5, 1, 1, 1], "textureOffset": [10, 5]}
 					],
 					"submodels": [
 						{
@@ -28,7 +29,7 @@
 							"invertAxis": "xy",
 							"translate": [0, 3, -1.5],
 							"boxes": [
-								{"coordinates": [-1, -1, -2, 2, 2, 2], "textureOffset": [16, 24]}
+								{"coordinates": [-1, -1, -2, 2, 2, 2], "textureOffset": [10, 7]}
 							]
 						},
 						{
@@ -41,7 +42,7 @@
 									"invertAxis": "xy",
 									"translate": [5, -2, -4.25],
 									"boxes": [
-										{"coordinates": [-0.5, -0.5, -0.5, 4, 1, 1], "textureOffset": [22, 28]}
+										{"coordinates": [-0.5, -0.5, -0.5, 4, 1, 1], "textureOffset": [0, 12]}
 									]
 								},
 								{
@@ -49,7 +50,7 @@
 									"invertAxis": "xy",
 									"translate": [5, -2, -4],
 									"boxes": [
-										{"coordinates": [-0.5, -0.5, -0.5, 4, 1, 1], "textureOffset": [22, 21]}
+										{"coordinates": [-0.5, -0.5, -0.5, 4, 1, 1], "textureOffset": [0, 8]}
 									]
 								},
 								{
@@ -82,7 +83,7 @@
 									"mirrorTexture": "u",
 									"translate": [-5, -2, -4.25],
 									"boxes": [
-										{"coordinates": [-3.5, -0.5, -0.5, 4, 1, 1], "textureOffset": [22, 30]}
+										{"coordinates": [-3.5, -0.5, -0.5, 4, 1, 1], "textureOffset": [0, 14]}
 									]
 								},
 								{
@@ -91,7 +92,7 @@
 									"mirrorTexture": "u",
 									"translate": [-5, -2, -4],
 									"boxes": [
-										{"coordinates": [-3.5, -0.5, -0.5, 4, 1, 1], "textureOffset": [22, 23]}
+										{"coordinates": [-3.5, -0.5, -0.5, 4, 1, 1], "textureOffset": [0, 10]}
 									]
 								},
 								{
