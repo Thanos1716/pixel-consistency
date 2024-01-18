@@ -1,6 +1,7 @@
 {
 	"credit": "Made with Blockbench",
-	"textureSize": [128, 64],
+	"texture": "pixel_consistency:textures/entity/head_piglin/head_piglin.png",
+	"textureSize": [64, 16],
 	"models": [
 		{
 			"part": "head",
@@ -10,8 +11,8 @@
 			"boxes": [
 				{"coordinates": [-5, 0, -4, 10, 8, 8], "textureOffset": [0, 0]},
 				{"coordinates": [-2, 0, -5, 4, 4, 1], "textureOffset": [28, 0]},
-				{"coordinates": [-3, 0, -5, 1, 2, 1], "textureOffset": [16, 17]},
-				{"coordinates": [2, 0, -5, 1, 2, 1], "textureOffset": [12, 17]}
+				{"coordinates": [-3, 0, -5, 1, 2, 1], "textureOffset": [32, 5]},
+				{"coordinates": [2, 0, -5, 1, 2, 1], "textureOffset": [28, 5]}
 			]
 		},
 		{
