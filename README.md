@@ -79,7 +79,7 @@ This resourcepack is partially inspired by [Better Vanilla Babies & Pixel Perfec
 
 ## Support Me
 
-The best way to support me at the moment is by downloading my resourcepack!
+The best way to support me at the moment is by downloading and following my resourcepack!
 
 I don't have any donation options available, but that is something I may consider setting up in the future. If this is something you would like, please [raise an issue](https://github.com/Thanos1716/pixel-consistency/issues).
 
