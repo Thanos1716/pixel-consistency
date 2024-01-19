@@ -1,6 +1,6 @@
 {
 	"credit": "Made with Blockbench",
-	"texture": "textures/entity/spawner/silverfish.png",
+	"texture": "pixel_consistency:textures/entity/silverfish/spawner.png",
 	"textureSize": [64, 32],
 	"models": [
 		{

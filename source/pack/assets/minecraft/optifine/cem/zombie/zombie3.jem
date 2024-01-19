@@ -1,6 +1,6 @@
 {
 	"credit": "Made with Blockbench",
-	"texture": "textures/entity/spawner/zombie.png",
+	"texture": "pixel_consistency:textures/entity/zombie/spawner.png",
 	"textureSize": [16, 16],
 	"models": [
 		{
