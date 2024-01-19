@@ -26,9 +26,9 @@
 						{
 							"id": "head2",
 							"invertAxis": "xy",
-							"translate": [0, 6, -3],
+							"translate": [0, 4, -3],
 							"boxes": [
-								{"coordinates": [-2, -4, -4, 4, 4, 4], "textureOffset": [0, 14]}
+								{"coordinates": [-2, -2, -4, 4, 4, 4], "textureOffset": [0, 14]}
 							]
 						},
 						{
