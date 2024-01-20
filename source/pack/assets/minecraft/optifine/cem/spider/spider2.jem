@@ -1,6 +1,7 @@
 {
 	"credit": "Made with Blockbench",
-	"textureSize": [64, 64],
+	"texture": "pixel_consistency:textures/entity/spider/spawner.png",
+	"textureSize": [32, 16],
 	"models": [
 		{
 			"part": "head",
@@ -19,8 +20,8 @@
 					"invertAxis": "xy",
 					"translate": [0, 0, 0],
 					"boxes": [
-						{"coordinates": [-1.5, 2, -0.5, 3, 2, 3], "textureOffset": [42, 38]},
-						{"coordinates": [-0.5, 2.5, -1.5, 1, 1, 1], "textureOffset": [42, 32]}
+						{"coordinates": [-1.5, 2, -0.5, 3, 2, 3], "textureOffset": [10, 11]},
+						{"coordinates": [-0.5, 2.5, -1.5, 1, 1, 1], "textureOffset": [10, 5]}
 					],
 					"submodels": [
 						{
@@ -28,7 +29,7 @@
 							"invertAxis": "xy",
 							"translate": [0, 3, -1.5],
 							"boxes": [
-								{"coordinates": [-1, -1, -2, 2, 2, 2], "textureOffset": [42, 34]}
+								{"coordinates": [-1, -1, -2, 2, 2, 2], "textureOffset": [10, 7]}
 							]
 						},
 						{
@@ -41,7 +42,7 @@
 									"invertAxis": "xy",
 									"translate": [5, -2, -4.25],
 									"boxes": [
-										{"coordinates": [-0.5, -0.5, -0.5, 4, 1, 1], "textureOffset": [54, 44]}
+										{"coordinates": [-0.5, -0.5, -0.5, 4, 1, 1], "textureOffset": [0, 12]}
 									]
 								},
 								{
@@ -49,7 +50,7 @@
 									"invertAxis": "xy",
 									"translate": [5, -2, -4],
 									"boxes": [
-										{"coordinates": [-0.5, -0.5, -0.5, 4, 1, 1], "textureOffset": [54, 40]}
+										{"coordinates": [-0.5, -0.5, -0.5, 4, 1, 1], "textureOffset": [0, 8]}
 									]
 								},
 								{
@@ -57,7 +58,7 @@
 									"invertAxis": "xy",
 									"translate": [5, -2, -3.75],
 									"boxes": [
-										{"coordinates": [-0.5, -0.5, -0.5, 4, 1, 1], "textureOffset": [54, 36]}
+										{"coordinates": [-0.5, -0.5, -0.5, 4, 1, 1], "textureOffset": [0, 4]}
 									]
 								},
 								{
@@ -65,7 +66,7 @@
 									"invertAxis": "xy",
 									"translate": [5, -2, -3.5],
 									"boxes": [
-										{"coordinates": [-0.5, -0.5, -0.5, 4, 1, 1], "textureOffset": [54, 32]}
+										{"coordinates": [-0.5, -0.5, -0.5, 4, 1, 1], "textureOffset": [0, 0]}
 									]
 								}
 							]
@@ -82,7 +83,7 @@
 									"mirrorTexture": "u",
 									"translate": [-5, -2, -4.25],
 									"boxes": [
-										{"coordinates": [-3.5, -0.5, -0.5, 4, 1, 1], "textureOffset": [54, 46]}
+										{"coordinates": [-3.5, -0.5, -0.5, 4, 1, 1], "textureOffset": [0, 14]}
 									]
 								},
 								{
@@ -91,7 +92,7 @@
 									"mirrorTexture": "u",
 									"translate": [-5, -2, -4],
 									"boxes": [
-										{"coordinates": [-3.5, -0.5, -0.5, 4, 1, 1], "textureOffset": [54, 42]}
+										{"coordinates": [-3.5, -0.5, -0.5, 4, 1, 1], "textureOffset": [0, 10]}
 									]
 								},
 								{
@@ -100,7 +101,7 @@
 									"mirrorTexture": "u",
 									"translate": [-5, -2, -3.75],
 									"boxes": [
-										{"coordinates": [-3.5, -0.5, -0.5, 4, 1, 1], "textureOffset": [54, 38]}
+										{"coordinates": [-3.5, -0.5, -0.5, 4, 1, 1], "textureOffset": [0, 6]}
 									]
 								},
 								{
@@ -109,7 +110,7 @@
 									"mirrorTexture": "u",
 									"translate": [-5, -2, -3.5],
 									"boxes": [
-										{"coordinates": [-3.5, -0.5, -0.5, 4, 1, 1], "textureOffset": [54, 34]}
+										{"coordinates": [-3.5, -0.5, -0.5, 4, 1, 1], "textureOffset": [0, 2]}
 									]
 								}
 							]

@@ -1,6 +1,7 @@
 {
 	"credit": "Made with Blockbench",
-	"textureSize": [64, 64],
+	"texture": "pixel_consistency:textures/entity/cow/baby.png",
+	"textureSize": [32, 32],
 	"models": [
 		{
 			"part": "head",
@@ -20,7 +21,7 @@
 					"invertAxis": "xy",
 					"translate": [0, 23, -17],
 					"boxes": [
-						{"coordinates": [-3, -6, 6, 6, 9, 5], "textureOffset": [42, 0]}
+						{"coordinates": [-3, -6, 6, 6, 9, 5], "textureOffset": [0, 0]}
 					],
 					"submodels": [
 						{
@@ -34,7 +35,7 @@
 									"invertAxis": "xy",
 									"translate": [0, 0.5, -5],
 									"boxes": [
-										{"coordinates": [-3, -2, -4, 6, 6, 4], "textureOffset": [44, 38]}
+										{"coordinates": [-3, -2, -4, 6, 6, 4], "textureOffset": [0, 14]}
 									]
 								},
 								{
@@ -42,7 +43,7 @@
 									"invertAxis": "xy",
 									"translate": [2, -3.5, 2],
 									"boxes": [
-										{"coordinates": [-1, -6, -1, 2, 6, 2], "textureOffset": [48, 22]}
+										{"coordinates": [-1, -6, -1, 2, 6, 2], "textureOffset": [24, 0]}
 									]
 								},
 								{
@@ -50,7 +51,7 @@
 									"invertAxis": "xy",
 									"translate": [-2, -3.5, 2],
 									"boxes": [
-										{"coordinates": [-1, -6, -1, 2, 6, 2], "textureOffset": [56, 22]}
+										{"coordinates": [-1, -6, -1, 2, 6, 2], "textureOffset": [24, 16]}
 									]
 								},
 								{
@@ -58,7 +59,7 @@
 									"invertAxis": "xy",
 									"translate": [2, -3.5, -3.5],
 									"boxes": [
-										{"coordinates": [-1, -6, -0.5, 2, 6, 2], "textureOffset": [48, 30]}
+										{"coordinates": [-1, -6, -0.5, 2, 6, 2], "textureOffset": [24, 8]}
 									]
 								},
 								{
@@ -66,7 +67,7 @@
 									"invertAxis": "xy",
 									"translate": [-2, -3.5, -3.5],
 									"boxes": [
-										{"coordinates": [-1, -6, -0.5, 2, 6, 2], "textureOffset": [56, 30]}
+										{"coordinates": [-1, -6, -0.5, 2, 6, 2], "textureOffset": [24, 24]}
 									]
 								}
 							]

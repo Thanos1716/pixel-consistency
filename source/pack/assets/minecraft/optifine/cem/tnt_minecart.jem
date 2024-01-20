@@ -54,10 +54,9 @@
 				},
 				{
 					"id": "block",
-					"texture": "tnt.png",
 					"invertAxis": "xy",
 					"translate": [0, 1, 9],
-					"texture": "tnt.png",
+					"texture": "pixel_consistency:textures/entity/tnt_minecart/tnt.png",
 					"boxes": [
 						{"coordinates": [-6, 2.5, -15, 12, 12, 12], "textureOffset": [0, 0], "sizeAdd": 0.1}
 					]

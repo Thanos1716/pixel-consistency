@@ -1,0 +1,164 @@
+{
+	"credit": "Made with Blockbench",
+	"textureSize": [64, 32],
+	"models": [
+		{
+			"part": "segment1",
+			"id": "segment1",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0]
+		},
+		{
+			"part": "segment2",
+			"id": "segment2",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0]
+		},
+		{
+			"part": "segment3",
+			"id": "segment3",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0]
+		},
+		{
+			"part": "segment4",
+			"id": "segment4",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0]
+		},
+		{
+			"part": "segment5",
+			"id": "segment5",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0]
+		},
+		{
+			"part": "segment6",
+			"id": "segment6",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0]
+		},
+		{
+			"part": "segment7",
+			"id": "segment7",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0]
+		},
+		{
+			"part": "segment8",
+			"id": "segment8",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0]
+		},
+		{
+			"part": "core",
+			"id": "core",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0],
+			"submodels": [
+				{
+					"id": "scale",
+					"invertAxis": "xy",
+					"translate": [0, 0, 0],
+					"submodels": [
+						{
+							"id": "pivot",
+							"invertAxis": "xy",
+							"translate": [0, 24, 0],
+							"submodels": [
+								{
+									"id": "segment_1",
+									"invertAxis": "xy",
+									"translate": [0, 0, 0],
+									"boxes": [
+										{"coordinates": [-4, -17, -4, 8, 1, 8], "textureOffset": [0, 0]}
+									]
+								},
+								{
+									"id": "segment_2",
+									"invertAxis": "xy",
+									"translate": [0, 0, 0],
+									"boxes": [
+										{"coordinates": [-4, -18, -4, 8, 1, 8], "textureOffset": [0, 1]}
+									]
+								},
+								{
+									"id": "segment_3",
+									"invertAxis": "xy",
+									"translate": [0, 0, 0],
+									"boxes": [
+										{"coordinates": [-4, -19, -4, 8, 1, 8], "textureOffset": [24, 10]}
+									]
+								},
+								{
+									"id": "segment_4",
+									"invertAxis": "xy",
+									"translate": [0, 0, 0],
+									"boxes": [
+										{"coordinates": [-4, -20, -4, 8, 1, 8], "textureOffset": [24, 19]}
+									]
+								},
+								{
+									"id": "segment_5",
+									"invertAxis": "xy",
+									"translate": [0, 0, 0],
+									"boxes": [
+										{"coordinates": [-4, -21, -4, 8, 1, 8], "textureOffset": [0, 4]}
+									]
+								},
+								{
+									"id": "segment_6",
+									"invertAxis": "xy",
+									"translate": [0, 0, 0],
+									"boxes": [
+										{"coordinates": [-4, -22, -4, 8, 1, 8], "textureOffset": [0, 5]}
+									]
+								},
+								{
+									"id": "segment_7",
+									"invertAxis": "xy",
+									"translate": [0, 0, 0],
+									"boxes": [
+										{"coordinates": [-4, -23, -4, 8, 1, 8], "textureOffset": [0, 6]}
+									]
+								},
+								{
+									"id": "segment_8",
+									"invertAxis": "xy",
+									"translate": [0, 0, 0],
+									"boxes": [
+										{"coordinates": [-4, -24, -4, 8, 1, 8], "textureOffset": [0, 7]}
+									]
+								},
+								{
+									"id": "core2",
+									"invertAxis": "xy",
+									"translate": [0, 0, 0],
+									"boxes": [
+										{"coordinates": [-2, -22, -2, 4, 4, 4], "textureOffset": [0, 16]}
+									]
+								}
+							]
+						}
+					]
+				}
+			],
+			"animations": [
+				{
+					"var.scale": 1,
+					"segment_1.ty": "segment1.ty/var.scale",
+					"segment_2.ty": "segment2.ty/var.scale",
+					"segment_3.ty": "segment3.ty/var.scale",
+					"segment_4.ty": "segment4.ty/var.scale",
+					"segment_5.ty": "segment5.ty/var.scale",
+					"segment_6.ty": "segment6.ty/var.scale",
+					"segment_7.ty": "segment7.ty/var.scale",
+					"segment_8.ty": "segment8.ty/var.scale",
+					"scale.sx": "var.scale",
+					"scale.sy": "var.scale",
+					"scale.sz": "var.scale"
+				}
+			]
+		}
+	]
+}

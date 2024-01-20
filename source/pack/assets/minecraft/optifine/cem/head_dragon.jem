@@ -1,6 +1,6 @@
 {
 	"credit": "Made with Blockbench",
-	"texture": "textures/entity/enderdragon/head_dragon.png",
+	"texture": "pixel_consistency:textures/entity/head_dragon/head_dragon.png",
 	"textureSize": [64, 64],
 	"models": [
 		{
@@ -16,8 +16,10 @@
 			],
 			"submodels": [
 				{
+					"id": "head_sub_0",
 					"invertAxis": "xy",
 					"mirrorTexture": "u",
+					"translate": [0, 0, 0],
 					"boxes": [
 						{"coordinates": [2, 9, -14, 2, 2, 4], "textureOffset": [0, 24]},
 						{"coordinates": [2, 14, 0, 2, 3, 4], "textureOffset": [0, 0]}
