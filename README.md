@@ -10,6 +10,9 @@
 
 Everyone's making pixel consistent textures these days, but what about *ALL* the textures?
 
+### NOTE
+The latest release **REQUIRES ETF v5.2.1 and EMF v1.2.3** or up, due to many bug fixes and a couple of new features. If you aren't using the latest version of these, or Fabulously Optimized 5.8.0.beta.5 or up, then you may have to update to avoid crashes.
+
 ### What's NEW?
 
 The latest release added support for a whole bunch of things, and most importantly a new [Discord](https://discord.gg/x8n6RmP78V) where you can hang out or offer your suggestions!
@@ -17,6 +20,8 @@ The latest release added support for a whole bunch of things, and most important
 Just a few of the new features added in this update include support for the ghast, minecart blocks, and **spawner entities**:
 
 <center><img src="https://cdn.modrinth.com/data/scjjjdC9/images/a72c09cf40f631a4737a375fca922e0c84990302.png" alt="Pixel consistent spawner entity collage" width="100%"></center>
+
+To see the rest, check out the [changelog](https://modrinth.com/resourcepack/pixel-consistency/changelog), or for everything, the [wiki](https://github.com/Thanos1716/pixel-consistency/wiki/features)
 
 ### What is this?
 
@@ -37,19 +42,20 @@ The vast majority of the features in this pack require <strong>client mods</stro
  - [Fabulously Optimized](https://download.fo) (recommended)
  - [ETF](https://modrinth.com/mod/entitytexturefeatures) and [EMF](https://modrinth.com/mod/entity-model-features) (manual installation)
  - Any modpack including the above mods on Fabric or Forge
- - [Optifine](https://optifine.net/downloads) (not recommended)
 
 If doing manual installation, you can also optionally include [Animatica](https://modrinth.com/mod/animatica) for some animated textures. ([unofficial Forge port](https://www.curseforge.com/minecraft/mc-mods/animaticareforged))
 
-<strong>If you use this resource pack with Optifine, please be aware that <ins>not all features will work</ins>, and I do not provide support for it directly.</strong>
+<strong>If you use this resource pack with Optifine, please be aware that <ins>not all features will work, and things will be broken</ins> as I do not provide support for it directly.</strong>
 
 <!-- Either the [Modrinth Launcher](https://modrinth.com/app) or [Prism Launcher](https://prismlauncher.org/download/) are recommended. -->
 
 ## Features
 
-This resource pack currently supports around 100 new models for consistent babies, signs, banners, minecart blocks, spawner entities, and all sorts of other entities, as well as a collection of fixes to blocks, particles and GUIs too!
+This resource pack currently supports around **100 new models** for consistent babies, signs, banners, minecart blocks, spawner entities, and all sorts of other entities, as well as a collection of fixes to blocks, particles and GUIs too!
 
 There may be issues, and not all pixel inconsistencies can be, or have been fixed yet, but I'm always working to expand the list of possible fixes
+
+This resource pack may also include support for mods. Currently supported mods can be found [here](https://github.com/Thanos1716/pixel-consistency/wiki/mod-support), and if you would like me to support a mod, feel free to raise an issue or ask in the Discord
 
 A complete list of the features found in this pack can be found on the [Wiki](https://github.com/Thanos1716/pixel-consistency/wiki/features).
 <!--
@@ -61,7 +67,7 @@ Some models found in this resource pack aren't fully pixel consistent, due to th
 
 ### Fresh Animations Support?
 
-Fresh animations is not yet supported because of the drastic remodel of most edited mobs, however I am planning on adding support for it soon. This will likely take the form of a separate resourcepack.
+Fresh Animations is not yet supported because of the drastic remodel of most edited mobs, however I am planning on adding support for it soon. This will likely take the form of a separate resourcepack.
 
 ## Links
 
