@@ -62,6 +62,10 @@ A complete list of the features found in this pack can be found on the [Wiki](ht
 Textures and models that are already pixel consistent in vanilla Minecraft are not listed.
 Some models found in this resource pack aren't fully pixel consistent, due to the Z-fighting issues that can occur when rendering two textures directly over the top of each other. In future there may be an option to use fully pixel consistent models, however at present they are not included because they don't look great.-->
 
+A quick taster of some of what this pack includes:
+<center><img src="https://cdn.modrinth.com/data/scjjjdC9/images/8f030ffec9811eb2c2150b5e44083eeb19a02546.png" alt="Pixel consistent baby mobs" width="60%"></center>
+
+More images can be found in the gallery!
 
 <!-- This project has taken too many hours, but I'm happy with how it's coming along. -->
 
@@ -115,7 +119,7 @@ If you would like to:
  - Request a commission, or
  - Donate, to me directly
 
-please [raise an issue](https://github.com/Thanos1716/pixel-consistency/issues) on the Github page.
+please either join the [Discord](https://discord.gg/x8n6RmP78V) or [raise an issue](https://github.com/Thanos1716/pixel-consistency/issues) on the Github page.
 
 <!--------->
 <!-- 🗶 ❌ -->
