@@ -1,6 +1,5 @@
 {
 	"credit": "Made with Blockbench",
-	"texture": "pixel_consistency:textures/entity/cow/baby.png",
 	"textureSize": [32, 32],
 	"models": [
 		{
@@ -35,7 +34,9 @@
 									"invertAxis": "xy",
 									"translate": [0, 0.5, -5],
 									"boxes": [
-										{"coordinates": [-3, -2, -4, 6, 6, 4], "textureOffset": [0, 14]}
+										{"coordinates": [-3, -2, -4, 6, 6, 4], "textureOffset": [0, 14]},
+										{"coordinates": [-3.01, 3, -2, 1, 2, 1], "textureOffset": [16, 15]},
+										{"coordinates": [2.01, 3, -2, 1, 2, 1], "textureOffset": [0, 15]}
 									]
 								},
 								{

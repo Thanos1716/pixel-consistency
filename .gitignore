@@ -1,7 +1,10 @@
 build
+clone
 local
 wiki
 *.png~
 *.kra~
 *folder.json
 *.png-autosave.kra
+*.py
+__pycache__
