@@ -284,5 +284,5 @@
             ]
         }
     ],
-    "texture": "pixel_consistency:textures/entity/cow/baby.png"
+    "texture": "textures/pixel_consistency/entity/cow/baby.png"
 }

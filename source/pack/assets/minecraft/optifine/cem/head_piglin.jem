@@ -1,6 +1,6 @@
 {
 	"credit": "Made with Blockbench",
-	"texture": "pixel_consistency:textures/entity/head_piglin/head_piglin.png",
+	"texture": "textures/pixel_consistency/entity/head_piglin/head_piglin.png",
 	"textureSize": [64, 16],
 	"models": [
 		{

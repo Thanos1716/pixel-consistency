@@ -1,5 +1,6 @@
 {
     "credit": "Made by Thanos for Pixel Consistency, https://modrinth.com/resourcepack/pixel-consistency",
+    "texture": "textures/pixel_consistency/entity/armor_stand/small.png",
     "textureSize": [
         32,
         32
@@ -377,6 +378,5 @@
                 0
             ]
         }
-    ],
-    "texture": "pixel_consistency:textures/entity/armor_stand/small"
+    ]
 }

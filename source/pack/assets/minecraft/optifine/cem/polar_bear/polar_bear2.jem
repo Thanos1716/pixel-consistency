@@ -1,6 +1,6 @@
 {
 	"credit": "Made with Blockbench",
-	"texture": "pixel_consistency:textures/entity/polar_bear/baby.png",
+	"texture": "textures/pixel_consistency/entity/polar_bear/baby.png",
 	"textureSize": [64, 32],
 	"models": [
 		{

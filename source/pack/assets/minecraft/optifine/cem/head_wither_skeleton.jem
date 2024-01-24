@@ -1,6 +1,6 @@
 {
 	"credit": "Made with Blockbench",
-	"texture": "pixel_consistency:textures/entity/head_wither_skeleton/head_wither_skeleton.png",
+	"texture": "textures/pixel_consistency/entity/head_wither_skeleton/head_wither_skeleton.png",
 	"textureSize": [64, 32],
 	"models": [
 		{
