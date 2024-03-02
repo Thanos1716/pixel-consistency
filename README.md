@@ -52,6 +52,7 @@ If doing manual installation, you can also optionally include [Animatica](https:
 ## Features
 
 This resource pack currently supports around **100 new models** for consistent babies, signs, banners, minecart blocks, spawner entities, and all sorts of other entities, as well as a collection of fixes to blocks, particles and GUIs too! For a full list of features, be sure to check out the [Wiki](https://github.com/Thanos1716/pixel-consistency/wiki/features)
+
 There may be issues, and not all pixel inconsistencies can be, or have been fixed yet, but I'm always working to expand the list of possible fixes
 
 This resource pack may also include support for mods. Currently supported mods can be found [here](https://github.com/Thanos1716/pixel-consistency/wiki/mod-support), and if you would like me to support a mod, feel free to raise an issue or ask in the Discord
