@@ -1,7 +1,6 @@
 {
 	"credit": "Made with Blockbench",
-	"texture": "textures/pixel_consistency/entity/rabbit/brown.png",
-	"textureSize": [64, 32],
+	"textureSize": [32, 32],
 	"models": [
 		{
 			"part": "head",
@@ -53,8 +52,8 @@
 											"invertAxis": "xy",
 											"translate": [0, -1.5, -7],
 											"boxes": [
-												{"coordinates": [-1.5, 0, -3, 3, 3, 3], "textureOffset": [34, 2]},
-												{"coordinates": [-0.5, 0.5, -3.5, 1, 1, 1], "textureOffset": [32, 9]}
+												{"coordinates": [-1.5, 0, -3, 3, 3, 3], "textureOffset": [14, 0]},
+												{"coordinates": [-0.5, 0.5, -3.5, 1, 1, 1], "textureOffset": [12, 7]}
 											]
 										},
 										{
@@ -67,7 +66,7 @@
 											"invertAxis": "xy",
 											"translate": [0, -1.5, -7],
 											"boxes": [
-												{"coordinates": [-1.75, 3, -2, 1, 3, 2], "textureOffset": [57, 0]}
+												{"coordinates": [-1.75, 3, -2, 1, 2, 2], "textureOffset": [14, 7]}
 											]
 										},
 										{
@@ -75,7 +74,7 @@
 											"invertAxis": "xy",
 											"translate": [0, -1.5, -7],
 											"boxes": [
-												{"coordinates": [0.75, 3, -2, 1, 3, 2], "textureOffset": [51, 0]}
+												{"coordinates": [0.75, 3, -2, 1, 2, 2], "textureOffset": [8, 7]}
 											]
 										},
 										{
@@ -83,24 +82,24 @@
 											"invertAxis": "xy",
 											"translate": [0, 0, 0],
 											"boxes": [
-												{"coordinates": [-2, -4, -6, 4, 4, 6], "textureOffset": [4, 4]},
-												{"coordinates": [-1, -3.75, -0.5, 2, 2, 2], "textureOffset": [52, 6]}
+												{"coordinates": [-1.5, -4, -4, 3, 3, 4], "textureOffset": [0, 0], "sizeAdd": 0.02},
+												{"coordinates": [-1, -3.75, -0.5, 2, 2, 2], "textureOffset": [0, 20], "sizeAdd": 0.02}
 											]
 										},
 										{
 											"id": "left_arm2",
 											"invertAxis": "xy",
-											"translate": [-1.5, -4, -8.5],
+											"translate": [-1.1, -5, -8.5],
 											"boxes": [
-												{"coordinates": [-0.5, -4, -0.5, 1, 4, 1], "textureOffset": [9, 16]}
+												{"coordinates": [-0.5, -3, -0.5, 1, 3, 1], "textureOffset": [4, 7]}
 											]
 										},
 										{
 											"id": "right_arm2",
 											"invertAxis": "xy",
-											"translate": [1.5, -4, -8.5],
+											"translate": [1.1, -5, -8.5],
 											"boxes": [
-												{"coordinates": [-0.5, -4, -0.5, 1, 4, 1], "textureOffset": [1, 16]}
+												{"coordinates": [-0.5, -3, -0.5, 1, 3, 1], "textureOffset": [0, 7]}
 											]
 										},
 										{
@@ -108,7 +107,7 @@
 											"invertAxis": "xy",
 											"translate": [-3, 0, -4.5],
 											"boxes": [
-												{"coordinates": [0, -3.5, -0.25, 1, 3, 4], "textureOffset": [31, 16]}
+												{"coordinates": [0.5, -3.5, 0.75, 1, 2, 3], "textureOffset": [8, 11]}
 											]
 										},
 										{
@@ -116,7 +115,7 @@
 											"invertAxis": "xy",
 											"translate": [3, 0, -4.5],
 											"boxes": [
-												{"coordinates": [-1, -3.5, -0.25, 1, 3, 4], "textureOffset": [17, 16]}
+												{"coordinates": [-1.5, -3.5, 0.75, 1, 2, 3], "textureOffset": [0, 11]}
 											]
 										},
 										{
@@ -124,7 +123,7 @@
 											"invertAxis": "xy",
 											"translate": [-3, 1.5, -2.8],
 											"boxes": [
-												{"coordinates": [0, -5.5, -1.7, 1, 1, 4], "textureOffset": [29, 27]}
+												{"coordinates": [0.5, -5.5, -0.7, 1, 1, 3], "textureOffset": [8, 16]}
 											]
 										},
 										{
@@ -132,7 +131,7 @@
 											"invertAxis": "xy",
 											"translate": [3, 1.5, -2.8],
 											"boxes": [
-												{"coordinates": [-1, -5.5, -1.7, 1, 1, 4], "textureOffset": [11, 27]}
+												{"coordinates": [-1.5, -5.5, -0.7, 1, 1, 3], "textureOffset": [0, 16]}
 											]
 										}
 									]
@@ -144,68 +143,68 @@
 			],
 			"animations": [
 				{
-					"var.scale": "5/3",
+					"var.scale": "5/2",
 					"rotate_back.rx": "-body.rx",
 					"head2.rx": "head.rx",
 					"head2.ry": "head.ry",
 					"head2.rz": "head.rz",
 					"head2.tx": "head.tx",
-					"head2.ty": "head.ty - 16",
-					"head2.tz": "head.tz - 7.75",
+					"head2.ty": "head.ty - 14.5",
+					"head2.tz": "head.tz - 7.25",
 					"left_ear2.rx": "left_ear.rx",
 					"left_ear2.ry": "left_ear.ry",
 					"left_ear2.rz": "left_ear.rz",
 					"left_ear2.tx": "left_ear.tx",
-					"left_ear2.ty": "left_ear.ty - 16",
-					"left_ear2.tz": "left_ear.tz - 7.75",
+					"left_ear2.ty": "left_ear.ty - 14.5",
+					"left_ear2.tz": "left_ear.tz - 7.25",
 					"right_ear2.rx": "right_ear.rx",
 					"right_ear2.ry": "right_ear.ry",
 					"right_ear2.rz": "right_ear.rz",
 					"right_ear2.tx": "right_ear.tx",
-					"right_ear2.ty": "right_ear.ty - 16",
-					"right_ear2.tz": "right_ear.tz - 7.75",
+					"right_ear2.ty": "right_ear.ty - 14.5",
+					"right_ear2.tz": "right_ear.tz - 7.25",
 					"body2.rx": "body.rx",
 					"body2.ry": "body.ry",
 					"body2.rz": "body.rz",
 					"body2.tx": "body.tx",
 					"body2.ty": "body.ty - 19",
-					"body2.tz": "body.tz - 11",
+					"body2.tz": "body.tz - 12",
 					"left_arm2.rx": "left_arm.rx",
 					"left_arm2.ry": "left_arm.ry",
 					"left_arm2.rz": "left_arm.rz",
-					"left_arm2.tx": "left_arm.tx - 1.5",
-					"left_arm2.ty": "left_arm.ty - 15.5",
-					"left_arm2.tz": "left_arm.tz - 8.5",
+					"left_arm2.tx": "left_arm.tx - 1.9",
+					"left_arm2.ty": "left_arm.ty - 14.75",
+					"left_arm2.tz": "left_arm.tz - 7.7",
 					"right_arm2.rx": "right_arm.rx",
 					"right_arm2.ry": "right_arm.ry",
 					"right_arm2.rz": "right_arm.rz",
-					"right_arm2.tx": "right_arm.tx + 1.5",
-					"right_arm2.ty": "right_arm.ty - 15.5",
-					"right_arm2.tz": "right_arm.tz - 8.5",
+					"right_arm2.tx": "right_arm.tx + 1.9",
+					"right_arm2.ty": "right_arm.ty - 14.75",
+					"right_arm2.tz": "right_arm.tz - 7.7",
 					"left_thigh2.rx": "left_thigh.rx",
 					"left_thigh2.ry": "left_thigh.ry",
 					"left_thigh2.rz": "left_thigh.rz",
 					"left_thigh2.tx": "left_thigh.tx",
 					"left_thigh2.ty": "left_thigh.ty - 18",
-					"left_thigh2.tz": "left_thigh.tz - 10",
+					"left_thigh2.tz": "left_thigh.tz - 11",
 					"right_thigh2.rx": "right_thigh.rx",
 					"right_thigh2.ry": "right_thigh.ry",
 					"right_thigh2.rz": "right_thigh.rz",
 					"right_thigh2.tx": "right_thigh.tx",
 					"right_thigh2.ty": "right_thigh.ty - 18",
-					"right_thigh2.tz": "right_thigh.tz - 10",
+					"right_thigh2.tz": "right_thigh.tz - 11",
 					"left_foot2.rx": "left_foot.rx",
 					"left_foot2.ry": "left_foot.ry",
 					"left_foot2.rz": "left_foot.rz",
 					"left_foot2.tx": "left_foot.tx",
 					"left_foot2.ty": "left_foot.ty - 18",
-					"left_foot2.tz": "left_foot.tz - 10",
+					"left_foot2.tz": "left_foot.tz - 11",
 					"right_foot2.rx": "right_foot.rx",
 					"right_foot2.ry": "right_foot.ry",
 					"right_foot2.rz": "right_foot.rz",
 					"right_foot2.tx": "right_foot.tx",
 					"right_foot2.ty": "right_foot.ty - 18",
-					"right_foot2.tz": "right_foot.tz - 10",
+					"right_foot2.tz": "right_foot.tz - 11",
 					"scale.sx": "var.scale",
 					"scale.sy": "var.scale",
 					"scale.sz": "var.scale"
