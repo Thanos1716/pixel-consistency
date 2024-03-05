@@ -36,7 +36,7 @@ This project is currently in beta development at roughly **60% complete**, and m
 
 This resource pack takes advantage of features provided by the [ETF](https://modrinth.com/mod/entitytexturefeatures) and [EMF](https://modrinth.com/mod/entity-model-features) mods.
 
-[Fabulously Optimized](https://download.fo), an Optifine backwards-compatible Fabric based modpack is recommended for most users in order to make this pack work (it includes ETF and EMF).
+[Fabulously Optimized](https://download.fo), an OptiFine backwards-compatible Fabric based modpack is recommended for most users in order to make this pack work (it includes ETF and EMF).
 
 The vast majority of the features in this pack require <strong>client mods</strong>, so whilst a few will work in vanilla, most features will only work if you have one of the following installed:
  - [Fabulously Optimized](https://download.fo) (recommended)
@@ -45,7 +45,7 @@ The vast majority of the features in this pack require <strong>client mods</stro
 
 If doing manual installation, you can also optionally include [Animatica](https://modrinth.com/mod/animatica) for some animated textures. ([unofficial Forge port](https://www.curseforge.com/minecraft/mc-mods/animaticareforged))
 
-<strong>If you use this resource pack with Optifine, please be aware that <ins>not all features will work, and things will be broken</ins> as I do not provide support for it directly.</strong>
+<strong>If you use this resource pack with OptiFine, please be aware that <ins>not all features will work, and things will be broken</ins> as I do not provide support for it directly.</strong>
 
 <!-- Either the [Modrinth Launcher](https://modrinth.com/app) or [Prism Launcher](https://prismlauncher.org/download/) are recommended. -->
 
