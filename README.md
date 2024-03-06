@@ -15,7 +15,7 @@ The latest release **REQUIRES ETF v5.2.1 and EMF v1.2.3** or up, due to many bug
 
 ### What's NEW?
 
-The latest release added support for a whole bunch of things, and most importantly a new [Discord](https://discord.gg/x8n6RmP78V) where you can hang out or offer your suggestions!
+The latest release added support for a whole bunch of things, and most importantly a new [Discord server](https://discord.gg/x8n6RmP78V) where you can hang out or offer your suggestions!
 
 Just a few of the new features added in this update include support for the ghast, minecart blocks, and **spawner entities**:
 
@@ -74,7 +74,7 @@ If this pack interests you, come and join my [Discord server](https://discord.gg
 
 This project is being hosted on [Modrinth](https://modrinth.com/resourcepack/pixel-consistency) and it's source can be found on [Github](https://github.com/Thanos1716/pixel-consistency).
 If you would like to learn more about the pack,
-check out the [Wiki](https://github.com/Thanos1716/pixel-consistency/wiki)
+check out the [wiki](https://github.com/Thanos1716/pixel-consistency/wiki)
 
 If you have:
 
