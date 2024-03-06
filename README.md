@@ -82,7 +82,7 @@ If you have:
  - Found a broken texture or model in this pack, or
  - Would like to request a feature
 
-please raise an issue on the [issues](https://github.com/Thanos1716/pixel-consistency/issues) page.
+please raise an issue on the [issues](https://github.com/Thanos1716/pixel-consistency/issues/new) page.
 
 ### Curseforge
 
@@ -103,15 +103,15 @@ Note that the license CC0-1.0 applies to all of the models and most of the textu
 
 Thanks to Traben for developing both ETF and EMF, and for being very helpful when asking questions about CEM.
 
-This resourcepack is partially inspired by [Better Vanilla Babies & Pixel Perfect Mobs](https://www.planetminecraft.com/texture-pack/better-vanilla-babies-optifine-1-14-4/) by DraminOver. No assets from that pack are used in this one.
+This resource pack is partially inspired by [Better Vanilla Babies & Pixel Perfect Mobs](https://www.planetminecraft.com/texture-pack/better-vanilla-babies-optifine-1-14-4/) by DraminOver. No assets from that pack are used in this one.
 
-If you are a resourcepack developer and enjoy my work, I would love if you included any of my textures or models from this pack in yours. Any credit is appreciated!
+If you are a resource pack developer and enjoy my work, I would love if you included any of my textures or models from this pack in yours. Any credit is appreciated!
 
-If you would like to upload a video showcasing this resourcepack to a third party platform like Youtube or Odysee, credit would be highly appreciated, and be sure to let me know, I might include it here!
+If you would like to upload a video showcasing this resource pack to a third party platform like Youtube or Odysee, credit would be highly appreciated, and be sure to let me know, I might include it here!
 
 ## Support Me
 
-The best way to support me at the moment is by downloading and following my resourcepack!
+The best way to support me at the moment is by downloading and following my resource pack!
 
 If you would like to:
 
