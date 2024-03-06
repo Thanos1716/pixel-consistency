@@ -34,11 +34,7 @@ This project is currently in beta development at roughly **60% complete**, and m
 
 ### How do I get it to work?
 
-This resource pack takes advantage of features provided by the [ETF](https://modrinth.com/mod/entitytexturefeatures) and [EMF](https://modrinth.com/mod/entity-model-features) mods.
-
-[Fabulously Optimized](https://download.fo), an OptiFine backwards-compatible Fabric based modpack is recommended for most users in order to make this pack work (it includes ETF and EMF).
-
-The vast majority of the features in this pack require <strong>client mods</strong>, so whilst a few will work in vanilla, most features will only work if you have one of the following installed:
+The vast majority of the features in this pack (including anything entity related) require <strong>client mods</strong>, so whilst a few will work in vanilla, most features will only work if you have one of the following installed:
  - [Fabulously Optimized](https://download.fo) (recommended)
  - [ETF](https://modrinth.com/mod/entitytexturefeatures) and [EMF](https://modrinth.com/mod/entity-model-features) (manual installation)
  - Any modpack including the above mods on Fabric or Forge
@@ -51,13 +47,12 @@ If installing manually, you can also optionally include [Animatica](https://modr
 
 ## Features
 
-This resource pack currently supports around **100 new models** for consistent babies, signs, banners, minecart blocks, spawner entities, and all sorts of other entities, as well as a collection of fixes to blocks, particles and GUIs too! For a full list of features, be sure to check out the [Wiki](https://github.com/Thanos1716/pixel-consistency/wiki/features)
+This resource pack currently supports over **100 new entity models** for consistent babies, signs, banners, minecart blocks, spawner entities, and all sorts of other entities, as well as a collection of fixes to blocks, particles and GUIs too! For a full list of features, be sure to check out the [Wiki](https://github.com/Thanos1716/pixel-consistency/wiki/features)
 
 There may be issues, and not all pixel inconsistencies can be, or have been fixed yet, but I'm always working to expand the list of possible fixes
 
 This resource pack may also include support for mods. Currently supported mods can be found [here](https://github.com/Thanos1716/pixel-consistency/wiki/mod-support), and if you would like me to support a mod, feel free to raise an issue or ask in the Discord server.
 
-A complete list of the features found in this pack can be found on the [Wiki](https://github.com/Thanos1716/pixel-consistency/wiki/features).
 <!--
 Textures and models that are already pixel consistent in vanilla Minecraft are not listed.
 Some models found in this resource pack aren't fully pixel consistent, due to the Z-fighting issues that can occur when rendering two textures directly over the top of each other. In future there may be an option to use fully pixel consistent models, however at present they are not included because they don't look great.-->
@@ -80,6 +75,7 @@ If this pack interests you, come and join my [Discord server](https://discord.gg
 This project is being hosted on [Modrinth](https://modrinth.com/resourcepack/pixel-consistency) and it's source can be found on [Github](https://github.com/Thanos1716/pixel-consistency).
 If you would like to learn more about the pack,
 check out the [Wiki](https://github.com/Thanos1716/pixel-consistency/wiki)
+
 If you have:
 
  - Discovered an inconsistent texture or model that is not listed,
