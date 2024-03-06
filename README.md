@@ -21,7 +21,7 @@ Just a few of the new features added in this update include support for the ghas
 
 <center><img src="https://cdn.modrinth.com/data/scjjjdC9/images/a72c09cf40f631a4737a375fca922e0c84990302.png" alt="Pixel consistent spawner entity collage" width="100%"></center>
 
-To see the rest, check out the [changelog](https://modrinth.com/resourcepack/pixel-consistency/changelog), or for everything, the [wiki](https://github.com/Thanos1716/pixel-consistency/wiki/features)
+To see the rest, check out the [changelog](https://modrinth.com/resourcepack/pixel-consistency/changelog), or for everything, the [wiki](https://github.com/Thanos1716/pixel-consistency/wiki/features).
 
 ### What is this?
 
@@ -43,7 +43,7 @@ The vast majority of the features in this pack require <strong>client mods</stro
  - [ETF](https://modrinth.com/mod/entitytexturefeatures) and [EMF](https://modrinth.com/mod/entity-model-features) (manual installation)
  - Any modpack including the above mods on Fabric or Forge
 
-If doing manual installation, you can also optionally include [Animatica](https://modrinth.com/mod/animatica) for some animated textures. ([unofficial Forge port](https://www.curseforge.com/minecraft/mc-mods/animaticareforged))
+If installing manually, you can also optionally include [Animatica](https://modrinth.com/mod/animatica) for some animated textures. ([unofficial Forge port](https://www.curseforge.com/minecraft/mc-mods/animaticareforged))
 
 <strong>If you use this resource pack with OptiFine, please be aware that <ins>not all features will work, and things will be broken</ins> as I do not provide support for it directly.</strong>
 
@@ -55,7 +55,7 @@ This resource pack currently supports around **100 new models** for consistent b
 
 There may be issues, and not all pixel inconsistencies can be, or have been fixed yet, but I'm always working to expand the list of possible fixes
 
-This resource pack may also include support for mods. Currently supported mods can be found [here](https://github.com/Thanos1716/pixel-consistency/wiki/mod-support), and if you would like me to support a mod, feel free to raise an issue or ask in the Discord
+This resource pack may also include support for mods. Currently supported mods can be found [here](https://github.com/Thanos1716/pixel-consistency/wiki/mod-support), and if you would like me to support a mod, feel free to raise an issue or ask in the Discord server.
 
 A complete list of the features found in this pack can be found on the [Wiki](https://github.com/Thanos1716/pixel-consistency/wiki/features).
 <!--
@@ -75,10 +75,11 @@ Fresh Animations is not yet supported because of the drastic remodel of most edi
 
 ## Links
 
-If this pack interests you, come and join the [Discord](https://discord.gg/x8n6RmP78V)!
+If this pack interests you, come and join my [Discord server](https://discord.gg/x8n6RmP78V)!
 
 This project is being hosted on [Modrinth](https://modrinth.com/resourcepack/pixel-consistency) and it's source can be found on [Github](https://github.com/Thanos1716/pixel-consistency).
-
+If you would like to learn more about the pack,
+check out the [Wiki](https://github.com/Thanos1716/pixel-consistency/wiki)
 If you have:
 
  - Discovered an inconsistent texture or model that is not listed,
@@ -89,7 +90,10 @@ please raise an issue on the [issues](https://github.com/Thanos1716/pixel-consis
 
 ### Curseforge
 
-I will not be hosting this pack on Curseforge due to a combination of no Linux support for Minecraft in the Curseforge launcher (despite both Minecraft and Curseforge having a Linux client), no option to create an account without linking other services, and the general state that Curseforge is in.
+I will not be hosting this pack on Curseforge due to:
+ - No Linux support for Minecraft in the Curseforge launcher (despite both Minecraft and Curseforge having a Linux client)
+ - No option to create an account without linking other services
+ - The general state that Curseforge is in.
 
 <strong>Due to the reasons outlined above and although the license permits it, I would appreciate it if you don't upload direct copies of this pack to Curseforge.</strong> Any derivatives of it however, go wild!
 
@@ -97,7 +101,7 @@ I will not be hosting this pack on Curseforge due to a combination of no Linux s
 
 This project is licensed under the permissive Creative Commons Zero 1.0 license in order to bring pixel consistency to as many people as possible, that means you can use any model in this pack however you like, you don't even have to give me credit, although that's always appreciated.
 
-Note that the license CC0-1.0 applies to all of the models and most of the textures used in this pack. Some textures in this pack are modified versions of the vanilla assets, which are required to make the pack work, however no direct copies of assets under Mojang copyright are included. If you wish to use all of the CC0-1.0 assets without dealing with Mojang's assets, they can be found [here](https://github.com/Thanos1716/pixel-consistency/tree/main/source/cc0-assets/).
+Note that the license CC0-1.0 applies to all of the models and most of the textures used in this pack. Some textures in this pack are modified versions of the vanilla assets, which are required to make the pack work, however no direct copies of assets under Mojang copyright are included.
 
 ## Credit
 
@@ -115,9 +119,9 @@ The best way to support me at the moment is by downloading and following my reso
 
 If you would like to:
 
- - Ask a question about this pack, or something related
+ - Ask a question about this pack, or something related,
  - Request a commission, or
- - Donate, to me directly
+ - Donate to me directly
 
 please either join the [Discord](https://discord.gg/x8n6RmP78V) or [raise an issue](https://github.com/Thanos1716/pixel-consistency/issues) on the Github page.
 
