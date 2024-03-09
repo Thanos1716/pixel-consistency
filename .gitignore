@@ -1,10 +1,12 @@
 build
 clone
+overwrite
 local
 wiki
 *.png~
 *.kra~
 *folder.json
 *.png-autosave.kra
+*.kra-autosave.kra
 *.py
 __pycache__
