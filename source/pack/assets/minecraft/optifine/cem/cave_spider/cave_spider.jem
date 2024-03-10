@@ -1,6 +1,5 @@
 {
 	"credit": "Made with Blockbench",
-	"texture": "textures/pixel_consistency/entity/cave_spider/cave_spider.png",
 	"textureSize": [32, 32],
 	"models": [
 		{

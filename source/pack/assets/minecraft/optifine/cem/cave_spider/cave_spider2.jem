@@ -1,6 +1,5 @@
 {
 	"credit": "Made with Blockbench",
-	"texture": "textures/pixel_consistency/enity/cave_spider/spawner/spawner.png",
 	"textureSize": [32, 16],
 	"models": [
 		{
