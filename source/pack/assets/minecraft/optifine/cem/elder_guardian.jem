@@ -82,10 +82,10 @@
 												{
 													"id": "tail6",
 													"invertAxis": "xy",
-													"translate": [-1, -1, -8],
+													"translate": [-1, -1, 12],
 													"boxes": [
-														{"coordinates": [-4, -32, 20, 4, 4, 12], "textureOffset": [82, 64]},
-														{"coordinates": [-4, -39, 26, 2, 18, 18], "textureOffset": [50, 38]}
+														{"coordinates": [-4, -32, 0, 4, 4, 12], "textureOffset": [82, 64]},
+														{"coordinates": [-4, -39, 6, 2, 18, 18], "textureOffset": [50, 38]}
 													]
 												}
 											]
