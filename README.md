@@ -16,7 +16,7 @@ The latest release 🔧 fixed a bunch of texture and model issues, added support
 
 <center><img src="https://cdn.modrinth.com/data/scjjjdC9/images/0acb38ea27bd92e23d30892ae520d4072cd28b81.png" alt="Pixel consistent armor trims" width="100%"></center>
 
-To go along with the armor trim theme, I've also created a new resource pack, called [Armor Trim Consistency](https://github.com/Thanos1716/armor-trim-consistency/raw/main/releases/armor-trim-consistency-v1.0-1.20.X.zip) (once Modrinth has finished reviewing it, I'll switch to a Modrinth link)
+To go along with the armor trim theme, I've also created a new resource pack, called [Armor Trim Consistency](https://github.com/Thanos1716/armor-trim-consistency) ([download link](https://github.com/Thanos1716/armor-trim-consistency/raw/main/releases/armor-trim-consistency-v1.0-1.20.X.zip)) (once Modrinth has finished reviewing it, I'll switch to a Modrinth link)
 
 To see the rest, check out the [changelog](https://modrinth.com/resourcepack/pixel-consistency/changelog), or for everything, the [wiki](https://github.com/Thanos1716/pixel-consistency/wiki/features).
 
