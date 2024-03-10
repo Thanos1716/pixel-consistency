@@ -2,7 +2,7 @@
 
 <center>
   <a href="https://modrinth.com/resourcepack/pixel-consistency" target="_blank"><img src="https://github.com/Thanos1716/pixel-consistency/wiki/images/modrinth_vector.svg" alt="Modrinth"></a>
-  <a href="https://github.com/Thanos1716/pixel-consistency" target="_blank"><img src="https://github.com/Thanos1716/pixel-consistency/wiki/images/github_vector.svg" alt="GitHub"></a>
+  <a href="https://github.com/Thanos1716/pixel-consistency" target="_blank"><img src="https://github.com/Thanos1716/pixel-consistency/wiki/images/github_vector.svg" alt="Github"></a>
   <a href="https://discord.gg/x8n6RmP78V" target="_blank"><img src="https://github.com/Thanos1716/pixel-consistency/wiki/images/discord-singular_vector.svg" alt="Discord"></a>
 </center>
 
@@ -10,16 +10,13 @@
 
 Everyone's making pixel consistent textures these days, but what about *ALL* the textures?
 
-### NOTE
-The latest release **REQUIRES ETF v5.2.1 and EMF v1.2.3** or up, due to many bug fixes and a couple of new features. If you aren't using the latest version of these, or Fabulously Optimized 5.8.0.beta.5 or up, then you may have to update to avoid crashes.
-
 ### What's NEW?
 
-The latest release added support for a whole bunch of things, and most importantly a new [Discord server](https://discord.gg/x8n6RmP78V) where you can hang out or offer your suggestions!
+The latest release 🔧 fixed a bunch of texture and model issues, added support for rabbit and baby rabbit 🐇, and a whole bunch of new armor trim textures too! 🤺
 
-Just a few of the new features added in this update include support for the ghast, minecart blocks, and **spawner entities**:
+<center><img src="https://cdn.modrinth.com/data/scjjjdC9/images/0acb38ea27bd92e23d30892ae520d4072cd28b81.png" alt="Pixel consistent armor trims" width="100%"></center>
 
-<center><img src="https://cdn.modrinth.com/data/scjjjdC9/images/a72c09cf40f631a4737a375fca922e0c84990302.png" alt="Pixel consistent spawner entity collage" width="100%"></center>
+To go along with the armor trim theme, I've also created a new resource pack, called [Armor Trim Consistency](https://github.com/Thanos1716/armor-trim-consistency/raw/main/releases/armor-trim-consistency-v1.0-1.20.X.zip) (once Modrinth has finished reviewing it, I'll switch to a Modrinth link)
 
 To see the rest, check out the [changelog](https://modrinth.com/resourcepack/pixel-consistency/changelog), or for everything, the [wiki](https://github.com/Thanos1716/pixel-consistency/wiki/features).
 
