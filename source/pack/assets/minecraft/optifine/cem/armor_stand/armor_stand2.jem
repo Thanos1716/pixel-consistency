@@ -1,5 +1,6 @@
 {
 	"credit": "Made with Blockbench",
+	"texture": "textures/pixel_consistency/entity/armor_stand/small.png",
 	"textureSize": [32, 32],
 	"models": [
 		{

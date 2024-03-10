@@ -1,6 +1,6 @@
 {
 	"credit": "Made with Blockbench",
-	"texture": "pixel_consistency:textures/entity/pig/baby.png",
+	"texture": "textures/pixel_consistency/entity/pig/baby.png",
 	"textureSize": [64, 32],
 	"models": [
 		{

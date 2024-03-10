@@ -1,6 +1,6 @@
 {
 	"credit": "Made with Blockbench",
-	"texture": "pixel_consistency:textures/entity/blaze/spawner.png",
+	"texture": "textures/pixel_consistency/entity/blaze/spawner.png",
 	"textureSize": [32, 16],
 	"models": [
 		{

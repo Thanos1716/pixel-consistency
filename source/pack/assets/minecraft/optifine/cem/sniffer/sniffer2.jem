@@ -1,6 +1,6 @@
 {
 	"credit": "Made with Blockbench",
-	"texture": "pixel_consistency:textures/entity/sniffer/baby.png",
+	"texture": "textures/pixel_consistency/entity/sniffer/baby.png",
 	"textureSize": [128, 128],
 	"models": [
 		{

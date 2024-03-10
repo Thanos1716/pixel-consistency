@@ -1,6 +1,5 @@
 {
 	"credit": "Made with Blockbench",
-	"texture": "pixel_consistency:textures/entity/piglin/baby.png",
 	"textureSize": [64, 64],
 	"models": [
 		{

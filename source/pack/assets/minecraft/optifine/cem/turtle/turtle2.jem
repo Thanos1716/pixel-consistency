@@ -1,6 +1,6 @@
 {
 	"credit": "Made with Blockbench",
-	"texture": "pixel_consistency:textures/entity/turtle/baby.png",
+	"texture": "textures/pixel_consistency/entity/turtle/baby.png",
 	"textureSize": [32, 16],
 	"models": [
 		{

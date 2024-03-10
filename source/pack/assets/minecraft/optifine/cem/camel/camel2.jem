@@ -1,6 +1,6 @@
 {
 	"credit": "Made with Blockbench",
-	"texture": "pixel_consistency:textures/entity/camel/baby.png",
+	"texture": "textures/pixel_consistency/entity/camel/baby.png",
 	"textureSize": [64, 64],
 	"models": [
 		{

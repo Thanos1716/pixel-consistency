@@ -1,0 +1,598 @@
+{
+  "texture": "",
+  "textureSize": [
+    16,
+    16
+  ],
+  "shadow_size": 1.0,
+  "models": [
+    {
+      "texture": "",
+      "invertAxis": "",
+      "translate": [
+        0.0,
+        4.0,
+        -8.0
+      ],
+      "rotate": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mirrorTexture": "",
+      "boxes": [
+        {
+          "textureOffset": [],
+          "uvDown": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "uvUp": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "uvFront": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "uvBack": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "uvLeft": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "uvRight": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "coordinates": [
+            -4.0,
+            -8.0,
+            2.0,
+            8.0,
+            8.0,
+            6.0
+          ],
+          "sizeAdd": 0.0
+        },
+        {
+          "textureOffset": [],
+          "uvDown": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "uvUp": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "uvFront": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "uvBack": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "uvLeft": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "uvRight": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "coordinates": [
+            -5.0,
+            -9.0,
+            4.0,
+            1.0,
+            3.0,
+            1.0
+          ],
+          "sizeAdd": 0.0
+        },
+        {
+          "textureOffset": [],
+          "uvDown": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "uvUp": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "uvFront": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "uvBack": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "uvLeft": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "uvRight": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "coordinates": [
+            4.0,
+            -9.0,
+            4.0,
+            1.0,
+            3.0,
+            1.0
+          ],
+          "sizeAdd": 0.0
+        }
+      ],
+      "sprites": [],
+      "submodels": [],
+      "baseId": "",
+      "model": "",
+      "id": "head",
+      "part": "head",
+      "attach": false,
+      "scale": 1.0,
+      "animations": []
+    },
+    {
+      "texture": "",
+      "invertAxis": "",
+      "translate": [
+        -4.0,
+        12.0,
+        -6.0
+      ],
+      "rotate": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mirrorTexture": "",
+      "boxes": [
+        {
+          "textureOffset": [],
+          "uvDown": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "uvUp": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "uvFront": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "uvBack": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "uvLeft": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "uvRight": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "coordinates": [
+            2.0,
+            -12.0,
+            4.0,
+            4.0,
+            12.0,
+            4.0
+          ],
+          "sizeAdd": 0.0
+        }
+      ],
+      "sprites": [],
+      "submodels": [],
+      "baseId": "",
+      "model": "",
+      "id": "right_front_leg",
+      "part": "right_front_leg",
+      "attach": false,
+      "scale": 1.0,
+      "animations": []
+    },
+    {
+      "texture": "",
+      "invertAxis": "",
+      "translate": [
+        -4.0,
+        12.0,
+        7.0
+      ],
+      "rotate": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mirrorTexture": "",
+      "boxes": [
+        {
+          "textureOffset": [],
+          "uvDown": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "uvUp": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "uvFront": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "uvBack": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "uvLeft": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "uvRight": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "coordinates": [
+            2.0,
+            -12.0,
+            -9.0,
+            4.0,
+            12.0,
+            4.0
+          ],
+          "sizeAdd": 0.0
+        }
+      ],
+      "sprites": [],
+      "submodels": [],
+      "baseId": "",
+      "model": "",
+      "id": "right_hind_leg",
+      "part": "right_hind_leg",
+      "attach": false,
+      "scale": 1.0,
+      "animations": []
+    },
+    {
+      "texture": "",
+      "invertAxis": "",
+      "translate": [
+        4.0,
+        12.0,
+        7.0
+      ],
+      "rotate": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mirrorTexture": "",
+      "boxes": [
+        {
+          "textureOffset": [],
+          "uvDown": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "uvUp": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "uvFront": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "uvBack": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "uvLeft": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "uvRight": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "coordinates": [
+            -6.0,
+            -12.0,
+            -9.0,
+            4.0,
+            12.0,
+            4.0
+          ],
+          "sizeAdd": 0.0
+        }
+      ],
+      "sprites": [],
+      "submodels": [],
+      "baseId": "",
+      "model": "",
+      "id": "left_hind_leg",
+      "part": "left_hind_leg",
+      "attach": false,
+      "scale": 1.0,
+      "animations": []
+    },
+    {
+      "texture": "",
+      "invertAxis": "",
+      "translate": [
+        0.0,
+        5.0,
+        2.0
+      ],
+      "rotate": [
+        90.0,
+        0.0,
+        0.0
+      ],
+      "mirrorTexture": "",
+      "boxes": [
+        {
+          "textureOffset": [],
+          "uvDown": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "uvUp": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "uvFront": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "uvBack": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "uvLeft": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "uvRight": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "coordinates": [
+            -6.0,
+            -15.0,
+            -9.0,
+            12.0,
+            18.0,
+            10.0
+          ],
+          "sizeAdd": 0.0
+        },
+        {
+          "textureOffset": [],
+          "uvDown": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "uvUp": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "uvFront": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "uvBack": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "uvLeft": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "uvRight": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "coordinates": [
+            -2.0,
+            -3.0,
+            -10.0,
+            4.0,
+            6.0,
+            1.0
+          ],
+          "sizeAdd": 0.0
+        }
+      ],
+      "sprites": [],
+      "submodels": [],
+      "baseId": "",
+      "model": "",
+      "id": "body",
+      "part": "body",
+      "attach": false,
+      "scale": 1.0,
+      "animations": []
+    },
+    {
+      "texture": "",
+      "invertAxis": "",
+      "translate": [
+        4.0,
+        12.0,
+        -6.0
+      ],
+      "rotate": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mirrorTexture": "",
+      "boxes": [
+        {
+          "textureOffset": [],
+          "uvDown": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "uvUp": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "uvFront": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "uvBack": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "uvLeft": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "uvRight": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "coordinates": [
+            -6.0,
+            -12.0,
+            4.0,
+            4.0,
+            12.0,
+            4.0
+          ],
+          "sizeAdd": 0.0
+        }
+      ],
+      "sprites": [],
+      "submodels": [],
+      "baseId": "",
+      "model": "",
+      "id": "left_front_leg",
+      "part": "left_front_leg",
+      "attach": false,
+      "scale": 1.0,
+      "animations": []
+    }
+  ]
+}
