@@ -1,4 +1,4 @@
-<center><img src="https://cdn.modrinth.com/data/scjjjdC9/images/0fa9fbdb2b943aa60c3fd15fcbadfe39611cb781.png" alt="Pixel Consistency logo" width="100%"></center>
+<center><img src="https://cdn.modrinth.com/data/scjjjdC9/images/d78e94e562498bcb624b912c9ab7d9a31839f9f4.png" alt="Pixel Consistency logo" width="100%"></center>
 
 <center>
   <a href="https://modrinth.com/resourcepack/pixel-consistency" target="_blank"><img src="https://github.com/Thanos1716/pixel-consistency/wiki/images/modrinth_vector.svg" alt="Modrinth"></a>
