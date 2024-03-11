@@ -1,6 +1,5 @@
 {
 	"credit": "Made with Blockbench",
-	"texture": "textures/entity/guardian_elder.png",
 	"textureSize": [128, 128],
 	"models": [
 		{
