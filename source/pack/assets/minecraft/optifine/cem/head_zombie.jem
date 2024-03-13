@@ -1,0 +1,17 @@
+{
+	"credit": "Made with Blockbench",
+	"texture": "textures/pixel_consistency/entity/head_zombie/head_zombie.png",
+	"textureSize": [32, 16],
+	"models": [
+		{
+			"part": "head",
+			"id": "head",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0],
+			"textureSize": [64, 64],
+			"boxes": [
+				{"coordinates": [-4, 24, -4, 8, 8, 8], "textureOffset": [0, 0]}
+			]
+		}
+	]
+}
