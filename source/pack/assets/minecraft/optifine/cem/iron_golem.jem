@@ -1,5 +1,6 @@
 {
 	"credit": "Made with Blockbench",
+	"texture": "random/entity/iron_golem/iron_golem2.png",
 	"textureSize": [128, 128],
 	"models": [
 		{
@@ -7,46 +8,10 @@
 			"id": "body",
 			"invertAxis": "xy",
 			"translate": [0, -31, 0],
+			"textureSize": [128, 128],
 			"boxes": [
 				{"coordinates": [-9, 21, -6, 18, 12, 11], "textureOffset": [0, 40]},
-				{"coordinates": [-4.5, 16, -3, 9, 5, 6], "textureOffset": [0, 70]}
-			]
-		},
-		{
-			"part": "head",
-			"id": "head",
-			"invertAxis": "xy",
-			"translate": [0, -31, 2],
-			"boxes": [
-				{"coordinates": [-4, 33, -7.5, 8, 10, 8], "textureOffset": [0, 0]},
-				{"coordinates": [-1, 32, -9.5, 2, 4, 2], "textureOffset": [24, 0]}
-			]
-		},
-		{
-			"part": "right_arm",
-			"id": "right_arm",
-			"invertAxis": "xy",
-			"translate": [0, -31, 0],
-			"boxes": [
-				{"coordinates": [9, 3.5, -3, 4, 30, 6], "textureOffset": [60, 21]}
-			]
-		},
-		{
-			"part": "left_arm",
-			"id": "left_arm",
-			"invertAxis": "xy",
-			"translate": [0, -31, 0],
-			"boxes": [
-				{"coordinates": [-13, 3.5, -3, 4, 30, 6], "textureOffset": [60, 58]}
-			]
-		},
-		{
-			"part": "right_leg",
-			"id": "right_leg",
-			"invertAxis": "xy",
-			"translate": [-4, -13, 0],
-			"boxes": [
-				{"coordinates": [1.5, 0, -3, 6, 16, 5], "textureOffset": [37, 0]}
+				{"coordinates": [-5, 15.5, -3.5, 10, 6, 7], "textureOffset": [0, 81]}
 			]
 		},
 		{
@@ -54,8 +19,50 @@
 			"id": "left_leg",
 			"invertAxis": "xy",
 			"translate": [5, -13, 0],
+			"textureSize": [128, 128],
 			"boxes": [
 				{"coordinates": [-7.5, 0, -3, 6, 16, 5], "textureOffset": [60, 0]}
+			]
+		},
+		{
+			"part": "head",
+			"id": "head",
+			"invertAxis": "xy",
+			"translate": [0, -31, 2],
+			"textureSize": [128, 128],
+			"boxes": [
+				{"coordinates": [-4, 33, -7.5, 8, 10, 8], "textureOffset": [0, 0]},
+				{"coordinates": [-1, 32, -9.5, 2, 4, 2], "textureOffset": [24, 0]}
+			]
+		},
+		{
+			"part": "left_arm",
+			"id": "left_arm",
+			"invertAxis": "xy",
+			"translate": [0, -31, 0],
+			"textureSize": [128, 128],
+			"boxes": [
+				{"coordinates": [-13, 3.5, -3, 4, 30, 6], "textureOffset": [60, 58]}
+			]
+		},
+		{
+			"part": "right_arm",
+			"id": "right_arm",
+			"invertAxis": "xy",
+			"translate": [0, -31, 0],
+			"textureSize": [128, 128],
+			"boxes": [
+				{"coordinates": [9, 3.5, -3, 4, 30, 6], "textureOffset": [60, 21]}
+			]
+		},
+		{
+			"part": "right_leg",
+			"id": "right_leg",
+			"invertAxis": "xy",
+			"translate": [-4, -13, 0],
+			"textureSize": [128, 128],
+			"boxes": [
+				{"coordinates": [1.5, 0, -3, 6, 16, 5], "textureOffset": [37, 0]}
 			]
 		}
 	]
