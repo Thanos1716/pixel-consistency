@@ -1,0 +1,117 @@
+{
+	"credit": "Made with Blockbench",
+	"texture": "textures/pixel_consistency/entity/end_crystal/end_crystal.png",
+	"textureSize": [128, 64],
+	"models": [
+		{
+			"part": "base",
+			"id": "base",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0],
+			"submodels": [
+				{
+					"id": "scale",
+					"invertAxis": "xy",
+					"translate": [0, 0, 0],
+					"submodels": [
+						{
+							"id": "pivot",
+							"invertAxis": "xy",
+							"translate": [0, 0, 0],
+							"rotate": [-180, 0, 0],
+							"boxes": [
+								{"coordinates": [-12, -8, -12, 24, 8, 24], "textureOffset": [0, 32]}
+							],
+							"submodels": [
+								{
+									"id": "cubes",
+									"invertAxis": "xy",
+									"translate": [0, 0, 0],
+									"submodels": [
+										{
+											"id": "glass2",
+											"invertAxis": "xy",
+											"translate": [0, -21, 0],
+											"submodels": [
+												{
+													"id": "glass2_rotation",
+													"invertAxis": "xy",
+													"translate": [0, 0, 0],
+													"rotate": [45, 0, 45],
+													"submodels": [
+														{
+															"id": "glass3",
+															"invertAxis": "xy",
+															"translate": [0, 0, 0],
+															"submodels": [
+																{
+																	"id": "glass3_rotation",
+																	"invertAxis": "xy",
+																	"translate": [0, 0, 0],
+																	"rotate": [45, 0, 45],
+																	"submodels": [
+																		{
+																			"id": "cube2",
+																			"invertAxis": "xy",
+																			"translate": [0, 0, 0],
+																			"submodels": [
+																				{
+																					"id": "cube2_rotation",
+																					"invertAxis": "xy",
+																					"translate": [0, 0, 0],
+																					"rotate": [45, 0, 45],
+																					"boxes": [
+																						{"coordinates": [-6, -5, -6, 12, 12, 12], "textureOffset": [72, 32]}
+																					]
+																				}
+																			]
+																		}
+																	],
+																	"boxes": [
+																		{"coordinates": [-7, -6, -7, 14, 14, 14], "textureOffset": [64, 0]}
+																	]
+																}
+															]
+														}
+													],
+													"boxes": [
+														{"coordinates": [-8, -7, -8, 16, 16, 16], "textureOffset": [0, 0]}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			],
+			"animations": [
+				{
+					"var.scale": 0.5,
+					"pivot.rx": 0,
+					"cubes.ty": "sin(age/5) * 5 + 12",
+					"glass2.ry": "age / 20",
+					"glass3.ry": "age / 20",
+					"cube2.ry": "age / 20",
+					"scale.sx": "var.scale",
+					"scale.sy": "var.scale",
+					"scale.sz": "var.scale"
+				}
+			]
+		},
+		{
+			"part": "cube",
+			"id": "cube",
+			"invertAxis": "xy",
+			"translate": [0, -10, 0]
+		},
+		{
+			"part": "glass",
+			"id": "glass",
+			"invertAxis": "xy",
+			"translate": [0, -10, 0]
+		}
+	]
+}
