@@ -1,0 +1,105 @@
+{
+	"credit": "Made with Blockbench",
+	"texture": "textures/pixel_consistency/entity/snow_golem/snow_golem.png",
+	"textureSize": [64, 64],
+	"models": [
+		{
+			"part": "head",
+			"id": "head",
+			"invertAxis": "xy",
+			"translate": [0, -20, 0]
+		},
+		{
+			"part": "body",
+			"id": "body",
+			"invertAxis": "xy",
+			"translate": [0, -11, 0]
+		},
+		{
+			"part": "left_hand",
+			"id": "left_hand",
+			"invertAxis": "xy",
+			"translate": [4.5, -18.75, 0]
+		},
+		{
+			"part": "right_hand",
+			"id": "right_hand",
+			"invertAxis": "xy",
+			"translate": [-14.5, -18.75, 0]
+		},
+		{
+			"part": "body_bottom",
+			"id": "body_bottom",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0],
+			"submodels": [
+				{
+					"id": "scale",
+					"invertAxis": "xy",
+					"translate": [0, 0, 0],
+					"boxes": [
+						{"coordinates": [-5.5, 0.5, -5.5, 11, 11, 11], "textureOffset": [0, 32]}
+					],
+					"submodels": [
+						{
+							"id": "head2",
+							"invertAxis": "xy",
+							"translate": [0, 20, 0],
+							"boxes": [
+								{"coordinates": [-3.5, 0.5, -3.5, 7, 7, 7], "textureOffset": [0, 0]}
+							]
+						},
+						{
+							"id": "body2",
+							"invertAxis": "xy",
+							"translate": [0, 11, 0],
+							"boxes": [
+								{"coordinates": [-4.5, 0.5, -4.5, 9, 9, 9], "textureOffset": [0, 14]}
+							]
+						},
+						{
+							"id": "left_hand2",
+							"invertAxis": "xy",
+							"translate": [-4.5, 18.75, 0],
+							"boxes": [
+								{"coordinates": [-11, -1.5, -0.5, 12, 1, 1], "textureOffset": [21, 0]}
+							]
+						},
+						{
+							"id": "right_hand2",
+							"invertAxis": "xy",
+							"translate": [14.5, 18.75, 0],
+							"boxes": [
+								{"coordinates": [-11, -1.5, -0.5, 12, 1, 1], "textureOffset": [21, 2]}
+							]
+						}
+					]
+				}
+			],
+			"animations": [
+				{
+					"var.scale": 1,
+					"head2.rx": "head.rx",
+					"head2.ry": "head.ry",
+					"head2.rz": "head.rz",
+					"body2.ry": "body.ry",
+					"left_hand2.rx": "left_hand.rx",
+					"left_hand2.ry": "left_hand.ry",
+					"left_hand2.rz": "left_hand.rz",
+					"left_hand2.tx": "left_hand.tx",
+					"left_hand2.ty": "left_hand.ty - 24",
+					"left_hand2.tz": "left_hand.tz",
+					"right_hand2.rx": "right_hand.rx",
+					"right_hand2.ry": "right_hand.ry",
+					"right_hand2.rz": "right_hand.rz",
+					"right_hand2.tx": "right_hand.tx",
+					"right_hand2.ty": "right_hand.ty - 24",
+					"right_hand2.tz": "right_hand.tz",
+					"scale.sx": "var.scale",
+					"scale.sy": "var.scale",
+					"scale.sz": "var.scale"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,104 @@
+{
+	"credit": "Made with Blockbench",
+	"textureSize": [64, 64],
+	"models": [
+		{
+			"part": "head",
+			"id": "head",
+			"invertAxis": "xy",
+			"translate": [0, -20, 0]
+		},
+		{
+			"part": "body",
+			"id": "body",
+			"invertAxis": "xy",
+			"translate": [0, -11, 0]
+		},
+		{
+			"part": "left_hand",
+			"id": "left_hand",
+			"invertAxis": "xy",
+			"translate": [4.5, -18.75, 0]
+		},
+		{
+			"part": "right_hand",
+			"id": "right_hand",
+			"invertAxis": "xy",
+			"translate": [-14.5, -18.75, 0]
+		},
+		{
+			"part": "body_bottom",
+			"id": "body_bottom",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0],
+			"submodels": [
+				{
+					"id": "scale",
+					"invertAxis": "xy",
+					"translate": [0, 0, 0],
+					"boxes": [
+						{"coordinates": [-6, 0, -6, 12, 12, 12], "textureOffset": [0, 36], "sizeAdd": -0.5}
+					],
+					"submodels": [
+						{
+							"id": "head2",
+							"invertAxis": "xy",
+							"translate": [0, 20, 0],
+							"boxes": [
+								{"coordinates": [-4, 0, -4, 8, 8, 8], "textureOffset": [0, 0], "sizeAdd": -0.5}
+							]
+						},
+						{
+							"id": "body2",
+							"invertAxis": "xy",
+							"translate": [0, 11, 0],
+							"boxes": [
+								{"coordinates": [-5, 0, -5, 10, 10, 10], "textureOffset": [0, 16], "sizeAdd": -0.5}
+							]
+						},
+						{
+							"id": "left_hand2",
+							"invertAxis": "xy",
+							"translate": [-4.5, 18.75, 0],
+							"boxes": [
+								{"coordinates": [-11, -2, -1, 12, 2, 2], "textureOffset": [32, 0], "sizeAdd": -0.5}
+							]
+						},
+						{
+							"id": "right_hand2",
+							"invertAxis": "xy",
+							"translate": [14.5, 18.75, 0],
+							"boxes": [
+								{"coordinates": [-11, -2, -1, 12, 2, 2], "textureOffset": [32, 0], "sizeAdd": -0.5}
+							]
+						}
+					]
+				}
+			],
+			"animations": [
+				{
+					"var.scale": 1,
+					"head2.rx": "head.rx",
+					"head2.ry": "head.ry",
+					"head2.rz": "head.rz",
+					"body2.ry": "body.ry",
+					"left_hand2.rx": "left_hand.rx",
+					"left_hand2.ry": "left_hand.ry",
+					"left_hand2.rz": "left_hand.rz",
+					"left_hand2.tx": "left_hand.tx",
+					"left_hand2.ty": "left_hand.ty - 24",
+					"left_hand2.tz": "left_hand.tz",
+					"right_hand2.rx": "right_hand.rx",
+					"right_hand2.ry": "right_hand.ry",
+					"right_hand2.rz": "right_hand.rz",
+					"right_hand2.tx": "right_hand.tx",
+					"right_hand2.ty": "right_hand.ty - 24",
+					"right_hand2.tz": "right_hand.tz",
+					"scale.sx": "var.scale",
+					"scale.sy": "var.scale",
+					"scale.sz": "var.scale"
+				}
+			]
+		}
+	]
+}
