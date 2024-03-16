@@ -1,0 +1,17 @@
+{
+	"credit": "Made with Blockbench",
+	"texture": "textures/pixel_consistency/entity/head_skeleton/head_skeleton.png",
+	"textureSize": [32, 16],
+	"models": [
+		{
+			"part": "head",
+			"id": "head",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0],
+			"textureSize": [64, 32],
+			"boxes": [
+				{"coordinates": [-4, 24, -4, 8, 8, 8], "textureOffset": [0, 0]}
+			]
+		}
+	]
+}
