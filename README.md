@@ -12,7 +12,9 @@ Everyone's making pixel consistent textures these days, but what about *ALL* the
 
 ### What's NEW?
 
-The latest release 🔧 fixed a bunch of texture and model issues, added support for rabbit and baby rabbit 🐇, and a whole bunch of new armor trim textures too! 🤺
+The latest release fixed a bunch of texture and model issues, added support for rabbit and baby rabbit, and a whole bunch of new armor trim textures too!
+
+🔧 🐇 🤺
 
 <center><img src="https://cdn.modrinth.com/data/scjjjdC9/images/0acb38ea27bd92e23d30892ae520d4072cd28b81.png" alt="Pixel consistent armor trims" width="100%"></center>
 
