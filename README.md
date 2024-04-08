@@ -38,7 +38,7 @@ The vast majority of the features in this pack (including anything entity relate
  - [ETF](https://modrinth.com/mod/entitytexturefeatures) and [EMF](https://modrinth.com/mod/entity-model-features) (manual installation)
  - Any modpack including the above mods on Fabric or Forge
 
-If installing manually, you can also optionally include [Animatica](https://modrinth.com/mod/animatica) for some animated textures. ([unofficial Forge port](https://www.curseforge.com/minecraft/mc-mods/animaticareforged))
+If installing manually, you can also optionally include [Animatica](https://modrinth.com/mod/animatica) or [MoreMcmeta](https://modrinth.com/mod/moremcmeta) for some animated textures. ([unofficial Forge port of animatica](https://www.curseforge.com/minecraft/mc-mods/animaticareforged))
 
 <strong>If you use this resource pack with OptiFine, please be aware that <ins>not all features will work, and things will be broken</ins> as I do not provide support for it directly.</strong>
 
