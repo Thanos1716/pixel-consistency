@@ -1,9 +1,9 @@
-<center><img src="https://cdn.modrinth.com/data/scjjjdC9/images/d78e94e562498bcb624b912c9ab7d9a31839f9f4.png" alt="Pixel Consistency logo" width="100%"></center>
+<center><img src="https://cdn.modrinth.com/data/scjjjdC9/images/d78e94e562498bcb624b912c9ab7d9a31839f9f4.png" alt="Pixel Consistency logo" width="80%"></center>
 
 <center>
-  <a href="https://modrinth.com/resourcepack/pixel-consistency" target="_blank"><img src="https://github.com/Thanos1716/pixel-consistency/wiki/images/modrinth_vector.svg" alt="Modrinth"></a>
-  <a href="https://github.com/Thanos1716/pixel-consistency" target="_blank"><img src="https://github.com/Thanos1716/pixel-consistency/wiki/images/github_vector.svg" alt="Github"></a>
-  <a href="https://discord.gg/x8n6RmP78V" target="_blank"><img src="https://github.com/Thanos1716/pixel-consistency/wiki/images/discord-singular_vector.svg" alt="Discord"></a>
+  <a href="https://modrinth.com/resourcepack/pixel-consistency" target="_blank"><img src="https://cdn.modrinth.com/data/scjjjdC9/images/7d501c9459e70bd9e12c8834c927e5dcd2d92aae.png" alt="Modrinth" width="10%"></a>
+  <a href="https://github.com/Thanos1716/pixel-consistency" target="_blank"><img src="https://cdn.modrinth.com/data/scjjjdC9/images/c717393d551c88adb3fafe6aa7f5a35ae4df53d6.png" alt="Github" width="10%"></a>
+  <a href="https://discord.gg/x8n6RmP78V" target="_blank"><img src="https://cdn.modrinth.com/data/scjjjdC9/images/259ccb30237d16b28be59e5e5eeaf63228ba5ff9.png" alt="Discord" width="10%"></a>
 </center>
 
 ## About
@@ -38,7 +38,7 @@ The vast majority of the features in this pack (including anything entity relate
  - [ETF](https://modrinth.com/mod/entitytexturefeatures) and [EMF](https://modrinth.com/mod/entity-model-features) (manual installation)
  - Any modpack including the above mods on Fabric or Forge
 
-If installing manually, you can also optionally include [Animatica](https://modrinth.com/mod/animatica) or [MoreMcmeta](https://modrinth.com/mod/moremcmeta) for some animated textures. ([unofficial Forge port of animatica](https://www.curseforge.com/minecraft/mc-mods/animaticareforged))
+If installing manually, you can also optionally include [Animatica](https://modrinth.com/mod/animatica) for some animated textures. ([unofficial Forge port](https://www.curseforge.com/minecraft/mc-mods/animaticareforged))
 
 <strong>If you use this resource pack with OptiFine, please be aware that <ins>not all features will work, and things will be broken</ins> as I do not provide support for it directly.</strong>
 
