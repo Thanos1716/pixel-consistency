@@ -1,6 +1,5 @@
 {
 	"credit": "Made with Blockbench",
-	"texture": "random/entity/wolf/wolf2.png",
 	"textureSize": [64, 64],
 	"models": [
 		{
@@ -107,8 +106,7 @@
 					"pivot.rx": "-body.rx",
 					"pivot.ry": "-body.ry",
 					"pivot.rz": "-body.rz",
-					"pivot.ty": "if(is_sitting, -2, 2)",
-					"pivot.tz": "if(is_sitting, 9, 10)",
+					"pivot.ty": "if(is_sitting, -1, 2)",
 					"head2.rx": "head.rx",
 					"head2.ry": "head.ry",
 					"head2.rz": "head.rz",
