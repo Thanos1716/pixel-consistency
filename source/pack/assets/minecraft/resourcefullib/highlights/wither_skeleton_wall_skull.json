@@ -1,0 +1,20 @@
+{
+    "variants": {
+		"facing=north": {
+            "highlight": "minecraft:wither_skeleton_wall_skull_shape",
+            "rotation": { "y": 0 }
+        },
+		"facing=east": {
+            "highlight": "minecraft:wither_skeleton_wall_skull_shape",
+            "rotation": { "y": 90 }
+        },
+		"facing=south": {
+            "highlight": "minecraft:wither_skeleton_wall_skull_shape",
+            "rotation": { "y": 180 }
+        },
+		"facing=west": {
+            "highlight": "minecraft:wither_skeleton_wall_skull_shape",
+            "rotation": { "y": 270 }
+        }
+    }
+}

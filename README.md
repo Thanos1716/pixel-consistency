@@ -83,14 +83,14 @@ If you have:
 
 please raise an issue on the [issues](https://github.com/Thanos1716/pixel-consistency/issues/new) page or in the [Discord server](https://discord.gg/x8n6RmP78V).
 
-### Curseforge
+### CurseForge
 
-I will not be hosting this pack on Curseforge due to:
- - No Linux support for Minecraft in the Curseforge launcher (despite both Minecraft and Curseforge having a Linux client)
+I will not be hosting this pack on CurseForge due to:
+ - No Linux support for Minecraft in the CurseForge launcher (despite both Minecraft and CurseForge having a Linux client)
  - No option to create an account without linking other services
- - The general state that Curseforge is in.
+ - The general state that CurseForge is in.
 
-<strong>Due to the reasons outlined above and although the license permits it, I would appreciate it if you don't upload direct copies of this pack to Curseforge.</strong> Any derivatives of it however, go wild!
+<strong>Due to the reasons outlined above, please don't upload direct copies of this pack to CurseForge.</strong> Any derivatives of it however, go wild!
 
 ## Licensing
 

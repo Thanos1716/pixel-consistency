@@ -1,0 +1,23 @@
+{
+    "variants": {
+        "rotation=0": "minecraft:wither_skeleton_skull_shape_0",
+        "rotation=1": "minecraft:wither_skeleton_skull_shape_1",
+        "rotation=2": "minecraft:wither_skeleton_skull_shape_2",
+        "rotation=3": "minecraft:wither_skeleton_skull_shape_3",
+
+        "rotation=4": "minecraft:wither_skeleton_skull_shape_0",
+        "rotation=5": "minecraft:wither_skeleton_skull_shape_1",
+        "rotation=6": "minecraft:wither_skeleton_skull_shape_2",
+        "rotation=7": "minecraft:wither_skeleton_skull_shape_3",
+
+        "rotation=8": "minecraft:wither_skeleton_skull_shape_0",
+        "rotation=9": "minecraft:wither_skeleton_skull_shape_1",
+        "rotation=10": "minecraft:wither_skeleton_skull_shape_2",
+        "rotation=11": "minecraft:wither_skeleton_skull_shape_3",
+
+        "rotation=12": "minecraft:wither_skeleton_skull_shape_0",
+        "rotation=13": "minecraft:wither_skeleton_skull_shape_1",
+        "rotation=14": "minecraft:wither_skeleton_skull_shape_2",
+        "rotation=15": "minecraft:wither_skeleton_skull_shape_3"
+    }
+}
