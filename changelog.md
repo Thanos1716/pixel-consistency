@@ -2,9 +2,11 @@
 
 ## Pixel Consistency b0.5
 
+This is a big release, adding support for a lot of blocks, a few interesting entities and most GUI elements, as well as support for some outlines with the [Highlight](https://modrinth.com/mod/highlight) mod
+
 ### Additions:
 - New Pack Icon
-- [Highlight](https://modrinth.com/mod/highlight) support for:
+- Highlights:
   - Dragon Head
   - Signs (all variants)
   - Wither Skeleton Skull
@@ -13,6 +15,8 @@
   - Elder Guardian
   - End Crystal
   - Furnace Minecart
+  - Mooshrooms (red and brown, due to mushroom)
+  - Moobloom (modded)
   - Snow Golem
 - Blocks:
   - Blockstates:
@@ -29,7 +33,7 @@
     - Sunflower
   - Templates:
     - Coral Wall Fan (10 children)
-    - Cross (68 children)
+    - Cross (68 children + 1 modded)
     - Flower Pot Cross (28 children)
     - Pointed Dripstone (10 children)
     - Stem Fruit (2 children)
@@ -51,7 +55,7 @@
   - New World Screen:
     - Footer Separator
     - Header Separator
-    - Light Dirt Background (new world screen)
+    - Light Dirt Background
     - Tab (2 textures)
     - Tab Selected (2 textures)
   - Options:
