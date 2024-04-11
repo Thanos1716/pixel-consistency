@@ -12,13 +12,7 @@ Everyone's making pixel consistent textures these days, but what about *ALL* the
 
 ### What's NEW?
 
-The latest release fixed a bunch of texture and model issues, added support for rabbit and baby rabbit, and a whole bunch of new armor trim textures too!
-
-🔧 🐇 🤺
-
-<center><img src="https://cdn.modrinth.com/data/scjjjdC9/images/0acb38ea27bd92e23d30892ae520d4072cd28b81.png" alt="Pixel consistent armor trims" width="100%"></center>
-
-To go along with the armor trim theme, I've also created a new resource pack, called [Visual Armor Trims](https://modrinth.com/resourcepack/visual-armor-trims)
+The latest release added support for <strong>baby wolves, elder guardians, end crystals,</strong> all sorts of `rescale` block models, pack buttons, the dirt background, and more!
 
 To see the rest, check out the [changelog](https://modrinth.com/resourcepack/pixel-consistency/changelog), or for everything, the [wiki](https://github.com/Thanos1716/pixel-consistency/wiki/features).
 
@@ -31,6 +25,8 @@ In my opinion, this significantly improves the look and feel of Minecraft, givin
 
 This project is currently in beta development at roughly **60% complete**, and most of the commonly observed inconsistencies have been fixed.
 
+<center><img src="https://cdn.modrinth.com/data/scjjjdC9/images/a72c09cf40f631a4737a375fca922e0c84990302.png" alt="Pixel consistent spawner entities" width="80%"></center>
+
 ### How do I get it to work?
 
 The vast majority of the features in this pack (including anything entity related) require <strong>client mods</strong>, so whilst a few will work in vanilla, most features will only work if you have one of the following installed:
@@ -38,7 +34,7 @@ The vast majority of the features in this pack (including anything entity relate
  - [ETF](https://modrinth.com/mod/entitytexturefeatures) and [EMF](https://modrinth.com/mod/entity-model-features) (manual installation)
  - Any modpack including the above mods on Fabric or Forge
 
-If installing manually, you can also optionally include [Animatica](https://modrinth.com/mod/animatica) for some animated textures. ([unofficial Forge port](https://www.curseforge.com/minecraft/mc-mods/animaticareforged))
+If installing manually, you can also optionally include [Animatica](https://modrinth.com/mod/animatica) ([unofficial Forge port](https://www.curseforge.com/minecraft/mc-mods/animaticareforged)) or [MoreMcmeta](https://modrinth.com/mod/moremcmeta) for some animated textures.
 
 <strong>If you use this resource pack with OptiFine, please be aware that <ins>not all features will work, and things will be broken</ins> as I do not provide support for it directly.</strong>
 
@@ -46,7 +42,7 @@ If installing manually, you can also optionally include [Animatica](https://modr
 
 ## Features
 
-This resource pack currently supports over **100 new entity models** for consistent babies, signs, banners, minecart blocks, spawner entities, and all sorts of other entities, as well as a collection of fixes to blocks, particles and GUIs too! For a full list of features, be sure to check out the [Wiki](https://github.com/Thanos1716/pixel-consistency/wiki/features)
+This resource pack currently supports over **100 new entity models** for consistent babies, signs, banners, minecart blocks, spawner entities, and all sorts of other entities, as well as a collection of fixes to blocks, particles and GUIs too! For a full list of features, be sure to check out the [wiki](https://github.com/Thanos1716/pixel-consistency/wiki/features)
 
 There may be issues, and not all pixel inconsistencies can be, or have been fixed yet, but I'm always working to expand the list of possible fixes
 
