@@ -71,7 +71,6 @@ This is a big release, adding support for a lot of blocks, a few interesting ent
 - Giant Armor (2 models, fixed UVs, incomplete)
 - Husk (adult)
 - Iron Golem (remodel waist)
-- Mooshroom (red and brown, due to mushrooms)
 - Piglin
 - Skeleton Skull (separate texture)
 - Vex (remodel base)
