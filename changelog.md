@@ -82,7 +82,7 @@ This is a big release, adding support for a lot of blocks, a few interesting ent
 Due to changes to the build system, zipping the pack caused an issue
 
 ### Fixes:
-- Baby
+- Baby:
   - Cow
   - Hoglin
   - Mooshroom
