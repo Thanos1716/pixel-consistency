@@ -65,6 +65,9 @@ This is a big release, adding support for a lot of blocks, a few interesting ent
     - Join (2 textures)
     - Marked Join (2 textures)
     - Warning (2 textures)
+- Particles:
+  - Beacon Beam (incomplete)
+  - End Gateway Beam (incomplete)
 
 ### Fixes:
 - Allay (remodel base)
