@@ -61,7 +61,7 @@ More images can be found in the gallery!
 
 ### Fresh Animations Support?
 
-Fresh Animations is not yet supported because of the drastic remodel of most edited mobs, however I am planning on adding support for it soon. This will likely take the form of a separate resourcepack.
+Fresh Animations is not yet supported because of the drastic remodel of most edited mobs, however I am planning on adding support for it soon. This will likely take the form of a separate resource pack.
 
 ## Links
 
