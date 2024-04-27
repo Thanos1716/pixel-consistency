@@ -33,10 +33,10 @@ void main() {
     // vec4 color = texture(Sampler0, texCoord0) * ColorModulator;
     
     // Pixel consistent transform
-    vec4 color = texture(Sampler0, (TextureMat * vec4((transformPixelate(texCoord0, InverseTextureMat, vec2(128))), 0.0, 1.0)).xy) * ColorModulator;
+    vec4 color = texture(Sampler0, (TextureMat * vec4((transformPixelate(texCoord0, InverseTextureMat, vec2(128.0))), 0.0, 1.0)).xy) * ColorModulator;
     if (color.a < 0.1) {
         discard;
     }
     float fade = linear_fog_fade(vertexDistance, FogStart, FogEnd) * GlintAlpha;
-    fragColor = vec4(color.rgb * fade * 10, color.a);
+    fragColor = vec4(color.rgb * fade, color.a);
 }

@@ -1,0 +1,1 @@
+rendertype_armor_glint.vsh

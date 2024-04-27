@@ -15,6 +15,7 @@ in vec2 texCoord0;
 out vec4 fragColor;
 
 // This shader is unused as far as I can tell https://github.com/ShockMicro/Minecraft-Shaders/wiki/Core-Shaders#rendertype_armor_glint
+// Currently rendering very bright to attempt to identify any uses
 void main() {
     vec4 color = texture(Sampler0, texCoord0) * ColorModulator;
     if (color.a < 0.1) {
