@@ -1,6 +1,6 @@
 {
 	"credit": "Made with Blockbench",
-	"textureSize": [128, 64],
+	"textureSize": [128, 128],
 	"models": [
 		{
 			"part": "head",
