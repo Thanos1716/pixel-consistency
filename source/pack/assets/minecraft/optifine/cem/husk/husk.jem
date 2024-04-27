@@ -83,7 +83,7 @@
 			],
 			"animations": [
 				{
-					"var.scale": 0.94118,
+					"var.scale": "1/1.0625",
 					"head2.rx": "head.rx",
 					"head2.ry": "head.ry",
 					"head2.rz": "head.rz",
