@@ -1,0 +1,11 @@
+{
+  "loader": "forge:separate_transforms",
+  "base": {
+    "parent": "minecraft:item/base/block/cracked_nether_bricks"
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "minecraft:item/base/block/cracked_nether_bricks"
+    }
+  }
+}

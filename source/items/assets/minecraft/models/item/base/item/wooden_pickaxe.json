@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/base/item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/base/item/wooden_pickaxe"
+  }
+}

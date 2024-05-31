@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/base/block/crop",
+  "textures": {
+    "crop": "minecraft:item/base/block/carrots_stage3"
+  }
+}

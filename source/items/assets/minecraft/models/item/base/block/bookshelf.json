@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/base/block/cube_column",
+  "textures": {
+    "end": "minecraft:item/base/block/oak_planks",
+    "side": "minecraft:item/base/block/bookshelf"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/base/block/pressure_plate_down",
+  "textures": {
+    "texture": "minecraft:item/base/block/gold_block"
+  }
+}

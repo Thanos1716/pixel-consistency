@@ -1,0 +1,11 @@
+{
+  "loader": "forge:separate_transforms",
+  "base": {
+    "parent": "minecraft:item/base/block/water_cauldron_level1"
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "minecraft:item/base/block/water_cauldron_level1"
+    }
+  }
+}

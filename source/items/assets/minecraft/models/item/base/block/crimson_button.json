@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/base/block/button",
+  "textures": {
+    "texture": "minecraft:item/base/block/crimson_planks"
+  }
+}

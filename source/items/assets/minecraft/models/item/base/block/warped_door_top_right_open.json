@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/base/block/door_top_right_open",
+  "textures": {
+    "bottom": "minecraft:item/base/block/warped_door_bottom",
+    "top": "minecraft:item/base/block/warped_door_top"
+  }
+}

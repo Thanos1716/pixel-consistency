@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/base/block/fence_side",
+  "textures": {
+    "texture": "minecraft:item/base/block/mangrove_planks"
+  }
+}

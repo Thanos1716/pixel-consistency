@@ -1,0 +1,11 @@
+{
+  "loader": "forge:separate_transforms",
+  "base": {
+    "parent": "minecraft:item/base/block/cyan_stained_glass_pane_noside_alt"
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "minecraft:item/base/block/cyan_stained_glass_pane_noside_alt"
+    }
+  }
+}

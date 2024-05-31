@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/base/block/template_fence_gate_open",
+  "textures": {
+    "texture": "minecraft:item/base/block/dark_oak_planks"
+  }
+}

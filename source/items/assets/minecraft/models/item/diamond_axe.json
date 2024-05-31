@@ -1,0 +1,11 @@
+{
+  "loader": "forge:separate_transforms",
+  "base": {
+    "parent": "minecraft:item/base/item/diamond_axe"
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "minecraft:item/gui/item/diamond_axe"
+    }
+  }
+}

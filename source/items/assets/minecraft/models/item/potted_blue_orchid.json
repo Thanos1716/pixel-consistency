@@ -1,0 +1,11 @@
+{
+  "loader": "forge:separate_transforms",
+  "base": {
+    "parent": "minecraft:item/base/block/potted_blue_orchid"
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "minecraft:item/base/block/potted_blue_orchid"
+    }
+  }
+}

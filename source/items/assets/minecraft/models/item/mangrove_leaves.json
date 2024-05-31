@@ -1,0 +1,11 @@
+{
+  "loader": "forge:separate_transforms",
+  "base": {
+    "parent": "minecraft:item/base/block/mangrove_leaves"
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "minecraft:item/base/block/mangrove_leaves"
+    }
+  }
+}

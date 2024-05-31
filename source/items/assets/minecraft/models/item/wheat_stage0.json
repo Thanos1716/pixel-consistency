@@ -1,0 +1,11 @@
+{
+  "loader": "forge:separate_transforms",
+  "base": {
+    "parent": "minecraft:item/base/block/wheat_stage0"
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "minecraft:item/base/block/wheat_stage0"
+    }
+  }
+}

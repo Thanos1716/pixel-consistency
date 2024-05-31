@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/base/block/stem_fruit",
+  "textures": {
+    "stem": "minecraft:item/base/block/pumpkin_stem",
+    "upperstem": "minecraft:item/base/block/attached_pumpkin_stem"
+  }
+}

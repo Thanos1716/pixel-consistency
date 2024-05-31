@@ -1,0 +1,7 @@
+{
+  "parent": "item/base/item/generated",
+  "textures": {
+    "layer0": "item/base/item/potion_overlay",
+    "layer1": "item/base/item/splash_potion"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "loader": "forge:separate_transforms",
+  "base": {
+    "parent": "minecraft:item/base/bee_nest"
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "minecraft:item/gui/bee_nest"
+    },
+    "ground": {
+      "parent": "minecraft:item/ground/bee_nest"
+    },
+    "fixed": {
+      "parent": "minecraft:item/fixed/bee_nest"
+    }
+  },
+  "gui_light": "front",
+  "display": {
+    "thirdperson_righthand": {
+      "translation": [0, 5, 2]
+    },
+    "thirdperson_lefthand": {
+      "translation": [0, 5, 2]
+    }
+  }
+}

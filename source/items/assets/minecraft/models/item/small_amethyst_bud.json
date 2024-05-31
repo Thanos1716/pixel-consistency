@@ -1,0 +1,11 @@
+{
+  "loader": "forge:separate_transforms",
+  "base": {
+    "parent": "minecraft:item/base/block/small_amethyst_bud"
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "minecraft:item/base/block/small_amethyst_bud"
+    }
+  }
+}

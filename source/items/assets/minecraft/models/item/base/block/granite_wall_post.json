@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/base/block/template_wall_post",
+  "textures": {
+    "wall": "minecraft:item/base/block/granite"
+  }
+}

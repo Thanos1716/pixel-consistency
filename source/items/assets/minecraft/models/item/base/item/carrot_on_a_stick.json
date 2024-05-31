@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/base/item/handheld_rod",
+  "textures": {
+    "layer0": "minecraft:item/base/item/carrot_on_a_stick"
+  }
+}

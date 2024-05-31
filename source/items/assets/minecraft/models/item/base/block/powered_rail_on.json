@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/base/block/rail_flat",
+  "textures": {
+    "rail": "minecraft:item/base/block/powered_rail_on"
+  }
+}

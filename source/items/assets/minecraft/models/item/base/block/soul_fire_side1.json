@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/base/block/template_fire_side",
+  "textures": {
+    "fire": "minecraft:item/base/block/soul_fire_1"
+  }
+}

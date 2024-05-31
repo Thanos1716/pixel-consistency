@@ -1,0 +1,26 @@
+{
+  "loader": "forge:separate_transforms",
+  "base": {
+    "parent": "minecraft:item/base/azalea_leaves"
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "minecraft:item/gui/azalea_leaves"
+    },
+    "ground": {
+      "parent": "minecraft:item/ground/azalea_leaves"
+    },
+    "fixed": {
+      "parent": "minecraft:item/fixed/azalea_leaves"
+    }
+  },
+  "gui_light": "front",
+  "display": {
+    "thirdperson_righthand": {
+      "translation": [0, 5, 2]
+    },
+    "thirdperson_lefthand": {
+      "translation": [0, 5, 2]
+    }
+  }
+}

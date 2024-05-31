@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/base/item/template_bed",
+  "textures": {
+    "particle": "minecraft:item/base/block/magenta_wool"
+  }
+}

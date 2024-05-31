@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:item/base/block/stairs",
+  "textures": {
+    "bottom": "minecraft:item/base/block/jungle_planks",
+    "side": "minecraft:item/base/block/jungle_planks",
+    "top": "minecraft:item/base/block/jungle_planks"
+  }
+}

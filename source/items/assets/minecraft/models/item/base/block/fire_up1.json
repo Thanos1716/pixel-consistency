@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/base/block/template_fire_up",
+  "textures": {
+    "fire": "minecraft:item/base/block/fire_1"
+  }
+}

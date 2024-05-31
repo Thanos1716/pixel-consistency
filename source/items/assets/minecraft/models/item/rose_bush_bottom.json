@@ -1,0 +1,11 @@
+{
+  "loader": "forge:separate_transforms",
+  "base": {
+    "parent": "minecraft:item/base/block/rose_bush_bottom"
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "minecraft:item/base/block/rose_bush_bottom"
+    }
+  }
+}

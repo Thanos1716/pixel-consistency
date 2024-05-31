@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/base/block/cube_column",
+  "textures": {
+    "end": "minecraft:item/base/block/muddy_mangrove_roots_top",
+    "side": "minecraft:item/base/block/muddy_mangrove_roots_side"
+  }
+}

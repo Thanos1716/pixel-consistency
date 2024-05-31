@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/base/block/template_glass_pane_noside",
+  "textures": {
+    "pane": "minecraft:item/base/block/glass"
+  }
+}

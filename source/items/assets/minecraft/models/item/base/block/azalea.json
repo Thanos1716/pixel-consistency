@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/base/block/template_azalea",
+  "textures": {
+    "side": "minecraft:item/base/block/azalea_side",
+    "top": "minecraft:item/base/block/azalea_top"
+  }
+}

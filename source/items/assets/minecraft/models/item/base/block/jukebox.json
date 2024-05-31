@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/base/block/cube_top",
+  "textures": {
+    "side": "minecraft:item/base/block/jukebox_side",
+    "top": "minecraft:item/base/block/jukebox_top"
+  }
+}

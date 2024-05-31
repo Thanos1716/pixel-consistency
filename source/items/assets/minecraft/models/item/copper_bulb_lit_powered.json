@@ -1,0 +1,11 @@
+{
+  "loader": "forge:separate_transforms",
+  "base": {
+    "parent": "minecraft:item/base/block/copper_bulb_lit_powered"
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "minecraft:item/base/block/copper_bulb_lit_powered"
+    }
+  }
+}

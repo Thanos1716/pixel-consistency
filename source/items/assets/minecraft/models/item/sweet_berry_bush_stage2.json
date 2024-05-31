@@ -1,0 +1,11 @@
+{
+  "loader": "forge:separate_transforms",
+  "base": {
+    "parent": "minecraft:item/base/block/sweet_berry_bush_stage2"
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "minecraft:item/base/block/sweet_berry_bush_stage2"
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/base/block/cube_all",
+  "textures": {
+    "all": "minecraft:item/base/block/exposed_copper_bulb"
+  }
+}

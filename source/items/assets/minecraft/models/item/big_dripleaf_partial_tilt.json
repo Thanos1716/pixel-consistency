@@ -1,0 +1,11 @@
+{
+  "loader": "forge:separate_transforms",
+  "base": {
+    "parent": "minecraft:item/base/block/big_dripleaf_partial_tilt"
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "minecraft:item/base/block/big_dripleaf_partial_tilt"
+    }
+  }
+}

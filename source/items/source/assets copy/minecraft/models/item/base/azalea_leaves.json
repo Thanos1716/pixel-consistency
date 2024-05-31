@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/base/cube_all",
+  "textures": {
+    "all": "minecraft:item/base/azalea_leaves"
+  }
+}

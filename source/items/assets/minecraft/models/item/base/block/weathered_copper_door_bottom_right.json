@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/base/block/door_bottom_right",
+  "textures": {
+    "bottom": "minecraft:item/base/block/weathered_copper_door_bottom",
+    "top": "minecraft:item/base/block/weathered_copper_door_top"
+  }
+}

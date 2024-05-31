@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/base/block/cube_all_inner_faces",
+  "textures": {
+    "all": "minecraft:item/base/block/spawner"
+  }
+}

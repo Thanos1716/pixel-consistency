@@ -1,0 +1,11 @@
+{
+  "loader": "forge:separate_transforms",
+  "base": {
+    "parent": "minecraft:item/base/block/chiseled_tuff_bricks"
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "minecraft:item/base/block/chiseled_tuff_bricks"
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/base/block/cross",
+  "textures": {
+    "cross": "minecraft:item/base/block/warped_fungus"
+  }
+}

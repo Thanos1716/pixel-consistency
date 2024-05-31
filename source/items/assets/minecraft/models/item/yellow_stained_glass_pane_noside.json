@@ -1,0 +1,11 @@
+{
+  "loader": "forge:separate_transforms",
+  "base": {
+    "parent": "minecraft:item/base/block/yellow_stained_glass_pane_noside"
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "minecraft:item/base/block/yellow_stained_glass_pane_noside"
+    }
+  }
+}

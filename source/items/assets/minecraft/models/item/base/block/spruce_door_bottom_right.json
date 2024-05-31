@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/base/block/door_bottom_right",
+  "textures": {
+    "bottom": "minecraft:item/base/block/spruce_door_bottom",
+    "top": "minecraft:item/base/block/spruce_door_top"
+  }
+}

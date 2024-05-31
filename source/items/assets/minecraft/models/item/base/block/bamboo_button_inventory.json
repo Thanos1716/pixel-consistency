@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/base/block/button_inventory",
+  "textures": {
+    "texture": "minecraft:item/base/block/bamboo_planks"
+  }
+}

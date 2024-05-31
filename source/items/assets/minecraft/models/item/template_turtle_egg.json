@@ -1,0 +1,11 @@
+{
+  "loader": "forge:separate_transforms",
+  "base": {
+    "parent": "minecraft:item/base/block/template_turtle_egg"
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "minecraft:item/base/block/template_turtle_egg"
+    }
+  }
+}

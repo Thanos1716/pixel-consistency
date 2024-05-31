@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/base/block/template_seagrass",
+  "textures": {
+    "texture": "minecraft:item/base/block/tall_seagrass_bottom"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "loader": "forge:separate_transforms",
+  "base": {
+    "parent": "minecraft:item/base/block/two_slightly_cracked_turtle_eggs"
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "minecraft:item/base/block/two_slightly_cracked_turtle_eggs"
+    }
+  }
+}

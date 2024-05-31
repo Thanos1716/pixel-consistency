@@ -1,0 +1,11 @@
+{
+  "loader": "forge:separate_transforms",
+  "base": {
+    "parent": "minecraft:item/base/block/sticky_piston_inventory"
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "minecraft:item/base/block/sticky_piston_inventory"
+    }
+  }
+}
