@@ -196,7 +196,7 @@
 			"animations": [
 				{
 					"var.anim_scale": 2,
-					"var.scale": 0.42553,
+					"var.scale": "1/2.35",
 					"scale.sx": "var.scale",
 					"scale.sy": "var.scale",
 					"scale.sz": "var.scale",
