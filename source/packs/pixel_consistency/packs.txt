@@ -1,0 +1,7 @@
+pixel_consistent_entities
+pixel_consistent_blocks
+pixel_consistent_items
+pixel_consistent_font
+pixel_consistent_gui
+pixel_consistent_particles
+pixel_consistent_shaders
