@@ -1,5 +1,35 @@
 # Pixel Consistency Changelog
 
+## Pixel Consistency b0.6
+
+### Additions
+- Entities
+  - Arrow
+  - Spectral Arrow
+  - Horse (all variants)
+  - [TODO: legs/anims] Baby Horse (all variants)
+  - Horse Armor (all variants)
+  - [TODO] Baby Horse Armor (all variants)
+  - Baby Wolf (all variants)
+  - Wolf Armor
+  - Baby Wolf Armor
+  - [TODO] Raise issue about not emissive signs
+  - [TODO] Switch to ETF/EMF folders
+  - [TODO] Cat
+  - [TODO] Baby Cat
+  - [TODO] Cat Collar
+  - [TODO] Baby Cat Collar
+- Items
+
+- Font
+
+### Fixes
+- [TODO] Rename grass.json to short_grass.json
+- Tweak elder guardian and husk scale
+- Added separate cobweb texture and model to fit block better
+- Remove 
+
+
 ## Pixel Consistency b0.5
 
 This is a big release, adding support for a lot of blocks, a few interesting entities and most GUI elements, as well as support for some outlines with the [Highlight](https://modrinth.com/mod/highlight) mod

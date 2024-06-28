@@ -36,7 +36,7 @@ The vast majority of the features in this pack (including anything entity relate
 
 If installing manually, you can also optionally include [Animatica](https://modrinth.com/mod/animatica) ([unofficial Forge port](https://www.curseforge.com/minecraft/mc-mods/animaticareforged)) or [MoreMcmeta](https://modrinth.com/mod/moremcmeta) for some animated textures.
 
-<strong>If you use this resource pack with OptiFine, please be aware that <ins>not all features will work, and things will be broken</ins> as I do not provide support for it directly.</strong>
+<strong>If you use this resource pack with Vanilla or OptiFine, please be aware that <ins>not all features will work, and things will be broken</ins> as I do not provide support for it directly.</strong>
 
 <!-- Either the [Modrinth Launcher](https://modrinth.com/app) or [Prism Launcher](https://prismlauncher.org/download/) are recommended. -->
 
@@ -82,15 +82,17 @@ please raise an issue on the [issues](https://github.com/Thanos1716/pixel-consis
 ### CurseForge
 
 I will not be hosting this pack on CurseForge due to:
- - No Linux support for Minecraft in the CurseForge launcher (despite both Minecraft and CurseForge having a Linux client)
+ - No Linux support for Minecraft in the CurseForge Launcher (despite both Minecraft and CurseForge having a Linux client)
  - No option to create an account without linking other services
- - The general state that CurseForge is in.
+ - [The state that CurseForge is in](https://www.youtube.com/watch?v=Vhdwz5apiQQ)
 
-<strong>Due to the reasons outlined above, please don't upload direct copies of this pack to CurseForge.</strong> Any derivatives of it however, go wild!
+As a result, <strong>I do not condone the uploading of this resource pack to CurseForge and likely never will,</strong> however if you would like to use parts of this resource pack in something you create and upload to CurseForge, feel free!
 
 ## Licensing
 
-This project is licensed under the permissive Creative Commons Zero 1.0 license in order to bring pixel consistency to as many people as possible, that means you can use any model in this pack however you like, you don't even have to give me credit, although that's always appreciated.
+This project is licensed under the Creative Commons Zero 1.0 Universal license in order to bring pixel consistency to as many people as possible, that means legally you can use any model in this pack however you like, however I would highly appreciate it if you contact me beforehand when planning to do anything publicly with the assets, and credit is welcome!
+
+Please don't abuse the permissiveness of the license for your gain I don't want to have to change it, thanks :D
 
 Note that the license CC0-1.0 applies to all of the models and most of the textures used in this pack. Some textures in this pack are modified versions of the vanilla assets, which are required to make the pack work, however no direct copies of assets under Mojang copyright are included.
 
@@ -102,7 +104,7 @@ This resource pack is partially inspired by [Better Vanilla Babies & Pixel Perfe
 
 If you are a resource pack developer and enjoy my work, I would love if you included any of my textures or models from this pack in yours. Any credit is appreciated!
 
-If you would like to upload a video showcasing this resource pack to a third party platform like Youtube or Odysee, credit would be highly appreciated, and be sure to let me know, I might include it here!
+If you would like to upload a video showcasing this resource pack to a third party platform like Youtube, credit would be highly appreciated, and be sure to let me know, I might include it here!
 
 ## Support Me
 
