@@ -24,7 +24,6 @@
 - Font
 
 ### Fixes
-- [TODO] Rename grass.json to short_grass.json
 - Tweak elder guardian and husk scale
 - Added separate cobweb texture and model to fit block better
 - Remove 
