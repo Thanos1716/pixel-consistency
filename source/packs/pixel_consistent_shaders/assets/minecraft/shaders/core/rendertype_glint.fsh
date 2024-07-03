@@ -33,7 +33,9 @@ void main() {
     // vec4 color = texture(Sampler0, texCoord0) * ColorModulator;
     
     // Pixel consistent transform
-    vec4 color = texture(Sampler0, (TextureMat * vec4((transformPixelate(texCoord0, InverseTextureMat, vec2(1024.0))), 0.0, 1.0)).xy) * ColorModulator;
+    vec2 textureGlintRatio = vec2(128.0) / vec2(16.0);
+    vec4 color = texture(Sampler0, (TextureMat * vec4((transformPixelate(texCoord0, InverseTextureMat, vec2(textureSize(Sampler0, 0)) * textureGlintRatio)), 0.0, 1.0)).xy) * ColorModulator;
+    
     if (color.a < 0.1) {
         discard;
     }
