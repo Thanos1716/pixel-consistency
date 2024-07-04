@@ -10,7 +10,7 @@ These shaders go by the following names (with .fsh, .vsh and .json extensions), 
 - `rendertype_entity_glint`: likely unused
 - `rendertype_glint_direct`: was previously used for most gui items, but now seems unused
 - `rendertype_glint_translucent`: likely unused
-- `rendertype_glint`
+- `rendertype_glint`: used for most items in the GUI, hand and on ground
 
 The `likely unused` shaders are set to render at 10 times the normal brightness, in order to make spotting a use case for them more likely. If you see an oddly bright enchantment glint, please report it to the GitHub or Discord, thanks :)
 

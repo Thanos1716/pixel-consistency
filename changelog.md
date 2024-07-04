@@ -13,20 +13,57 @@
   - Baby Wolf (all variants)
   - Wolf Armor
   - Baby Wolf Armor
-  - [TODO] Raise issue about not emissive signs
   - [TODO] Switch to ETF/EMF folders
   - [TODO] Cat
   - [TODO] Baby Cat
   - [TODO] Cat Collar
   - [TODO] Baby Cat Collar
-- Items
+  - Flow Armor Trim
+  - Bolt Armor Trim
+  - Flow Banner Pattern
+  - Guster Banner Pattern
 
 - Font
+  - Unicode Basic Multilingual Plane
+    - Pages 00-05
+      - BASIC_LATIN
+      - LATIN_1_SUPPLEMENT
+      - LATIN_EXTENDED_A
+      - LATIN_EXTENDED_B
+      - IPA_EXTENSIONS
+      - SPACING_MODIFIER_LETTERS
+      - COMBINING_DIACRITICAL_MARKS
+      - GREEK
+      - CYRILLIC
+      - CYRILLIC_SUPPLEMENTARY
+      - ARMENIAN
+      - HEBREW
+    - Pages 1D and 1F
+      - PHONETIC_EXTENSIONS
+      - PHONETIC_EXTENSIONS_SUPPLEMENT
+      - COMBINING_DIACRITICAL_MARKS_SUPPLEMENT
+    - Pages 25-28
+      - BOX_DRAWING
+      - BLOCK_ELEMENTS
+      - GEOMETRIC_SHAPES
+      - MISCELLANEOUS_SYMBOLS
+      - DINGBATS
+      - MISCELLANEOUS_MATHEMATICAL_SYMBOLS_A
+      - SUPPLEMENTAL_ARROWS
+      - BRAILLE_PATTERNS  
+    - Page FF
+      - HALFWIDTH_AN1D_FULLWIDTH_FORMS
+      - SPECIALS
+- Shaders
+  - [TODO] Consistent Enchantment Glint Shader Overlay for below 1.20.5
+  - Armor Enchantment Glint (`rendertype_armor_entity_glint`, elytra needs work)
+  - Trident Enchantment Glint (`rendertype_entity_glint_direct`)
+  - Item Enchantment Glint (`rendertype_glint`)
 
 ### Fixes
 - Tweak elder guardian and husk scale
 - Added separate cobweb texture and model to fit block better
-- Remove 
+- Remove Herobrine
 
 
 ## Pixel Consistency b0.5

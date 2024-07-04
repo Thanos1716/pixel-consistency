@@ -2,7 +2,7 @@
 
 <center>
   <a href="https://modrinth.com/resourcepack/pixel-consistency" target="_blank"><img src="https://github.com/Thanos1716/pixel-consistency/wiki/images/modrinth_vector.svg" alt="Modrinth"></a>
-  <a href="https://github.com/Thanos1716/pixel-consistency" target="_blank"><img src="https://github.com/Thanos1716/pixel-consistency/wiki/images/github_vector.svg" alt="Github"></a>
+  <a href="https://github.com/Thanos1716/pixel-consistency" target="_blank"><img src="https://github.com/Thanos1716/pixel-consistency/wiki/images/github_vector.svg" alt="GitHub"></a>
   <a href="https://discord.gg/x8n6RmP78V" target="_blank"><img src="https://github.com/Thanos1716/pixel-consistency/wiki/images/discord-singular_vector.svg" alt="Discord"></a>
 </center>
 
@@ -67,7 +67,7 @@ Fresh Animations is not yet supported because of the drastic remodel of most edi
 
 If this pack interests you, come and join my [Discord server](https://discord.gg/x8n6RmP78V)!
 
-This project is being hosted on [Modrinth](https://modrinth.com/resourcepack/pixel-consistency) and it's source can be found on [Github](https://github.com/Thanos1716/pixel-consistency).
+This project is being hosted on [Modrinth](https://modrinth.com/resourcepack/pixel-consistency) and it's source can be found on [GitHub](https://github.com/Thanos1716/pixel-consistency).
 If you would like to learn more about the pack,
 check out the [wiki](https://github.com/Thanos1716/pixel-consistency/wiki)
 
@@ -116,7 +116,7 @@ If you would like to:
  - Request a commission, or
  - Donate to me directly
 
-please either join the [Discord](https://discord.gg/x8n6RmP78V) or [raise an issue](https://github.com/Thanos1716/pixel-consistency/issues) on the Github page.
+please either join the [Discord](https://discord.gg/x8n6RmP78V) or [raise an issue](https://github.com/Thanos1716/pixel-consistency/issues) on the GitHub page.
 
 <!--------->
 <!-- 🗶 ❌ -->
