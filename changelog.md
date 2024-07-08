@@ -63,8 +63,8 @@
 ### Fixes
 - Tweak elder guardian and husk scale
 - Added separate cobweb texture and model to fit block better
-- Remove Herobrine
-
+- [TODO] Cold baby strider needs to frown harder
+- [TODO] Fix wolf and baby wolf head rotations
 
 ## Pixel Consistency b0.5
 
