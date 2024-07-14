@@ -6,17 +6,7 @@
 			"part": "head",
 			"id": "head",
 			"invertAxis": "xy",
-			"translate": [0, -24, 0],
-			"submodels": [
-				{
-					"id": "head_scale",
-					"invertAxis": "xy",
-					"translate": [0, 0, 0],
-					"boxes": [
-						{"coordinates": [-4, 17, -4, 8, 8, 8], "textureOffset": [96, 112]}
-					]
-				}
-			]
+			"translate": [0, -24, 0]
 		},
 		{
 			"part": "headwear",
@@ -35,26 +25,8 @@
 					"invertAxis": "xy",
 					"translate": [0, 0, 0],
 					"boxes": [
-						{"coordinates": [-2.5, 5.5, -1.5, 5, 7, 3], "textureOffset": [112, 102]}
-					],
-					"submodels": [
-						{
-							"id": "left_arm2",
-							"invertAxis": "xy",
-							"mirrorTexture": "u",
-							"translate": [-2.5, 11, 0],
-							"boxes": [
-								{"coordinates": [-2, -5.5, -1.5, 3, 7, 3], "textureOffset": [116, 82]}
-							]
-						},
-						{
-							"id": "right_arm2",
-							"invertAxis": "xy",
-							"translate": [2.5, 11, 0],
-							"boxes": [
-								{"coordinates": [-1, -5.5, -1.5, 3, 7, 3], "textureOffset": [104, 82]}
-							]
-						}
+						{"coordinates": [-2, 6, -1.5, 4, 7, 3], "textureOffset": [114, 54], "sizeAdd": 0.4},
+						{"coordinates": [-2, 0, -1.5, 4, 7, 3], "textureOffset": [80, 54], "sizeAdd": 0.2}
 					]
 				}
 			],
@@ -66,9 +38,6 @@
 					"right_arm2.rx": "right_arm.rx",
 					"right_arm2.ry": "right_arm.ry",
 					"right_arm2.rz": "right_arm.rz",
-					"head_scale.sx": "1/0.75",
-					"head_scale.sy": "1/0.75",
-					"head_scale.sz": "1/0.75",
 					"body_scale.sx": 2,
 					"body_scale.sy": 2,
 					"body_scale.sz": 2,
@@ -107,7 +76,7 @@
 					"mirrorTexture": "u",
 					"translate": [0, 0, 0],
 					"boxes": [
-						{"coordinates": [-2.5, -0.5, -1.5, 3, 7, 3], "textureOffset": [116, 92]}
+						{"coordinates": [-2, 0, -1.5, 2, 7, 3], "textureOffset": [104, 54], "sizeAdd": 0.3}
 					]
 				}
 			]
@@ -123,7 +92,7 @@
 					"invertAxis": "xy",
 					"translate": [0, 0, 0],
 					"boxes": [
-						{"coordinates": [-0.5, -0.5, -1.5, 3, 7, 3], "textureOffset": [104, 92]}
+						{"coordinates": [0, 0, -1.5, 2, 7, 3], "textureOffset": [94, 54], "sizeAdd": 0.3}
 					]
 				}
 			]
