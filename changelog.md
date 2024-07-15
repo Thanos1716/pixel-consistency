@@ -15,6 +15,7 @@
   - [TODO] Baby Cat Collar
   - [TODO] Spawner humanoid armor textures
   - [TODO] Separate fitted armor models
+  - [TODO] Rename skins to textures
 
 - Font
   - Unicode Basic Multilingual Plane
@@ -62,9 +63,9 @@
 
 Celebrating 100 followers of Pixel Consistency! :D
 
-This is a relatively small release, mainly to add support for all 1.20.5-1.21 new textures for supported entities, alongside arrows.
+This is a relatively small release, mainly to add support for all 1.20.5-1.21 new textures for supported entities, alongside arrows and a few other things.
 
-Apologies for the delayed update, there are plenty of features in the works, but most is not stable enough for release yet.
+Apologies for the delayed update, there are plenty of features in the works, but most are not stable enough for release yet.
 
 ### Additions
 - Arrow
@@ -83,6 +84,7 @@ Apologies for the delayed update, there are plenty of features in the works, but
 - Cobweb (new texture to fit block)
 - Piglin Brute Outer Armor (now looks correct)
 - Resize armor_inner UV (for future armor glint support)
+- Remove Broken New World Screen Tab Textures
 
 ## Pixel Consistency b0.5
 
