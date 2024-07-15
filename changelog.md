@@ -1,27 +1,20 @@
 # Pixel Consistency Changelog
 
-## Pixel Consistency b0.6
+## Pixel Consistency b0.7
 
 ### Additions
 - Entities
-  - Arrow
-  - Spectral Arrow
   - Horse (all variants)
   - [TODO: legs/anims] Baby Horse (all variants)
   - Horse Armor (all variants)
   - [TODO] Baby Horse Armor (all variants)
-  - Baby Wolf (all variants)
-  - Wolf Armor
-  - Baby Wolf Armor
   - [TODO] Switch to ETF/EMF folders
   - [TODO] Cat
   - [TODO] Baby Cat
   - [TODO] Cat Collar
   - [TODO] Baby Cat Collar
-  - Flow Armor Trim
-  - Bolt Armor Trim
-  - Flow Banner Pattern
-  - Guster Banner Pattern
+  - [TODO] Spawner humanoid armor textures
+  - [TODO] Separate fitted armor models
 
 - Font
   - Unicode Basic Multilingual Plane
@@ -62,9 +55,34 @@
 
 ### Fixes
 - Tweak elder guardian and husk scale
-- Added separate cobweb texture and model to fit block better
 - [TODO] Cold baby strider needs to frown harder
 - [TODO] Fix wolf and baby wolf head rotations
+
+## Pixel Consistency b0.6
+
+Celebrating 100 followers of Pixel Consistency! :D
+
+This is a relatively small release, mainly to add support for all 1.20.5-1.21 new textures for supported entities, alongside arrows.
+
+Apologies for the delayed update, there are plenty of features in the works, but most is not stable enough for release yet.
+
+### Additions
+- Arrow
+- Spectral Arrow
+- Baby Wolf (all new variants)
+- Wolf Armor
+- Baby Wolf Armor
+- Flow Armor Trim
+- Bolt Armor Trim
+- Flow Banner Pattern
+- Guster Banner Pattern
+
+### Fixes
+- Wolf (all variants)
+- Wolf Collar (uses new texture)
+- Cobweb (new texture to fit block)
+- Piglin Brute Outer Armor (now looks correct)
+- Resize armor_inner UV (for future armor glint support)
 
 ## Pixel Consistency b0.5
 
