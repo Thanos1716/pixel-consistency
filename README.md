@@ -15,7 +15,7 @@ Everyone's making pixel consistent textures these days, but what about *ALL* the
 For years, Minecraft's lack of respect for uniform pixel sizes has bothered me, I'm glad that Mojang are finally starting to acknowledge this with the addition of new models for the vex and bat, but they nowhere near cover all the inconsistencies, so I've designed and tested hundreds of new models that fix exactly that!
 
 The goal of this resource pack is to make all textures in Minecraft have consistently sized pixels in-game.
-In my opinion, this significantly improves the look and feel of Minecraft, giving it a more coherent visual style.
+In my opinion, this significantly improves the look and feel of Minecraft, giving it a more coherent style.
 
 This project is currently in beta development at roughly **60% complete**, and most noticable mixels have been fixed.
 
@@ -23,7 +23,7 @@ This project is currently in beta development at roughly **60% complete**, and m
 
 ### What's NEW?
 
-The latest release added support for all the new <strong>baby wolf variants, armor trims banner patterns</strong>, as well as arrows, spectral arrows, and a new cobweb block texture!
+The latest release added support for all the new <strong>baby wolf variants, armor trims and banner patterns</strong>, as well as arrows, spectral arrows, and a new cobweb block texture!
 
 <details> <summary>Some changes in b0.6</summary>
 <center><img src="https://cdn.modrinth.com/data/scjjjdC9/images/76641aea88c5c0d38316e24c19b13b5453b4adf9.png" alt="Pixel consistent spawner entities" width="100%"></center>
