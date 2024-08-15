@@ -16,6 +16,8 @@
   - [TODO] Spawner humanoid armor textures
   - [TODO] Separate fitted armor models
   - [TODO] Rename skins to textures
+  - [TODO] Pixel consistent dragon egg is now in vanilla (24w33a)
+  - [TODO] Make new tab textures in assets/minecraft/textures/gui/sprites/widget/ consistent
 
 - Font
   - Unicode Basic Multilingual Plane
