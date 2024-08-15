@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/_template/cube_column",
+  "textures": {
+    "end": "minecraft:item/melon/end",
+    "side": "minecraft:item/melon/side"
+  }
+}

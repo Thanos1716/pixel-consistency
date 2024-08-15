@@ -1,0 +1,76 @@
+{
+	"credit": "Made by Thanos, https://modrinth.com/user/thanos",
+	"parent": "item/_template/block",
+	"texture_size": [6, 6],
+	"textures": {
+		"particle": "item/mangrove_roots/side",
+		"side": "item/mangrove_roots/side",
+		"top": "item/mangrove_roots/top"
+	},
+	"elements": [
+		{
+			"from": [5, 5, 8],
+			"to": [11, 11, 8],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#side"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#side"}
+			}
+		},
+		{
+			"from": [8, 5, 5],
+			"to": [8, 11, 11],
+			"faces": {
+				"east": {"uv": [0, 0, 16, 16], "texture": "#side"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#side"}
+			}
+		},
+		{
+			"from": [5, 10.998, 5],
+			"to": [11, 11, 11],
+			"faces": {
+				"up": {"uv": [0, 0, 16, 16], "texture": "#top", "cullface": "up"},
+				"down": {"uv": [0, 16, 16, 0], "texture": "#top", "cullface": "up"}
+			}
+		},
+		{
+			"from": [5, 5, 5],
+			"to": [11, 5.002, 11],
+			"faces": {
+				"up": {"uv": [0, 16, 16, 0], "texture": "#top", "cullface": "down"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#top", "cullface": "down"}
+			}
+		},
+		{
+			"from": [5, 5, 5],
+			"to": [11, 11, 5.002],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#side", "cullface": "north"},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#side", "cullface": "north"}
+			}
+		},
+		{
+			"from": [5, 5, 10.998],
+			"to": [11, 11, 11],
+			"faces": {
+				"north": {"uv": [16, 0, 0, 16], "texture": "#side", "cullface": "south"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#side", "cullface": "south"}
+			}
+		},
+		{
+			"from": [5, 5, 5],
+			"to": [5.002, 11, 11],
+			"faces": {
+				"east": {"uv": [16, 0, 0, 16], "texture": "#side", "cullface": "west"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#side", "cullface": "west"}
+			}
+		},
+		{
+			"from": [10.998, 5, 5],
+			"to": [11, 11, 11],
+			"faces": {
+				"east": {"uv": [0, 0, 16, 16], "texture": "#side", "cullface": "east"},
+				"west": {"uv": [16, 0, 0, 16], "texture": "#side", "cullface": "east"}
+			}
+		}
+	]
+}

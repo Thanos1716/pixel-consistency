@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/_template/fence",
+  "textures": {
+    "texture": "minecraft:item/acacia_planks/all"
+  }
+}

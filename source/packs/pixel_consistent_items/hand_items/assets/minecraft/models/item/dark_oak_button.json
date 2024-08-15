@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/_template/button",
+  "textures": {
+    "texture": "minecraft:item/dark_oak_planks/all"
+  }
+}

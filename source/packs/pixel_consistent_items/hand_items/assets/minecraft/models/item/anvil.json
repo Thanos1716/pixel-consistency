@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/_template/anvil",
+  "textures": {
+    "top": "minecraft:item/anvil/top"
+  }
+}

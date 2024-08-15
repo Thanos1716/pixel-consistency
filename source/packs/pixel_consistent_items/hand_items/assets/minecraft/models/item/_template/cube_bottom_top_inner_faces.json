@@ -1,0 +1,30 @@
+{
+	"credit": "Made by Thanos, https://modrinth.com/user/thanos",
+	"parent": "item/_template/cube_bottom_top",
+	"elements": [
+		{
+			"from": [5, 5, 5],
+			"to": [11, 11, 11],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#side", "cullface": "north"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#side", "cullface": "east"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#side", "cullface": "south"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#side", "cullface": "west"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#top", "cullface": "up"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#bottom", "cullface": "down"}
+			}
+		},
+		{
+			"from": [10.998, 5.002, 5.002],
+			"to": [5.002, 10.998, 10.998],
+			"faces": {
+				"north": {"uv": [16, 0, 0, 16], "texture": "#side", "cullface": "south"},
+				"east": {"uv": [16, 0, 0, 16], "texture": "#side", "cullface": "west"},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#side", "cullface": "north"},
+				"west": {"uv": [16, 0, 0, 16], "texture": "#side", "cullface": "east"},
+				"up": {"uv": [16, 0, 0, 16], "texture": "#top", "cullface": "up"},
+				"down": {"uv": [16, 0, 0, 16], "texture": "#bottom", "cullface": "down"}
+			}
+		}
+	]
+}

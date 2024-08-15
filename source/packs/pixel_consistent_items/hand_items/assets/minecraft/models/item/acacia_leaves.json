@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/_template/leaves",
+  "textures": {
+    "all": "minecraft:item/acacia_leaves/all"
+  }
+}

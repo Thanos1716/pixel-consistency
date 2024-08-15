@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/_template/cube_column",
+  "textures": {
+    "end": "minecraft:item/stripped_bamboo_block/end",
+    "side": "minecraft:item/stripped_bamboo_block/side"
+  }
+}

@@ -1,0 +1,26 @@
+{
+	"credit": "Made by Thanos, https://modrinth.com/user/thanos",
+	"parent": "item/_template/block",
+	"texture_size": [6, 6],
+	"textures": {
+		"particle": "item/chiseled_bookshelf/top",
+		"top": "item/chiseled_bookshelf/top",
+		"side": "item/chiseled_bookshelf/side",
+		"front": "item/chiseled_bookshelf/front"
+	},
+	"elements": [
+		{
+			"name": "chiseled_bookshelf_body",
+			"from": [5, 5, 5],
+			"to": [11, 11, 11],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#front"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#side"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#side"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#side"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#top"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#top"}
+			}
+		}
+	]
+}

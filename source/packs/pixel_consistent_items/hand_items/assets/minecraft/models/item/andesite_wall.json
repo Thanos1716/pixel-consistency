@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/_template/wall",
+  "textures": {
+    "wall": "minecraft:item/andesite/all"
+  }
+}

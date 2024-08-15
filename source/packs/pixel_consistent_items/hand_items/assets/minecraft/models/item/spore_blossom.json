@@ -1,0 +1,61 @@
+{
+	"credit": "Made by Thanos, https://modrinth.com/user/thanos",
+	"parent": "item/_template/block",
+	"texture_size": [6, 6],
+	"textures": {
+		"particle": "item/spore_blossom/flower",
+		"flower": "item/spore_blossom/flower",
+		"base": "item/spore_blossom/base"
+	},
+	"elements": [
+		{
+			"from": [5, 10.9, 5],
+			"to": [11, 10.9, 11],
+			"shade": false,
+			"faces": {
+				"up": {"uv": [0, 0, 16, 16], "texture": "#base"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#base"}
+			}
+		},
+		{
+			"from": [8, 10.8, 5],
+			"to": [14, 10.8, 11],
+			"shade": false,
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [8, 11, 5]},
+			"faces": {
+				"up": {"uv": [0, 0, 16, 16], "rotation": 90, "texture": "#flower"},
+				"down": {"uv": [0, 16, 16, 0], "rotation": 270, "texture": "#flower"}
+			}
+		},
+		{
+			"from": [2, 10.8, 5],
+			"to": [8, 10.8, 11],
+			"shade": false,
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [8, 11, 5]},
+			"faces": {
+				"up": {"uv": [0, 0, 16, 16], "rotation": 270, "texture": "#flower"},
+				"down": {"uv": [0, 16, 16, 0], "rotation": 90, "texture": "#flower"}
+			}
+		},
+		{
+			"from": [5, 10.8, 8],
+			"to": [11, 10.8, 14],
+			"shade": false,
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [5, 11, 8]},
+			"faces": {
+				"up": {"uv": [16, 16, 0, 0], "texture": "#flower"},
+				"down": {"uv": [16, 0, 0, 16], "texture": "#flower"}
+			}
+		},
+		{
+			"from": [5, 10.8, 2],
+			"to": [11, 10.8, 8],
+			"shade": false,
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [5, 11, 8]},
+			"faces": {
+				"up": {"uv": [0, 0, 16, 16], "texture": "#flower"},
+				"down": {"uv": [0, 16, 16, 0], "texture": "#flower"}
+			}
+		}
+	]
+}

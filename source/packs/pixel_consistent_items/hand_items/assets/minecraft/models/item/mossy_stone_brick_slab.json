@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:item/_template/slab",
+  "textures": {
+    "bottom": "minecraft:item/mossy_stone_bricks/all",
+    "side": "minecraft:item/mossy_stone_bricks/all",
+    "top": "minecraft:item/mossy_stone_bricks/all"
+  }
+}

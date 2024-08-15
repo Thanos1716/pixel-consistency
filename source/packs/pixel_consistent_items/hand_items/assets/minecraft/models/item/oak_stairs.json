@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:item/_template/stairs",
+  "textures": {
+    "bottom": "minecraft:item/oak_planks/all",
+    "side": "minecraft:item/oak_planks/all",
+    "top": "minecraft:item/oak_planks/all"
+  }
+}

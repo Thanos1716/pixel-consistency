@@ -1,0 +1,116 @@
+{
+	"credit": "Made by Thanos, https://modrinth.com/user/thanos",
+	"parent": "item/_template/block",
+	"texture_size": [6, 6],
+	"textures": {
+		"particle": "#texture"
+	},
+	"elements": [
+		{
+			"name": "Left post",
+			"from": [7, 5, 5],
+			"to": [9, 11, 7],
+			"faces": {
+				"north": {"uv": [5.33333, 0, 10.66667, 16], "texture": "#texture"},
+				"east": {"uv": [0, 0, 5.33333, 16], "texture": "#texture"},
+				"south": {"uv": [5.33333, 0, 10.66667, 16], "texture": "#texture"},
+				"west": {"uv": [0, 0, 5.33333, 16], "texture": "#texture"},
+				"up": {"uv": [5.33333, 0, 10.66667, 5.33333], "texture": "#texture"},
+				"down": {"uv": [5.33333, 0, 10.66667, 5.33333], "texture": "#texture", "cullface": "down"}
+			}
+		},
+		{
+			"name": "Right post",
+			"from": [7, 5, 9],
+			"to": [9, 11, 11],
+			"faces": {
+				"north": {"uv": [5.33333, 0, 10.66667, 16], "texture": "#texture"},
+				"east": {"uv": [10.66667, 0, 16, 16], "texture": "#texture"},
+				"south": {"uv": [5.33333, 0, 10.66667, 16], "texture": "#texture"},
+				"west": {"uv": [10.66667, 0, 16, 16], "texture": "#texture"},
+				"up": {"uv": [5.33333, 10.66667, 10.66667, 16], "texture": "#texture"},
+				"down": {"uv": [5.33333, 10.66667, 10.66667, 16], "texture": "#texture", "cullface": "down"}
+			}
+		},
+		{
+			"name": "Top bar",
+			"from": [7.5, 9, 5],
+			"to": [8.5, 10, 11],
+			"faces": {
+				"east": {"uv": [0, 2.66667, 16, 5.33333], "texture": "#texture"},
+				"west": {"uv": [0, 2.66667, 16, 5.33333], "texture": "#texture"},
+				"up": {"uv": [8, 0, 10.66667, 16], "texture": "#texture"},
+				"down": {"uv": [8, 0, 10.66667, 16], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Top bar left",
+			"from": [7.5, 9, 4],
+			"to": [8.5, 10, 5],
+			"faces": {
+				"north": {"uv": [5.33333, 2.66667, 8, 5.33333], "texture": "#texture"},
+				"east": {"uv": [0, 2.66667, 2.66667, 5.33333], "texture": "#texture"},
+				"west": {"uv": [13.33333, 2.66667, 16, 5.33333], "texture": "#texture"},
+				"up": {"uv": [5.33333, 13.33333, 8, 16], "texture": "#texture"},
+				"down": {"uv": [5.33333, 0, 8, 2.66667], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Top bar right",
+			"from": [7.5, 9, 11],
+			"to": [8.5, 10, 12],
+			"faces": {
+				"east": {"uv": [13.33333, 2.66667, 16, 5.33333], "texture": "#texture"},
+				"south": {"uv": [5.33333, 2.66667, 8, 5.33333], "texture": "#texture"},
+				"west": {"uv": [0, 2.66667, 2.66667, 5.33333], "texture": "#texture"},
+				"up": {"uv": [5.33333, 0, 8, 2.66667], "texture": "#texture"},
+				"down": {"uv": [5.33333, 13.33333, 8, 16], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Lower bar",
+			"from": [7.5, 7, 5],
+			"to": [8.5, 8, 11],
+			"faces": {
+				"east": {"uv": [0, 8, 16, 10.66667], "texture": "#texture"},
+				"west": {"uv": [0, 8, 16, 10.66667], "texture": "#texture"},
+				"up": {"uv": [8, 0, 10.66667, 16], "texture": "#texture"},
+				"down": {"uv": [8, 0, 10.66667, 16], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Lower bar left",
+			"from": [7.5, 7, 4],
+			"to": [8.5, 8, 5],
+			"faces": {
+				"north": {"uv": [5.33333, 8, 8, 10.66667], "texture": "#texture"},
+				"east": {"uv": [0, 8, 2.66667, 10.66667], "texture": "#texture"},
+				"west": {"uv": [13.33333, 8, 16, 10.66667], "texture": "#texture"},
+				"up": {"uv": [5.33333, 13.33333, 8, 16], "texture": "#texture"},
+				"down": {"uv": [5.33333, 0, 8, 2.66667], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Lower bar right",
+			"from": [7.5, 7, 11],
+			"to": [8.5, 8, 12],
+			"faces": {
+				"east": {"uv": [13.33333, 8, 16, 10.66667], "texture": "#texture"},
+				"south": {"uv": [5.33333, 8, 8, 10.66667], "texture": "#texture"},
+				"west": {"uv": [0, 8, 2.66667, 10.66667], "texture": "#texture"},
+				"up": {"uv": [5.33333, 0, 8, 2.66667], "texture": "#texture"},
+				"down": {"uv": [5.33333, 13.33333, 8, 16], "texture": "#texture"}
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"rotation": [30, 135, 0],
+			"scale": [1.66667, 1.66667, 1.66667]
+		},
+		"fixed": {
+			"rotation": [0, 90, 0],
+			"scale": [2, 2, 2]
+		}
+	}
+}

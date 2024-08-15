@@ -1,0 +1,116 @@
+{
+	"credit": "Made by Thanos, https://modrinth.com/user/thanos",
+	"parent": "item/_template/block",
+	"texture_size": [6, 6],
+	"textures": {
+		"particle": "#particle"
+	},
+	"elements": [
+		{
+			"name": "Left-hand post",
+			"from": [5, 6, 7.5],
+			"to": [6, 11, 8.5],
+			"faces": {
+				"north": {"uv": [13.33333, 2.66667, 16, 16], "texture": "#texture"},
+				"east": {"uv": [13.33333, 2.66667, 16, 16], "texture": "#texture"},
+				"south": {"uv": [13.33333, 2.66667, 16, 16], "texture": "#texture"},
+				"west": {"uv": [13.33333, 2.66667, 16, 16], "texture": "#texture", "cullface": "west"},
+				"up": {"uv": [13.33333, 0, 16, 2.66667], "texture": "#texture"},
+				"down": {"uv": [13.33333, 13.33333, 10.66667, 16], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Right-hand post",
+			"from": [10, 6, 7.5],
+			"to": [11, 11, 8.5],
+			"faces": {
+				"north": {"uv": [0, 2.66667, 2.66667, 16], "texture": "#texture"},
+				"east": {"uv": [0, 2.66667, 2.66667, 16], "texture": "#texture", "cullface": "east"},
+				"south": {"uv": [0, 2.66667, 2.66667, 16], "texture": "#texture"},
+				"west": {"uv": [0, 2.66667, 2.66667, 16], "texture": "#texture"},
+				"up": {"uv": [0, 0, 2.66667, 2.66667], "texture": "#texture"},
+				"down": {"uv": [5.33333, 13.33333, 2.66667, 16], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Inner vertical post of left-hand gate door",
+			"from": [7, 7, 7.5],
+			"to": [8, 10, 8.5],
+			"faces": {
+				"north": {"uv": [8, 2.66667, 10.66667, 10.66667], "texture": "#texture"},
+				"south": {"uv": [5.33333, 2.66667, 8, 10.66667], "texture": "#texture"},
+				"west": {"uv": [8, 2.66667, 10.66667, 10.66667], "texture": "#texture"},
+				"up": {"uv": [8, 0, 10.66667, 2.66667], "texture": "#texture"},
+				"down": {"uv": [8, 13.33333, 10.66667, 10.66667], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Inner vertical post of right-hand gate door",
+			"from": [8, 7, 7.5],
+			"to": [9, 10, 8.5],
+			"faces": {
+				"north": {"uv": [5.33333, 2.66667, 8, 10.66667], "texture": "#texture"},
+				"east": {"uv": [5.33333, 2.66667, 8, 10.66667], "texture": "#texture"},
+				"south": {"uv": [8, 2.66667, 10.66667, 10.66667], "texture": "#texture"},
+				"up": {"uv": [5.33333, 0, 8, 2.66667], "texture": "#texture"},
+				"down": {"uv": [5.33333, 13.33333, 8, 10.66667], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Lower horizontal bar of left-hand gate door",
+			"from": [6, 7, 7.5],
+			"to": [7, 8, 8.5],
+			"faces": {
+				"north": {"uv": [10.66667, 2.66667, 13.33333, 5.33333], "texture": "#texture"},
+				"south": {"uv": [10.66667, 8, 13.33333, 10.66667], "texture": "#texture"},
+				"up": {"uv": [10.66667, 0, 13.33333, 2.66667], "texture": "#texture"},
+				"down": {"uv": [10.66667, 13.33333, 13.33333, 10.66667], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Upper horizontal bar of left-hand gate door",
+			"from": [6, 9, 7.5],
+			"to": [7, 10, 8.5],
+			"faces": {
+				"north": {"uv": [10.66667, 2.66667, 13.33333, 5.33333], "texture": "#texture"},
+				"south": {"uv": [10.66667, 8, 13.33333, 10.66667], "texture": "#texture"},
+				"up": {"uv": [10.66667, 0, 13.33333, 2.66667], "texture": "#texture"},
+				"down": {"uv": [10.66667, 13.33333, 13.33333, 10.66667], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Lower horizontal bar of right-hand gate door",
+			"from": [9, 7, 7.5],
+			"to": [10, 8, 8.5],
+			"faces": {
+				"north": {"uv": [2.66667, 2.66667, 5.33333, 5.33333], "texture": "#texture"},
+				"south": {"uv": [2.66667, 8, 5.33333, 10.66667], "texture": "#texture"},
+				"up": {"uv": [2.66667, 0, 5.33333, 2.66667], "texture": "#texture"},
+				"down": {"uv": [2.66667, 13.33333, 5.33333, 10.66667], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Upper horizontal bar of right-hand gate door",
+			"from": [9, 9, 7.5],
+			"to": [10, 10, 8.5],
+			"faces": {
+				"north": {"uv": [2.66667, 2.66667, 5.33333, 5.33333], "texture": "#texture"},
+				"south": {"uv": [2.66667, 8, 5.33333, 10.66667], "texture": "#texture"},
+				"up": {"uv": [2.66667, 0, 5.33333, 2.66667], "texture": "#texture"},
+				"down": {"uv": [2.66667, 13.33333, 5.33333, 10.66667], "texture": "#texture"}
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"rotation": [30, 45, 0],
+			"translation": [0, -1, 0],
+			"scale": [2.13333, 2.13333, 2.13333]
+		},
+		"head": {
+			"rotation": [ 0, 0, 0 ],
+			"translation": [0, 0, -6],
+			"scale": [ 2.66667, 2.66667, 2.66667 ]
+		}
+	}
+}

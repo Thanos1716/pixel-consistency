@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:item/_template/slab",
+  "textures": {
+    "bottom": "minecraft:item/bricks/all",
+    "side": "minecraft:item/bricks/all",
+    "top": "minecraft:item/bricks/all"
+  }
+}

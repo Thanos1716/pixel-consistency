@@ -1,0 +1,57 @@
+{
+	"credit": "Made by Thanos, https://modrinth.com/user/thanos",
+	"parent": "item/_template/block",
+	"texture_size": [6, 6],
+	"textures": {
+		"particle": "#wall"
+	},
+	"elements": [
+		{
+			"name": "Center post",
+			"from": [6.5, 5, 6.5],
+			"to": [9.5, 11, 9.5],
+			"faces": {
+				"north": {"uv": [2.66667, 0, 10.66667, 16], "texture": "#wall"},
+				"east": {"uv": [2.66667, 0, 10.66667, 16], "texture": "#wall"},
+				"south": {"uv": [2.66667, 0, 10.66667, 16], "texture": "#wall"},
+				"west": {"uv": [2.66667, 0, 10.66667, 16], "texture": "#wall"},
+				"up": {"uv": [2.66667, 2.66667, 10.66667, 10.66667], "texture": "#wall"},
+				"down": {"uv": [2.66667, 2.66667, 10.66667, 10.66667], "texture": "#wall", "cullface": "down"}
+			}
+		},
+		{
+			"name": "Full wall north",
+			"from": [7, 5, 4.5],
+			"to": [9, 10, 6.5],
+			"faces": {
+				"north": {"uv": [5.33333, 2.66667, 10.66667, 16], "texture": "#wall", "cullface": "north"},
+				"east": {"uv": [10.66667, 2.66667, 16, 16], "texture": "#wall"},
+				"west": {"uv": [0, 2.66667, 5.33333, 16], "texture": "#wall"},
+				"up": {"uv": [5.33333, 0, 10.66667, 5.33333], "texture": "#wall"},
+				"down": {"uv": [5.33333, 10.66667, 10.66667, 16], "texture": "#wall", "cullface": "down"}
+			}
+		},
+		{
+			"name": "Full wall south",
+			"from": [7, 5, 9.5],
+			"to": [9, 10, 11.5],
+			"faces": {
+				"east": {"uv": [0, 2.66667, 5.33333, 16], "texture": "#wall"},
+				"south": {"uv": [5.33333, 2.66667, 10.66667, 16], "texture": "#wall", "cullface": "south"},
+				"west": {"uv": [10.66667, 2.66667, 16, 16], "texture": "#wall"},
+				"up": {"uv": [5.33333, 10.66667, 10.66667, 16], "texture": "#wall"},
+				"down": {"uv": [5.33333, 0, 10.66667, 5.33333], "texture": "#wall", "cullface": "down"}
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"rotation": [30, 135, 0],
+			"scale": [1.66667, 1.66667, 1.66667]
+		},
+		"fixed": {
+			"rotation": [0, 90, 0],
+			"scale": [2, 2, 2]
+		}
+	}
+}

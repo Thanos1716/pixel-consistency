@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:item/_template/stairs",
+  "textures": {
+    "bottom": "minecraft:item/jungle_planks/all",
+    "side": "minecraft:item/jungle_planks/all",
+    "top": "minecraft:item/jungle_planks/all"
+  }
+}

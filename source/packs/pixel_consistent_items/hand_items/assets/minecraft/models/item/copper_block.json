@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/_template/cube_all",
+  "textures": {
+    "all": "minecraft:item/copper_block/all"
+  }
+}

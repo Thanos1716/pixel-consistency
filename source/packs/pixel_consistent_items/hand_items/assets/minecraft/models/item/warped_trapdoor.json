@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/_template/trapdoor_orientable",
+  "textures": {
+    "texture": "minecraft:item/warped_trapdoor/texture"
+  }
+}

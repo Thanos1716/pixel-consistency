@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:item/_template/slab",
+  "textures": {
+    "bottom": "minecraft:item/bamboo_mosaic/all",
+    "side": "minecraft:item/bamboo_mosaic/all",
+    "top": "minecraft:item/bamboo_mosaic/all"
+  }
+}

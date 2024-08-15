@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/_template/custom_fence",
+  "textures": {
+    "texture": "minecraft:item/bamboo_fence/texture"
+  }
+}

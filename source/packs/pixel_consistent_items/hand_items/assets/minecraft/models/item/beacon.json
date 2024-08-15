@@ -1,0 +1,52 @@
+{
+	"credit": "Made by Thanos, https://modrinth.com/user/thanos",
+	"parent": "item/_template/block",
+	"texture_size": [6, 6],
+	"textures": {
+		"particle": "item/glass/all",
+		"glass": "item/glass/all",
+		"obsidian": "item/obsidian/all",
+		"beacon": "item/beacon/beacon"
+	},
+	"elements": [
+		{
+			"name": "Glass shell",
+			"from": [5, 5, 5],
+			"to": [11, 11, 11],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#glass"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#glass"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#glass"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#glass"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#glass"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#glass"}
+			}
+		},
+		{
+			"name": "Obsidian base",
+			"from": [5.5, 5.1, 5.5],
+			"to": [10.5, 6.1, 10.5],
+			"faces": {
+				"north": {"uv": [0, 13.33333, 13.33333, 16], "texture": "#obsidian"},
+				"east": {"uv": [0, 13.33333, 13.33333, 16], "texture": "#obsidian"},
+				"south": {"uv": [0, 13.33333, 13.33333, 16], "texture": "#obsidian"},
+				"west": {"uv": [0, 13.33333, 13.33333, 16], "texture": "#obsidian"},
+				"up": {"uv": [0, 0, 13.33333, 13.33333], "texture": "#obsidian"},
+				"down": {"uv": [0, 0, 13.33333, 13.33333], "texture": "#obsidian"}
+			}
+		},
+		{
+			"name": "Inner beacon texture",
+			"from": [6, 6, 6],
+			"to": [10, 10, 10],
+			"faces": {
+				"north": {"uv": [2.66667, 2.66667, 13.33333, 13.33333], "texture": "#beacon"},
+				"east": {"uv": [2.66667, 2.66667, 13.33333, 13.33333], "texture": "#beacon"},
+				"south": {"uv": [2.66667, 2.66667, 13.33333, 13.33333], "texture": "#beacon"},
+				"west": {"uv": [2.66667, 2.66667, 13.33333, 13.33333], "texture": "#beacon"},
+				"up": {"uv": [2.66667, 2.66667, 13.33333, 13.33333], "texture": "#beacon"},
+				"down": {"uv": [2.66667, 2.66667, 13.33333, 13.33333], "texture": "#beacon"}
+			}
+		}
+	]
+}
