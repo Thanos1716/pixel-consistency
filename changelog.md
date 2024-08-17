@@ -1,8 +1,8 @@
 # Pixel Consistency Changelog
 
-## Pixel Consistency b0.7
+## Pixel Consistency b0.7 WIP
 
-### Additions
+### Coming Additions
 - Entities
   - Horse (all variants)
   - [TODO: legs/anims] Baby Horse (all variants)
@@ -18,6 +18,7 @@
   - [TODO] Rename skins to textures
   - [TODO] Pixel consistent dragon egg is now in vanilla (24w33a)
   - [TODO] Make new tab textures in assets/minecraft/textures/gui/sprites/widget/ consistent
+  - [TODO] Switch to Seamless? https://modrinth.com/mod/seamless
 
 - Font
   - Unicode Basic Multilingual Plane
@@ -48,7 +49,7 @@
       - SUPPLEMENTAL_ARROWS
       - BRAILLE_PATTERNS  
     - Page FF
-      - HALFWIDTH_AN1D_FULLWIDTH_FORMS
+      - HALFWIDTH_AND_FULLWIDTH_FORMS
       - SPECIALS
 - Shaders
   - [TODO] Consistent Enchantment Glint Shader Overlay for below 1.20.5
@@ -56,10 +57,19 @@
   - Trident Enchantment Glint (`rendertype_entity_glint_direct`)
   - Item Enchantment Glint (`rendertype_glint`)
 
-### Fixes
+### Coming Fixes
 - Tweak elder guardian and husk scale
 - [TODO] Cold baby strider needs to frown harder
 - [TODO] Fix wolf and baby wolf head rotations
+
+# Pixel Consistency b0.6.1
+
+b0.6 was missing a `bogged_inner_armor.jem` and a `bogged_outer_armor.jem`, resulting in a broken model for any bogged wearing armor.
+
+This release fixes that in case you want to take on a consistent trial chamber! (more trial chamber consistency in the works)
+
+### Fixes
+- Bogged Inner & Outer Armor Layers
 
 ## Pixel Consistency b0.6
 

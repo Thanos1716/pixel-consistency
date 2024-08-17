@@ -112,11 +112,11 @@ please raise an issue on the [issues](https://github.com/Thanos1716/pixel-consis
 
 ## Licensing
 
-This project is licensed under the Creative Commons Zero 1.0 Universal license in order to bring pixel consistency to as many people as possible, that means legally you can use any model in this pack in whatever way you like, however I would highly appreciate it if you contact me beforehand when planning to do anything significant publicly with the assets, please credit me where possible!
+This project is licensed under the Creative Commons Attribution 4.0 license in order to bring pixel consistency to as many people as possible, that means legally you can use any model in this pack in whatever way you like as long as you give me credit. I would highly appreciate it if you contact me beforehand when planning to do anything significant publicly with the assets.
 
 Please don't abuse the permissiveness of the license, I don't want to have to change it, thanks :D
 
-Note that the license CC0-1.0 applies to all of the models and most of the textures used in this pack. Some textures in this pack are modified versions of the vanilla assets, which are required to make the pack work, however no direct copies of assets under Mojang copyright are included.
+Note that the license CC-BY-4.0 applies to all of the models and most of the textures used in this pack. Some textures in this pack are modified versions of the vanilla assets, which are required to make the pack work, however no direct copies of assets under Mojang copyright are included.
 
 ## Credit
 
