@@ -2,6 +2,8 @@
 
 ## Pixel Consistency b0.7 WIP
 
+Technical note, renamed all `skins` properties to `textures` in .properties files
+
 ### Coming Additions
 - Entities
   - Horse (all variants)
@@ -15,8 +17,9 @@
   - [TODO] Baby Cat Collar
   - [TODO] Spawner humanoid armor textures
   - [TODO] Separate fitted armor models
-  - [TODO] Rename skins to textures
   - [TODO] Pixel consistent dragon egg is now in vanilla (24w33a)
+  - [TODO] Blaze bottom rod textures of spawner texture need fixing (fixed in vanilla)
+  - [TODO] Fix elder guardian texture
 
 - Font
   - Unicode Basic Multilingual Plane
@@ -60,7 +63,32 @@
 - [TODO] Cold baby strider needs to frown harder
 - [TODO] Fix wolf and baby wolf head rotations
 
-# Pixel Consistency b0.6.1
+
+## Pixel Consistency b0.6.2
+
+EMF 2.2.2 and above now requires the inclusion of a base model unless a setting is disabled, for OptiFine parity. This hotfix adds empty models to allow all models to load without changing the settings.
+
+### Fixes
+- Armor Stand (small)
+- Blaze (spawner)
+- Camel (baby)
+- Chicken (baby)
+- Cow (baby)
+- Drowned (spawner)
+- Goat (baby)
+- Hoglin (baby)
+- Magma Cube (baby)
+- Mooshroom (baby)
+- Pig (baby & baby saddle)
+- Polar Bear (baby)
+- Silverfish (spawner)
+- Skeleton (spawner)
+- Sniffer (baby)
+- Turtle (baby)
+- Zoglin (baby)
+- Zombie (baby & spawner)
+
+## Pixel Consistency b0.6.1
 
 b0.6 was missing a `bogged_inner_armor.jem` and a `bogged_outer_armor.jem`, resulting in a broken model for any bogged wearing armor.
 
