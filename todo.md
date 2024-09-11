@@ -19,3 +19,4 @@
 - [x] Fixed snow golem pumpkin always showing up
 - [ ] Use nbt in animation for snow golem to make pumpkin disappear instantly
 - [ ] Add baby wolf armor crackiness textures
+- [ ] Fix furnace minecart
