@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/base/item/handheld_rod",
-  "textures": {
-    "layer0": "minecraft:item/base/item/warped_fungus_on_a_stick"
-  }
-}

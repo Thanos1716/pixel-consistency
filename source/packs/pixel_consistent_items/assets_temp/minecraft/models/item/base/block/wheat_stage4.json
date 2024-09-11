@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/base/block/crop",
-  "textures": {
-    "crop": "minecraft:item/base/block/wheat_stage4"
-  }
-}

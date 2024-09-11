@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:item/base/block/orientable",
-  "textures": {
-    "front": "minecraft:item/base/block/jack_o_lantern",
-    "side": "minecraft:item/base/block/pumpkin_side",
-    "top": "minecraft:item/base/block/pumpkin_top"
-  }
-}

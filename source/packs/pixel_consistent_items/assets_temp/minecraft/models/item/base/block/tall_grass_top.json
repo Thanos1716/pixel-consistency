@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/base/block/tinted_cross",
-  "textures": {
-    "cross": "minecraft:item/base/block/tall_grass_top"
-  }
-}

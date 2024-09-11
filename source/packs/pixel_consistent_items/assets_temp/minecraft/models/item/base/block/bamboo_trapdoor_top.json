@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/base/block/template_orientable_trapdoor_top",
-  "textures": {
-    "texture": "minecraft:item/base/block/bamboo_trapdoor"
-  }
-}

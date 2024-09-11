@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:item/base/block/door_top_right",
-  "textures": {
-    "bottom": "minecraft:item/base/block/copper_door_bottom",
-    "top": "minecraft:item/base/block/copper_door_top"
-  }
-}

@@ -1,6 +1,0 @@
-{
-  "parent": "item/base/block/sculk_sensor",
-  "textures": {
-    "tendrils": "item/base/block/sculk_sensor_tendril_active"
-  }
-}

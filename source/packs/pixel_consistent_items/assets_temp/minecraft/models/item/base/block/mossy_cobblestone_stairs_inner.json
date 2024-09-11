@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:item/base/block/inner_stairs",
-  "textures": {
-    "bottom": "minecraft:item/base/block/mossy_cobblestone",
-    "side": "minecraft:item/base/block/mossy_cobblestone",
-    "top": "minecraft:item/base/block/mossy_cobblestone"
-  }
-}

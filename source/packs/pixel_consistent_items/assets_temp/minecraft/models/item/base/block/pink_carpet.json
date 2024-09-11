@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/base/block/carpet",
-  "textures": {
-    "wool": "minecraft:item/base/block/pink_wool"
-  }
-}

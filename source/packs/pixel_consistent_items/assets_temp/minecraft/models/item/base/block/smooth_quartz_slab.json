@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:item/base/block/slab",
-  "textures": {
-    "bottom": "minecraft:item/base/block/quartz_block_bottom",
-    "side": "minecraft:item/base/block/quartz_block_bottom",
-    "top": "minecraft:item/base/block/quartz_block_bottom"
-  }
-}

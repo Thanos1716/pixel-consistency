@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/base/block/coral_wall_fan",
-  "textures": {
-    "fan": "minecraft:item/base/block/dead_tube_coral_fan"
-  }
-}

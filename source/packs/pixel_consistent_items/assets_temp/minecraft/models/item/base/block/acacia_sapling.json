@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/base/block/cross",
-  "textures": {
-    "cross": "minecraft:item/base/block/acacia_sapling"
-  }
-}

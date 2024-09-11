@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:item/base/block/cube_bottom_top",
-  "textures": {
-    "bottom": "minecraft:item/base/block/netherrack",
-    "side": "minecraft:item/base/block/crimson_nylium_side",
-    "top": "minecraft:item/base/block/crimson_nylium"
-  }
-}

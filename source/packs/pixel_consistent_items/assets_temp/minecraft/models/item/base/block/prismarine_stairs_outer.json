@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:item/base/block/outer_stairs",
-  "textures": {
-    "bottom": "minecraft:item/base/block/prismarine",
-    "side": "minecraft:item/base/block/prismarine",
-    "top": "minecraft:item/base/block/prismarine"
-  }
-}

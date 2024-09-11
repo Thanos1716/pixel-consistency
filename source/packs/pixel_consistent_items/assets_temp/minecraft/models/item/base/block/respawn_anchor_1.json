@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:item/base/block/cube_bottom_top",
-  "textures": {
-    "bottom": "minecraft:item/base/block/respawn_anchor_bottom",
-    "side": "minecraft:item/base/block/respawn_anchor_side1",
-    "top": "minecraft:item/base/block/respawn_anchor_top"
-  }
-}

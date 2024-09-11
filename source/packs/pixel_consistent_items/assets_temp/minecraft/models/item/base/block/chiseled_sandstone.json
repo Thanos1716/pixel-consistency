@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:item/base/block/cube_column",
-  "textures": {
-    "end": "minecraft:item/base/block/sandstone_top",
-    "side": "minecraft:item/base/block/chiseled_sandstone"
-  }
-}

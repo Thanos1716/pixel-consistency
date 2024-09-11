@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:item/base/block/cube_column",
-  "textures": {
-    "end": "minecraft:item/base/block/cherry_log",
-    "side": "minecraft:item/base/block/cherry_log"
-  }
-}

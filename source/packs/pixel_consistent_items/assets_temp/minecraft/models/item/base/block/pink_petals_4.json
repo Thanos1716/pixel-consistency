@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:item/base/block/flowerbed_4",
-  "textures": {
-    "flowerbed": "minecraft:item/base/block/pink_petals",
-    "stem": "minecraft:item/base/block/pink_petals_stem"
-  }
-}

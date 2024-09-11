@@ -7,6 +7,7 @@
     },
     "dependencies": [
         "pixel_consistent_blocks",
-        "pixel_consistent_entities"
+        "pixel_consistent_entities",
+        "pixel_consistent_items"
     ]
 }

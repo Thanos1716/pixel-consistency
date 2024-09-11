@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:item/base/block/inner_stairs",
-  "textures": {
-    "bottom": "minecraft:item/base/block/polished_diorite",
-    "side": "minecraft:item/base/block/polished_diorite",
-    "top": "minecraft:item/base/block/polished_diorite"
-  }
-}

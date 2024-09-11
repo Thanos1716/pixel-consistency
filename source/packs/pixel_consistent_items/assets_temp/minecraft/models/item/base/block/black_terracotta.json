@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/base/block/cube_all",
-  "textures": {
-    "all": "minecraft:item/base/block/black_terracotta"
-  }
-}

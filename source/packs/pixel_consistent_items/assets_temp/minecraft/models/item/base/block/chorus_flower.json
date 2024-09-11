@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/base/block/template_chorus_flower",
-  "textures": {
-    "texture": "minecraft:item/base/block/chorus_flower"
-  }
-}

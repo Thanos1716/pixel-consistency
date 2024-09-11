@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:item/base/block/stairs",
-  "textures": {
-    "bottom": "minecraft:item/base/block/mud_bricks",
-    "side": "minecraft:item/base/block/mud_bricks",
-    "top": "minecraft:item/base/block/mud_bricks"
-  }
-}

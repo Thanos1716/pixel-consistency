@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/base/block/flower_pot_cross",
-  "textures": {
-    "plant": "minecraft:item/base/block/dandelion"
-  }
-}

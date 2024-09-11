@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/base/block/button_pressed",
-  "textures": {
-    "texture": "minecraft:item/base/block/warped_planks"
-  }
-}

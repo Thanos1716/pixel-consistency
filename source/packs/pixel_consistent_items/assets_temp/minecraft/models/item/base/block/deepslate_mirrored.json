@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:item/base/block/cube_column_mirrored",
-  "textures": {
-    "end": "minecraft:item/base/block/deepslate_top",
-    "side": "minecraft:item/base/block/deepslate"
-  }
-}

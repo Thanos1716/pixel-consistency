@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/base/block/template_fence_gate",
-  "textures": {
-    "texture": "minecraft:item/base/block/acacia_planks"
-  }
-}

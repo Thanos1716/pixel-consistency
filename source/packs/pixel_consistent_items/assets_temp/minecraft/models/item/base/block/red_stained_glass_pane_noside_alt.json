@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/base/block/template_glass_pane_noside_alt",
-  "textures": {
-    "pane": "minecraft:item/base/block/red_stained_glass"
-  }
-}

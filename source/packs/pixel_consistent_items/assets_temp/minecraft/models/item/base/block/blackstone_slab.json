@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:item/base/block/slab",
-  "textures": {
-    "bottom": "minecraft:item/base/block/blackstone_top",
-    "side": "minecraft:item/base/block/blackstone",
-    "top": "minecraft:item/base/block/blackstone_top"
-  }
-}
