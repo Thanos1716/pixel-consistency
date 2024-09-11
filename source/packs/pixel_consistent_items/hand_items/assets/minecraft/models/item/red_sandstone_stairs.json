@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:item/_template/stairs",
+  "textures": {
+    "bottom": "minecraft:item/red_sandstone/bottom",
+    "side": "minecraft:item/red_sandstone/side",
+    "top": "minecraft:item/red_sandstone/top"
+  }
+}

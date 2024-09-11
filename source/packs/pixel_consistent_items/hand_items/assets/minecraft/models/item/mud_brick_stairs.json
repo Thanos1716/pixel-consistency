@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:item/_template/stairs",
+  "textures": {
+    "bottom": "minecraft:item/mud_bricks/all",
+    "side": "minecraft:item/mud_bricks/all",
+    "top": "minecraft:item/mud_bricks/all"
+  }
+}
