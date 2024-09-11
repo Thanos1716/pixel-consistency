@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
-	"texture": "textures/pixel_consistency/entity/end_crystal/end_crystal.png",
 	"textureSize": [128, 64],
+	"texture": "textures/pixel_consistency/entity/end_crystal/end_crystal.png",
 	"models": [
 		{
 			"part": "base",
@@ -51,7 +51,7 @@
 						{
 							"id": "glass3",
 							"invertAxis": "xy",
-							"translate": [0, -20, 0],
+							"translate": [0, -19, 0],
 							"submodels": [
 								{
 									"id": "glass3_rotation",
@@ -89,6 +89,7 @@
 				{
 					"var.scale": 0.5,
 					"pivot.rx": 0,
+					"cube.visible": "false",
 					"glass3.ry": "age / 20",
 					"cube2.ry": "age / 20",
 					"scale.sx": "var.scale",
