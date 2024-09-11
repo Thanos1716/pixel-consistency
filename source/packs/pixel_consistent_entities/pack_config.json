@@ -1,0 +1,7 @@
+{
+    "pack_name": "Pixel Consistent Entities",
+    "pack_id": "pixel_consistent_entities",
+    "namespaces": {
+        "minecraft": "1.21.1"
+    }
+}

@@ -1,0 +1,18 @@
+
+- [ ] Baby Horse Armor (all variants)
+- [ ] Switch to ETF/EMF folders
+- [ ] Cat
+- [ ] Baby Cat
+- [ ] Cat Collar
+- [ ] Baby Cat Collar
+- [ ] Spawner humanoid armor textures
+- [ ] Separate fitted armor models
+- [ ] Pixel consistent dragon egg is now in vanilla (24w33a)
+- [ ] Blaze bottom rod textures of spawner texture need fixing (fixed in vanilla)
+- [ ] Fix elder guardian texture
+- [ ] Fix end crystal
+- [ ] Improve wither skeleton face
+- [ ] Consistent Enchantment Glint Shader Overlay for below 1.20.5
+- [ ] Cold baby strider needs to frown harder
+- [ ] Fix wolf and baby wolf head rotations
+- [x] Tweak elder guardian and husk scale

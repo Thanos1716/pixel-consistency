@@ -4,23 +4,11 @@
 
 Technical note, renamed all `skins` properties to `textures` in .properties files
 
-### Coming Additions
+### Additions
 - Entities
   - Horse (all variants)
   - [TODO: legs/anims] Baby Horse (all variants)
   - Horse Armor (all variants)
-  - [TODO] Baby Horse Armor (all variants)
-  - [TODO] Switch to ETF/EMF folders
-  - [TODO] Cat
-  - [TODO] Baby Cat
-  - [TODO] Cat Collar
-  - [TODO] Baby Cat Collar
-  - [TODO] Spawner humanoid armor textures
-  - [TODO] Separate fitted armor models
-  - [TODO] Pixel consistent dragon egg is now in vanilla (24w33a)
-  - [TODO] Blaze bottom rod textures of spawner texture need fixing (fixed in vanilla)
-  - [TODO] Fix elder guardian texture
-
 - Font
   - Unicode Basic Multilingual Plane
     - Pages 00-05
@@ -53,16 +41,9 @@ Technical note, renamed all `skins` properties to `textures` in .properties file
       - HALFWIDTH_AND_FULLWIDTH_FORMS
       - SPECIALS
 - Shaders
-  - [TODO] Consistent Enchantment Glint Shader Overlay for below 1.20.5
   - Armor Enchantment Glint (`rendertype_armor_entity_glint`, elytra needs work)
   - Trident Enchantment Glint (`rendertype_entity_glint_direct`)
   - Item Enchantment Glint (`rendertype_glint`)
-
-### Coming Fixes
-- Tweak elder guardian and husk scale
-- [TODO] Cold baby strider needs to frown harder
-- [TODO] Fix wolf and baby wolf head rotations
-
 
 ## Pixel Consistency b0.6.2
 

@@ -1,0 +1,12 @@
+{
+    "pack_name": "Pixel Consistency",
+    "pack_version": "b0.6.3",
+    "pack_id": "pixel_consistency",
+    "namespaces": {
+        "minecraft": "1.21.1"
+    },
+    "dependencies": [
+        "pixel_consistent_blocks",
+        "pixel_consistent_entities"
+    ]
+}
