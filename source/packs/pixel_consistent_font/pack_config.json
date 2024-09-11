@@ -1,0 +1,7 @@
+{
+    "pack_name": "Pixel Consistent Font",
+    "pack_id": "pixel_consistent_font",
+    "namespaces": {
+        "minecraft": "1.21.1"
+    }
+}
