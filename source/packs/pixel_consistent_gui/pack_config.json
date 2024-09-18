@@ -1,0 +1,7 @@
+{
+    "pack_name": "Pixel Consistent GUI",
+    "pack_id": "pixel_consistent_gui",
+    "namespaces": {
+        "minecraft": "1.21.1"
+    }
+}

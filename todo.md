@@ -20,3 +20,7 @@
 - [ ] Use nbt in animation for snow golem to make pumpkin disappear instantly
 - [ ] Add baby wolf armor crackiness textures
 - [ ] Fix furnace minecart
+- [ ] Vanilla incompatibilities
+  - [ ] Armor textures & trims
+  - [ ] Arrows
+  - [ ] Banner patterns
