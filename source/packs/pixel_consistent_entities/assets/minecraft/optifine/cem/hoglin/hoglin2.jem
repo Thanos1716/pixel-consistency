@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
-	"texture": "textures/pixel_consistency/entity/hoglin/baby.png",
 	"textureSize": [64, 64],
+	"texture": "textures/entity/hoglin/baby.png",
 	"models": [
 		{
 			"part": "head",
@@ -13,25 +13,13 @@
 			"part": "left_ear",
 			"id": "left_ear",
 			"invertAxis": "xy",
-			"translate": [6, -23, 11.5],
-			"animations": [
-				{
-					"left_ear_rotation.rx": 0,
-					"left_ear_rotation2.rz": 0
-				}
-			]
+			"translate": [6, -23, 11.5]
 		},
 		{
 			"part": "right_ear",
 			"id": "right_ear",
 			"invertAxis": "xy",
-			"translate": [-6, -23, 11.5],
-			"animations": [
-				{
-					"right_ear_rotation.rx": 0,
-					"right_ear_rotation2.rz": 0
-				}
-			]
+			"translate": [-6, -23, 11.5]
 		},
 		{
 			"part": "body",
