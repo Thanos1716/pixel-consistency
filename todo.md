@@ -21,6 +21,7 @@
 - [ ] Add baby wolf armor crackiness textures
 - [x] Fix furnace minecart
 - [x] Fix zombie_villager.properties symlink
+- [ ] Move textures/pixel_consistency/entity -> textures/entity/pixel_consistency?
 - [ ] Vanilla incompatibilities
   - [ ] Armor textures & trims
   - [ ] Arrows

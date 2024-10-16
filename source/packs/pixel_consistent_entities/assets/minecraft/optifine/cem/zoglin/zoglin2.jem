@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textureSize": [64, 64],
-	"texture": "textures/entity/zoglin/baby.png",
+	"texture": "textures/pixel_consistency/entity/zoglin/baby.png",
 	"models": [
 		{
 			"part": "head",
