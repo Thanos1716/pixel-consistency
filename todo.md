@@ -1,6 +1,6 @@
 
 - [ ] Baby Horse Armor (all variants)
-- [ ] Switch to ETF/EMF folders
+- [x] Switch to ETF/EMF folders
 - [ ] Cat
 - [ ] Baby Cat
 - [ ] Cat Collar
@@ -24,3 +24,6 @@
   - [ ] Armor textures & trims
   - [ ] Arrows
   - [ ] Banner patterns
+- [ ] Fix diamond armor shoulder pads (why are they different??)
+- [ ] Move spawner skeleton spine pixel to the center
+- [ ] Replay mod icon consistent
