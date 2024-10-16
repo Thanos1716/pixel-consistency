@@ -53,7 +53,7 @@
 									"id": "pumpkin",
 									"invertAxis": "xy",
 									"translate": [0, 0, 0],
-									"texture": "textures/pixel_consistency/entity/snow_golem/pumpkin.png",
+									"texture": "textures/entity/snow_golem/pumpkin.png",
 									"boxes": [
 										{"coordinates": [-5, 0.5, -5, 10, 10, 10], "textureOffset": [0, 0], "sizeAdd": 0.1}
 									]
