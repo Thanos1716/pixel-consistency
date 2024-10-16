@@ -20,6 +20,7 @@
 - [ ] Use nbt in animation for snow golem to make pumpkin disappear instantly
 - [ ] Add baby wolf armor crackiness textures
 - [x] Fix furnace minecart
+- [x] Fix zombie_villager.properties symlink
 - [ ] Vanilla incompatibilities
   - [ ] Armor textures & trims
   - [ ] Arrows
