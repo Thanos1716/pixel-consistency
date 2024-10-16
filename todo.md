@@ -23,6 +23,7 @@
 - [x] Fix zombie_villager.properties symlink
 - [ ] Move textures/pixel_consistency/entity -> textures/entity/pixel_consistency?
 - [ ] Vanilla incompatibilities
+- [ ] Redo pillager
 - [ ] Wolf armor model isn't supported by OptiFine yet
   - [ ] Armor textures & trims
   - [ ] Arrows
