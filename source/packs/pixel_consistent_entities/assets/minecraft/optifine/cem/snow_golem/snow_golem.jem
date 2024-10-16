@@ -1,6 +1,6 @@
 {
 	"credit": "Made with Blockbench",
-	"texture": "textures/pixel_consistency/entity/snow_golem/snow_golem.png",
+	"texture": "textures/entity/snow_golem/snow_golem.png",
 	"textureSize": [64, 64],
 	"models": [
 		{
