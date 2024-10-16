@@ -9,16 +9,6 @@
 			"translate": [0, -23, 0],
 			"boxes": [
 				{"coordinates": [-8, 15, -8, 16, 14, 16], "textureOffset": [0, 0]}
-			],
-			"animations": [
-				{
-					"rotate_back.rx": "-body.rx",
-					"rotate_back.ry": "-body.ry",
-					"rotate_back.rz": "-body.rz",
-					"body2.rx": "body.rx",
-					"body2.ry": "body.ry",
-					"body2.rz": "body.rz"
-				}
 			]
 		},
 		{
