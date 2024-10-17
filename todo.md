@@ -24,7 +24,8 @@
 - [ ] Move textures/pixel_consistency/entity -> textures/entity/pixel_consistency?
 - [ ] Vanilla incompatibilities
 - [ ] Redo pillager
-- [ ] Wolf armor model isn't supported by OptiFine yet
+- [ ] Fix green baby llama decor creeper eyes
+- [ ] Wolf armor model isn't supported by OptiFine yet (make sure to fix wolf_armor.properties symlink (texture and model) when it is)
   - [ ] Armor textures & trims
   - [ ] Arrows
   - [ ] Banner patterns
