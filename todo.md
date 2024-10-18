@@ -22,10 +22,10 @@
 - [x] Fix furnace minecart
 - [x] Fix zombie_villager.properties symlink
 - [ ] Move textures/pixel_consistency/entity -> textures/entity/pixel_consistency?
-- [ ] Vanilla incompatibilities
 - [ ] Redo pillager
-- [ ] Fix green baby llama decor creeper eyes
+- [x] Fix green baby llama decor creeper eyes
 - [ ] Wolf armor model isn't supported by OptiFine yet (make sure to fix wolf_armor.properties symlink (texture and model) when it is)
+- [ ] Vanilla incompatibilities
   - [ ] Armor textures & trims
   - [ ] Arrows
   - [ ] Banner patterns
