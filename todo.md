@@ -19,7 +19,12 @@
 - [x] Fixed snow golem pumpkin always showing up
 - [ ] Use nbt in animation for snow golem to make pumpkin disappear instantly
 - [ ] Add baby wolf armor crackiness textures
-- [ ] Fix furnace minecart
+- [x] Fix furnace minecart
+- [x] Fix zombie_villager.properties symlink
+- [ ] Move textures/pixel_consistency/entity -> textures/entity/pixel_consistency?
+- [ ] Redo pillager
+- [x] Fix green baby llama decor creeper eyes
+- [ ] Wolf armor model isn't supported by OptiFine yet (make sure to fix wolf_armor.properties symlink (texture and model) when it is)
 - [ ] Vanilla incompatibilities
   - [ ] Armor textures & trims
   - [ ] Arrows
