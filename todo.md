@@ -10,7 +10,7 @@
 - [ ] Blaze bottom rod textures of spawner texture need fixing (fixed in vanilla)
 - [x] Fix elder guardian texture
 - [ ] Fix end crystal
-- [ ] Fix baby husk
+- [x] Fix baby husk
 - [ ] Improve wither skeleton face
 - [ ] Consistent Enchantment Glint Shader Overlay for below 1.20.5
 - [ ] Cold baby strider needs to frown harder
