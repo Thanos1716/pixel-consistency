@@ -1,4 +1,3 @@
-
 - [ ] Baby Horse Armor (all variants)
 - [x] Switch to ETF/EMF folders
 - [ ] Cat
@@ -9,8 +8,9 @@
 - [ ] Separate fitted armor models
 - [ ] Pixel consistent dragon egg is now in vanilla (24w33a)
 - [ ] Blaze bottom rod textures of spawner texture need fixing (fixed in vanilla)
-- [ ] Fix elder guardian texture
+- [x] Fix elder guardian texture
 - [ ] Fix end crystal
+- [ ] Fix baby husk
 - [ ] Improve wither skeleton face
 - [ ] Consistent Enchantment Glint Shader Overlay for below 1.20.5
 - [ ] Cold baby strider needs to frown harder
@@ -25,10 +25,11 @@
 - [ ] Redo pillager
 - [x] Fix green baby llama decor creeper eyes
 - [ ] Wolf armor model isn't supported by OptiFine yet (make sure to fix wolf_armor.properties symlink (texture and model) when it is)
-- [ ] Vanilla incompatibilities
-  - [ ] Armor textures & trims
-  - [ ] Arrows
-  - [ ] Banner patterns
-- [ ] Fix diamond armor shoulder pads (why are they different??)
+- [x] Fix diamond armor shoulder pads (why are they different??)
 - [ ] Move spawner skeleton spine pixel to the center
 - [ ] Replay mod icon consistent
+- [ ] Fix trial spawner mobs
+- [ ] Vanilla incompatibilities
+  - [ ] Armor textures & trims
+  - [x] Arrows
+  - [ ] Banner patterns

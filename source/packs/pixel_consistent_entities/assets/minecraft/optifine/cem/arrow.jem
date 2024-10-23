@@ -1,6 +1,6 @@
 {
 	"credit": "Made with Blockbench",
-	"textureSize": [32, 8],
+	"textureSize": [32, 32],
 	"models": [
 		{
 			"part": "body",
@@ -8,9 +8,9 @@
 			"invertAxis": "xy",
 			"translate": [0, -3.5, 0],
 			"boxes": [
-				{"coordinates": [-7, 1, 0, 14, 3, 0], "textureOffset": [0, 0]},
-				{"coordinates": [6, 1, -1.5, 0, 3, 3], "textureOffset": [0, 0]},
-				{"coordinates": [-7, 2.5, -1.5, 14, 0, 3], "textureOffset": [-3, 0]}
+				{"coordinates": [-7, 1, 0, 14, 3, 0], "textureOffset": [0, 10]},
+				{"coordinates": [6, 1, -1.5, 0, 3, 3], "textureOffset": [0, 10]},
+				{"coordinates": [-7, 2.5, -1.5, 14, 0, 3], "textureOffset": [-3, 10]}
 			],
 			"animations": [
 				{
