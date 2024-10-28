@@ -1,6 +1,7 @@
 {
-	"credit": "Made with Blockbench",
-	"textureSize": [64, 64],
+	"credit": "Made with Blockbench1",
+	"textureSize": [128, 128],
+	"texture": "textures/entity/banner_base.png",
 	"models": [
 		{
 			"part": "top",
@@ -13,7 +14,7 @@
 					"invertAxis": "xy",
 					"translate": [0, 0, 0],
 					"boxes": [
-						{"coordinates": [-7, 28, -1, 14, 2, 2], "textureOffset": [0, 30]}
+						{"coordinates": [-7, 28, -1, 14, 2, 2], "textureOffset": [0, 124]}
 					]
 				}
 			]
@@ -29,7 +30,7 @@
 					"invertAxis": "xy",
 					"translate": [0, 0, 0],
 					"boxes": [
-						{"coordinates": [-7, 2, -2, 14, 28, 1], "textureOffset": [0, 0]}
+						{"coordinates": [-7, 2, -2, 14, 28, 1], "textureOffset": [0, 94]}
 					]
 				}
 			]
@@ -45,7 +46,7 @@
 					"invertAxis": "xy",
 					"translate": [0, 0, 0],
 					"boxes": [
-						{"coordinates": [-1, 0, -1, 2, 28, 2], "textureOffset": [30, 0]}
+						{"coordinates": [-1, 0, -1, 2, 28, 2], "textureOffset": [30, 94]}
 					]
 				}
 			],
