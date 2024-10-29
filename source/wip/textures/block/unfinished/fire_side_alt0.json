@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/template_fire_side_alt",
-  "textures": {
-    "fire": "minecraft:block/pixel_consistency/fire_tall_bottom_0",
-    "fire2": "minecraft:block/pixel_consistency/fire_tall_top_0"
-  }
-}
