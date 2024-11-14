@@ -1,0 +1,6 @@
+repos:
+- repo: https://github.com/shssoichiro/oxipng
+  rev: acdd66b4c5a5fda8b08281ad9b3216327b6847b4
+  hooks:
+  - id: oxipng
+    args: ["-o4", "-i0", "--strip", "safe"]
