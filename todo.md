@@ -29,6 +29,7 @@
 - [ ] Move spawner skeleton spine pixel to the center
 - [ ] Replay mod icon consistent
 - [ ] Fix trial spawner mobs
+- [ ] Real arrow tip compat?
 - [ ] Vanilla incompatibilities
   - [ ] Armor textures & trims
   - [x] Arrows
