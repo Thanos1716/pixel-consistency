@@ -1,6 +1,8 @@
 
 add christmas chest and trapped chest support 
 check "texture_size" for models
+create unique textures for the 8x8 banner patterns?
+
 
 remove all particle texture references in models/item? (and any particle specific textures like for fences and fence gates)
 run the pack through json cleaners and identify any unknown or useless keys

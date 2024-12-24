@@ -30,6 +30,7 @@
 - [ ] Replay mod icon consistent
 - [ ] Fix trial spawner mobs
 - [ ] Real arrow tip compat?
+- [ ] Update unifont used in pixel consistent font
 - [ ] Vanilla incompatibilities
   - [ ] Armor textures & trims
   - [x] Arrows
