@@ -81,19 +81,6 @@ Fresh Animations is not yet supported because of the drastic remodel of most edi
 
 </details>
 
-### Where is the CurseForge link?
-
-<details> <summary>Click for answer</summary>
-
-I will not be hosting this pack on CurseForge due to:
- - No Linux support for Minecraft in the CurseForge Launcher (despite both Minecraft and CurseForge having a Linux client)
- - No option to create an account without linking other services
- - [The state that CurseForge is in](https://www.youtube.com/watch?v=Vhdwz5apiQQ)
-
-As a result, <strong>I do not condone the uploading of this resource pack to CurseForge and likely never will,</strong> however if you would like to use parts of this resource pack in something you create and upload to CurseForge, feel free!
-
-</details>
-
 ## Links
 
 If this pack interests you, come and join my [Discord server](https://discord.gg/x8n6RmP78V)!
@@ -109,6 +96,8 @@ If you have:
  - Would like to request a feature
 
 please raise an issue on the [issues](https://github.com/Thanos1716/pixel-consistency/issues/new) page or in the [Discord server](https://discord.gg/x8n6RmP78V).
+
+This project does not have a Planet Minecraft or CurseForge page.
 
 ## Licensing
 
