@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/_template/cube",
+  "textures": {
+    "layer0": "minecraft:item/mud"
+  }
+}

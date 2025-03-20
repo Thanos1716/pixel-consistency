@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/_template/button",
+  "textures": {
+    "layer0": "minecraft:item/crimson_planks"
+  }
+}

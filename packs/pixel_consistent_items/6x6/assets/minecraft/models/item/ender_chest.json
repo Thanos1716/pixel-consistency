@@ -1,6 +1,6 @@
 {
 	"credit": "Made by Thanos, https://modrinth.com/user/thanos",
-	"parent": "item/_template/chest",
+	"parent": "item/template_chest",
 	"texture_size": [6, 6],
 	"textures": {
 		"knob": "item/ender_chest/knob",
@@ -10,6 +10,6 @@
 		"west": "item/ender_chest/west",
 		"up": "item/ender_chest/up",
 		"down": "item/ender_chest/down",
-		"particle": "item/obsidian"
+		"particle": "block/obsidian"
 	}
 }

@@ -1,15 +1,15 @@
 {
 	"credit": "Made by Thanos, https://modrinth.com/user/thanos",
-	"parent": "item/_template/chest",
+	"parent": "item/template_chest",
 	"texture_size": [6, 6],
 	"textures": {
 		"knob": "item/chest/knob",
-		"north": "item/trapped_chest/north",
+		"north": "item/chest/north",
 		"east": "item/chest/east",
-		"south": "item/chest/south",
+		"south": "item/trapped_chest/south",
 		"west": "item/chest/west",
 		"up": "item/chest/up",
 		"down": "item/chest/down",
-		"particle": "item/oak_planks"
+		"particle": "block/oak_planks"
 	}
 }

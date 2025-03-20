@@ -1,0 +1,7 @@
+{
+  "parent": "item/block_item_overlay_tinted",
+  "textures": {
+    "base": "item/pumpkin",
+    "overlay": "item/jack_o_lantern_overlay"
+  }
+}

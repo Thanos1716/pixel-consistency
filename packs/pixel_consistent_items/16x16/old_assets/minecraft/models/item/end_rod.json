@@ -1,0 +1,12 @@
+{
+  "parent": "item/handheld",
+  "display": {
+    "head": {
+      "rotation": [0, 90, 0],
+      "translation": [0, 10, -10]
+    }
+  },
+  "textures": {
+    "layer0": "item/end_rod"
+  }
+}

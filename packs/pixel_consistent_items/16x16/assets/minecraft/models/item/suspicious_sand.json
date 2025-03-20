@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/_template/cube",
+  "textures": {
+    "layer0": "minecraft:item/sand",
+    "layer1": "minecraft:item/suspicious_sand_overlay"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:display_context",
+    "cases": [
+      {
+        "when": "gui",
+        "model": {
+          "type": "minecraft:composite",
+          "models": [
+            {
+              "type": "minecraft:model",
+              "model": "minecraft:item/skeleton_skull/outline"
+            },
+            {
+              "type": "minecraft:special",
+              "base": "minecraft:item/skeleton_skull/base",
+              "model": {
+                "type": "minecraft:head",
+                "kind": "skeleton"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:special",
+      "base": "minecraft:item/skeleton_skull/base",
+      "model": {
+        "type": "minecraft:head",
+        "kind": "skeleton"
+      }
+    }
+  }
+}

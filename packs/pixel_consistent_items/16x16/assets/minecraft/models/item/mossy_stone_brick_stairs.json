@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/_template/stairs_overlay",
+  "textures": {
+    "layer0": "minecraft:item/stone_bricks",
+    "layer1": "minecraft:item/mossy_stone_bricks_overlay"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/_template/fence",
+  "textures": {
+    "layer0": "minecraft:item/nether_brick_fence"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/_template/cube",
+  "textures": {
+    "layer0": "minecraft:item/piston",
+    "layer1": "minecraft:item/sticky_piston_overlay"
+  }
+}

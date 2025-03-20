@@ -1,0 +1,7 @@
+{
+  "parent": "item/block_item_slab_overlay_template",
+  "textures": {
+    "base": "item/oak_planks",
+    "overlay": "item/petrified_oak_overlay"
+  }
+}

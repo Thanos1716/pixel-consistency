@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/_template/trapdoor",
+  "textures": {
+    "layer0": "minecraft:item/cherry_trapdoor"
+  }
+}

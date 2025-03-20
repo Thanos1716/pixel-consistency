@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:item/template_shulker_box",
+  "textures": {
+    "particle": "minecraft:block/shulker_box",
+    "north": "minecraft:item/shulker_box/north",
+    "south": "minecraft:item/shulker_box/south",
+    "east": "minecraft:item/shulker_box/east",
+    "west": "minecraft:item/shulker_box/west",
+    "up": "minecraft:item/shulker_box/up",
+    "down": "minecraft:item/shulker_box/down"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/_template/cube",
+  "textures": {
+    "layer0": "minecraft:item/stone",
+    "layer1": "minecraft:item/diamond_ore_overlay"
+  }
+}

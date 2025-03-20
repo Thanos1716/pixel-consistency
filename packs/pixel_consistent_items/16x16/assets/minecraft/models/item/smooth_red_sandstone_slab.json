@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/_template/slab_overlay",
+  "textures": {
+    "layer0": "minecraft:item/red_sandstone",
+    "layer1": "minecraft:item/smooth_red_sandstone_overlay"
+  }
+}

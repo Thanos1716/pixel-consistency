@@ -1,0 +1,7 @@
+{
+  "parent": "item/block_item_overlay",
+  "textures": {
+    "base": "item/dirt",
+    "overlay": "item/podzol_overlay"
+  }
+}

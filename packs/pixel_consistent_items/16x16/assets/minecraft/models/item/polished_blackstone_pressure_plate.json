@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/_template/pressure_plate",
+  "textures": {
+    "layer0": "minecraft:item/polished_blackstone"
+  }
+}

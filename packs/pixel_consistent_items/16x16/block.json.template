@@ -1,0 +1,12 @@
+{
+  "template": {
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer0": "{model}"
+    }
+  },
+  "variants": {
+    "acacia_leaves": { "model": "minecraft:item/acacia_leaves" },
+    "acacia_log": { "model": "minecraft:item/acacia_log" }
+  }
+}

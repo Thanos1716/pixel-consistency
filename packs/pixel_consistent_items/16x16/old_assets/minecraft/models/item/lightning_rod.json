@@ -1,0 +1,12 @@
+{
+  "parent": "item/handheld_rod",
+  "display": {
+    "head": {
+      "rotation": [0, 90, -135],
+      "translation": [7, 3, 0]
+    }
+  },
+  "textures": {
+    "layer0": "item/lightning_rod"
+  }
+}

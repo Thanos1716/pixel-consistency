@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/_template/cube",
+  "textures": {
+    "layer0": "minecraft:item/pumpkin",
+    "layer1": "minecraft:item/jack_o_lantern_overlay"
+  }
+}

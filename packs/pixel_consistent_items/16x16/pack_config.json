@@ -1,0 +1,10 @@
+{
+    "pack_name": "Pixel Consistent Items 16x16",
+    "pack_id": "pixel_consistent_items_16x16",
+    "namespaces": {
+        "minecraft": "1.21.1"
+    },
+    "dependencies": [
+    "pixel_consistent_items_16x16_extended"
+    ]
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "item/beehive/honey_level_2",
+    "layer1": "item/beehive/bee_count_2"
+	}
+}

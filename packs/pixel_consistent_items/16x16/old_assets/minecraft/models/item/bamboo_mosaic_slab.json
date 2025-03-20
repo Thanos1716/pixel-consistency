@@ -1,0 +1,6 @@
+{
+  "parent": "item/block_item_slab_template",
+  "textures": {
+    "base": "item/bamboo_mosaic"
+  }
+}

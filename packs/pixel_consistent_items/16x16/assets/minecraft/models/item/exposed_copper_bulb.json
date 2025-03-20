@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/_template/cube",
+  "textures": {
+    "layer0": "minecraft:item/exposed_copper",
+    "layer1": "minecraft:item/exposed_copper_bulb_overlay"
+  }
+}

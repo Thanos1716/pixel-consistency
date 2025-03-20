@@ -1,0 +1,6 @@
+{
+  "parent": "item/block_item_button_template",
+  "textures": {
+    "base": "item/bamboo_planks"
+  }
+}

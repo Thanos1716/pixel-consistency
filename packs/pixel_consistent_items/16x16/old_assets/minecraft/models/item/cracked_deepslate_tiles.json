@@ -1,0 +1,7 @@
+{
+  "parent": "item/block_item_overlay",
+  "textures": {
+    "base": "item/deepslate_tiles",
+    "overlay": "item/cracked_deepslate_overlay"
+  }
+}

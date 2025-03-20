@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/_template/cube",
+  "textures": {
+    "layer0": "minecraft:item/deepslate",
+    "layer1": "minecraft:item/redstone_ore_overlay"
+  }
+}

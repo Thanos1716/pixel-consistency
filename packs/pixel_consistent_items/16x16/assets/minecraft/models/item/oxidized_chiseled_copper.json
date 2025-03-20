@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/_template/cube",
+  "textures": {
+    "layer0": "minecraft:item/oxidized_copper",
+    "layer1": "minecraft:item/oxidized_chiseled_copper_overlay"
+  }
+}

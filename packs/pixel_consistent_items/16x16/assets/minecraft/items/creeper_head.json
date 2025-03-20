@@ -1,0 +1,36 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:display_context",
+    "cases": [
+      {
+        "when": "gui",
+        "model": {
+          "type": "minecraft:composite",
+          "models": [
+            {
+              "type": "minecraft:model",
+              "model": "minecraft:item/creeper_head/outline"
+            },
+            {
+              "type": "minecraft:special",
+              "base": "minecraft:item/creeper_head/base",
+              "model": {
+                "type": "minecraft:head",
+                "kind": "creeper"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:special",
+      "base": "minecraft:item/template_skull",
+      "model": {
+        "type": "minecraft:head",
+        "kind": "creeper"
+      }
+    }
+  }
+}

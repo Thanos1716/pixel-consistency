@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/_template/carpet",
+  "textures": {
+    "layer0": "minecraft:item/black_wool"
+  }
+}

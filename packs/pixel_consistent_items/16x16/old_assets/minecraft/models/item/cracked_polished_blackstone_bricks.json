@@ -1,0 +1,7 @@
+{
+  "parent": "item/block_item_overlay",
+  "textures": {
+    "base": "item/polished_blackstone_bricks",
+    "overlay": "item/cracked_polished_blackstone_brick_overlay"
+  }
+}

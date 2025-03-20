@@ -1,0 +1,8 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/decorated_pot/decorated_pot_base",
+        "layer1": "item/decorated_pot/left/decorated_pot_side",
+        "layer2": "item/decorated_pot/right/brewer_pottery_pattern"
+    }
+}

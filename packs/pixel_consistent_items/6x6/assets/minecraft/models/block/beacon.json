@@ -1,0 +1,55 @@
+{
+	"credit": "Made by Thanos, https://modrinth.com/user/thanos",
+	"parent": "block/block",
+	"texture_size": [6, 6],
+	"textures": {
+		"particle": "block/glass",
+		"glass": "block/glass",
+		"obsidian": "block/obsidian",
+		"beacon": "block/beacon"
+	},
+	"elements": [
+		{
+			"name": "Glass shell",
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-13.33333, -13.33333, -13.33333]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#glass"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#glass"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#glass"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#glass"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#glass"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#glass"}
+			}
+		},
+		{
+			"name": "Obsidian base",
+			"from": [1.33333, 0.26667, 1.33333],
+			"to": [14.66667, 2.93333, 14.66667],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-13.33333, -13.33333, -13.33333]},
+			"faces": {
+				"north": {"uv": [0, 13.33333, 13.33333, 16], "texture": "#obsidian"},
+				"east": {"uv": [0, 13.33333, 13.33333, 16], "texture": "#obsidian"},
+				"south": {"uv": [0, 13.33333, 13.33333, 16], "texture": "#obsidian"},
+				"west": {"uv": [0, 13.33333, 13.33333, 16], "texture": "#obsidian"},
+				"up": {"uv": [0, 0, 13.33333, 13.33333], "texture": "#obsidian"},
+				"down": {"uv": [0, 0, 13.33333, 13.33333], "texture": "#obsidian"}
+			}
+		},
+		{
+			"name": "Inner beacon texture",
+			"from": [2.66667, 2.66667, 2.66667],
+			"to": [13.33333, 13.33333, 13.33333],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-13.33333, -13.33333, -13.33333]},
+			"faces": {
+				"north": {"uv": [2.66667, 2.66667, 13.33333, 13.33333], "texture": "#beacon"},
+				"east": {"uv": [2.66667, 2.66667, 13.33333, 13.33333], "texture": "#beacon"},
+				"south": {"uv": [2.66667, 2.66667, 13.33333, 13.33333], "texture": "#beacon"},
+				"west": {"uv": [2.66667, 2.66667, 13.33333, 13.33333], "texture": "#beacon"},
+				"up": {"uv": [2.66667, 2.66667, 13.33333, 13.33333], "texture": "#beacon"},
+				"down": {"uv": [2.66667, 2.66667, 13.33333, 13.33333], "texture": "#beacon"}
+			}
+		}
+	]
+}

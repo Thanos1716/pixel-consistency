@@ -1,0 +1,7 @@
+{
+  "parent": "item/block_item_overlay",
+  "textures": {
+    "base": "item/stone_bricks",
+    "overlay": "item/infested_cracked_stone_brick_overlay"
+  }
+}

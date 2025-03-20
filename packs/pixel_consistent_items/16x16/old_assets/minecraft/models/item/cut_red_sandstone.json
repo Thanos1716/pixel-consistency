@@ -1,0 +1,7 @@
+{
+  "parent": "item/block_item_overlay",
+  "textures": {
+    "base": "item/red_sandstone",
+    "overlay": "item/cut_red_sandstone_overlay"
+  }
+}

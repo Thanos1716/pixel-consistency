@@ -1,0 +1,6 @@
+{
+  "parent": "item/block_item",
+  "textures": {
+    "base": "item/cherry_log"
+  }
+}

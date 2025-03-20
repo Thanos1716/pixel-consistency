@@ -1,0 +1,15 @@
+{
+	"credit": "Made by Thanos, https://modrinth.com/user/thanos",
+	"parent": "item/template_chest",
+	"texture_size": [6, 6],
+	"textures": {
+		"knob": "item/chest/christmas/knob",
+		"north": "item/chest/christmas/north",
+		"east": "item/chest/christmas/east",
+		"south": "item/chest/christmas/south",
+		"west": "item/chest/christmas/west",
+		"up": "item/chest/christmas/up",
+		"down": "item/chest/christmas/down",
+		"particle": "block/oak_planks"
+	}
+}

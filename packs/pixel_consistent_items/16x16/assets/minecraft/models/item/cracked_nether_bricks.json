@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/_template/cube",
+  "textures": {
+    "layer0": "minecraft:item/nether_bricks",
+    "layer1": "minecraft:item/cracked_nether_bricks_overlay"
+  }
+}

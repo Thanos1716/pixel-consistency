@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/_template/skull_outline",
+  "textures": {
+    "layer0": "minecraft:item/piglin_head/outline"
+  }
+}

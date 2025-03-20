@@ -1,0 +1,7 @@
+{
+  "parent": "item/block_item_overlay",
+  "textures": {
+    "base": "item/netherrack",
+    "overlay": "item/nether_quartz_ore_overlay"
+  }
+}

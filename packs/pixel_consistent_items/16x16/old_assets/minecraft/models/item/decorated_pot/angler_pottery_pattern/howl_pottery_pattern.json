@@ -1,0 +1,8 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/decorated_pot/decorated_pot_base",
+        "layer1": "item/decorated_pot/left/angler_pottery_pattern",
+        "layer2": "item/decorated_pot/right/howl_pottery_pattern"
+    }
+}

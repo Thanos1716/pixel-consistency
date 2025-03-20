@@ -1,0 +1,6 @@
+{
+  "parent": "item/block_item",
+  "textures": {
+    "base": "item/bubble_coral_block"
+  }
+}

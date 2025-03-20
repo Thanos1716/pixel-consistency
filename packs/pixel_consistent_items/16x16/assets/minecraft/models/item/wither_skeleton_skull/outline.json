@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/_template/skull_outline",
+  "textures": {
+    "layer0": "minecraft:item/wither_skeleton_skull/outline"
+  }
+}

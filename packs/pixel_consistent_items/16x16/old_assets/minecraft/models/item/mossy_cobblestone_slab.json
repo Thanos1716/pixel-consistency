@@ -1,0 +1,7 @@
+{
+  "parent": "item/block_item_slab_overlay_template",
+  "textures": {
+    "base": "item/cobblestone",
+    "overlay": "item/mossy_cobblestone_overlay"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "item/block_item_overlay",
+  "textures": {
+    "base": "item/deepslate",
+    "overlay": "item/diamond_ore_overlay"
+  }
+}

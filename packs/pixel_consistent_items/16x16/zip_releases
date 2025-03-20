@@ -1,0 +1,9 @@
+#!/bin/bash
+#cd "$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null 2>&1 && pwd )"
+rm release/*
+#cp pack.mcmeta pack_template.mcmeta
+#cp pack_template.mcmeta pack.mcmeta
+#sed -i sed -i '' "s/%PACK_FORMAT%/7/g" pack.mcmeta
+zip -r release/2d-block-items-$(cat PACK_VERSION)-1.20.1.zip assets pack.png pack.mcmeta -x '*.DS_Store'
+#rm pack.mcmeta
+#mv pack_template.mcmeta pack.mcmeta

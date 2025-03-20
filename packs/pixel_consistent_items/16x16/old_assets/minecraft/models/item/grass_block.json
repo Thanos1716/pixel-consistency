@@ -1,0 +1,7 @@
+{
+  "parent": "item/block_item_overlay_tinted",
+  "textures": {
+    "base": "item/dirt",
+    "overlay": "item/grass_block_overlay"
+  }
+}

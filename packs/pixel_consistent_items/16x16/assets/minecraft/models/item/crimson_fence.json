@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/_template/fence",
+  "textures": {
+    "layer0": "minecraft:item/crimson_fence"
+  }
+}

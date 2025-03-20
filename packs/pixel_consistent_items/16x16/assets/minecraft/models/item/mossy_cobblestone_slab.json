@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/_template/slab_overlay",
+  "textures": {
+    "layer0": "minecraft:item/cobblestone",
+    "layer1": "minecraft:item/mossy_cobblestone_overlay"
+  }
+}

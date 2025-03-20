@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/_template/slab",
+  "textures": {
+    "layer0": "minecraft:item/prismarine_bricks"
+  }
+}
