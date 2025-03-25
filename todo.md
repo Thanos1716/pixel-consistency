@@ -31,6 +31,7 @@
 - [ ] Fix trial spawner mobs
 - [ ] Real arrow tip compat?
 - [ ] Update unifont used in pixel consistent font
+- [ ] Retexture potted plants to fit their pots better
 - [ ] Vanilla incompatibilities
   - [ ] Armor textures & trims
   - [x] Arrows
