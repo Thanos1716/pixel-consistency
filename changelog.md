@@ -1,9 +1,5 @@
 # Pixel Consistency Changelog
 
-## Pixel Consistency b0.7 WIP
-
-Technical note, renamed all `skins` properties to `textures` in .properties files
-
 ### Additions
 - Entities
   - Horse (all variants)
@@ -44,6 +40,40 @@ Technical note, renamed all `skins` properties to `textures` in .properties file
   - Armor Enchantment Glint (`rendertype_armor_entity_glint`, elytra needs work)
   - Trident Enchantment Glint (`rendertype_entity_glint_direct`)
   - Item Enchantment Glint (`rendertype_glint`)
+
+## Pixel Consistency 0.7 WIP
+
+A lot of entity models changed significantly in 1.21.2, which means a lot of models broke. Fixing them will take some time, so for now the broken models have been removed.
+
+Renamed all `skins` properties to `textures` in .properties files
+
+### Additions
+- Blocks
+  - Cross Emissive
+  - Flower Pot Cross Emissive
+
+### Fixes
+- Entities
+  - Drowned (spawner)
+
+### Disabled
+- All mod support ()
+- Entities
+  - Inner Armor (all entities)
+  - Outer Armor (all entities)
+  - Wolf (baby)
+  - Wolf Armor
+  - Armor Stand (small)
+  - Chicken (baby)
+  - Cow (baby)
+  - Fox (baby)
+  - Llama (and decor)
+  - Trader Llama (and decor)
+  - Pig (baby)
+  - Rabbit (adult & baby)
+  - Sheep (adult & baby)
+  - Banner
+  - Dragon Head
 
 ## Pixel Consistency b0.6.2
 
