@@ -34,6 +34,8 @@
 - [ ] Retexture potted plants to fit their pots better
 - [ ] Fix snow golem pumpkin nbt check
 - [ ] Fix baby strider saddle
+- [ ] Separate camel saddle from camel texture
+- [ ] Pale oak sign is palette swap of oak sign, this is *not* how vanilla did it, so probably needs changing
 - [ ] Vanilla incompatibilities
   - [ ] Armor textures & trims
   - [x] Arrows
