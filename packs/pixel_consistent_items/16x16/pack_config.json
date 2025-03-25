@@ -5,6 +5,5 @@
         "minecraft": "1.21.1"
     },
     "dependencies": [
-    "pixel_consistent_items_16x16_extended"
     ]
 }
