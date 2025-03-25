@@ -32,6 +32,8 @@
 - [ ] Real arrow tip compat?
 - [ ] Update unifont used in pixel consistent font
 - [ ] Retexture potted plants to fit their pots better
+- [ ] Fix snow golem pumpkin nbt check
+- [ ] Fix baby strider saddle
 - [ ] Vanilla incompatibilities
   - [ ] Armor textures & trims
   - [x] Arrows
