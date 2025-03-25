@@ -67,6 +67,8 @@ Renamed all `skins` properties to `textures` in .properties files
   - Chicken (baby)
   - Cow (baby)
   - Fox (baby)
+  - Arrow
+  - Mooshroom (red & brown baby)
   - Llama (and decor)
   - Trader Llama (and decor)
   - Pig (baby)
