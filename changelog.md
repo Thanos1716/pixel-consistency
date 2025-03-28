@@ -55,9 +55,10 @@ Renamed all `skins` properties to `textures` in .properties files
 ### Fixes
 - Entities
   - Drowned (spawner)
+  - Magma Cube (medium & large)
 
 ### Disabled
-- All mod support ()
+- All mod support
 - Entities
   - Inner Armor (all entities)
   - Outer Armor (all entities)
@@ -68,6 +69,7 @@ Renamed all `skins` properties to `textures` in .properties files
   - Cow (baby)
   - Fox (baby)
   - Arrow
+  - Spectral Arrow
   - Mooshroom (red & brown baby)
   - Llama (and decor)
   - Trader Llama (and decor)
