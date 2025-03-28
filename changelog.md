@@ -1,12 +1,38 @@
 # Pixel Consistency Changelog
 
+## Pixel Consistency 0.8 WIP
+
 ### Additions
 - Entities
   - Horse (all variants)
   - [TODO: legs/anims] Baby Horse (all variants)
   - Horse Armor (all variants)
+
+- Shaders
+  - Armor Enchantment Glint (`rendertype_armor_entity_glint`, elytra needs work)
+  - Trident Enchantment Glint (`rendertype_entity_glint_direct`)
+  - Item Enchantment Glint (`rendertype_glint`)
+
+## Pixel Consistency 0.7 WIP
+
+A lot of entity models changed significantly in 1.21.2, which means a lot of models broke. Fixing them will take some time, so for now the broken models have been removed.
+
+This version also includes an expansion of the Minecraft font. These characters previously fell back to Unifont which is not pixel consistent. Only the listed Unicode blocks are pixel consistent at the moment. If you do not like this font, you can disable it by deleting `assets/minecraft/font/include/default.json`.
+
+For pixel consistent emoji support, I highly recommend installing [Pixel Twemoji 9x](https://modrinth.com/resourcepack/pixel-twemoji-9x).
+
+Also my new pack, [Visuals](https://modrinth.com/resourcepack/visuals) just released, check it out!
+
+Renamed all `skins` properties to `textures` in .properties files.
+
+Removed the empty base models, since they are no longer required.
+
+### Additions
+- Blocks
+  - Cross Emissive
+  - Flower Pot Cross Emissive
 - Font
-  - Unicode Basic Multilingual Plane
+  - Basic Multilingual Plane
     - Pages 00-05
       - BASIC_LATIN
       - LATIN_1_SUPPLEMENT
@@ -24,7 +50,7 @@
       - PHONETIC_EXTENSIONS
       - PHONETIC_EXTENSIONS_SUPPLEMENT
       - COMBINING_DIACRITICAL_MARKS_SUPPLEMENT
-    - Pages 25-28
+    - Pages 25-29 and 2B
       - BOX_DRAWING
       - BLOCK_ELEMENTS
       - GEOMETRIC_SHAPES
@@ -32,30 +58,28 @@
       - DINGBATS
       - MISCELLANEOUS_MATHEMATICAL_SYMBOLS_A
       - SUPPLEMENTAL_ARROWS
-      - BRAILLE_PATTERNS  
-    - Page FF
+      - BRAILLE_PATTERNS
+      - MISCELLANEOUS_SYMBOLS_AND_ARROWS
+    - Pages FE and FF
+      - VERTICAL_FORMS
+      - COMBINING_HALF_MARKS
+      - CJK_COMPATIBILITY_FORMS
+      - SMALL_FORM_VARIANTS
       - HALFWIDTH_AND_FULLWIDTH_FORMS
       - SPECIALS
-- Shaders
-  - Armor Enchantment Glint (`rendertype_armor_entity_glint`, elytra needs work)
-  - Trident Enchantment Glint (`rendertype_entity_glint_direct`)
-  - Item Enchantment Glint (`rendertype_glint`)
-
-## Pixel Consistency 0.7 WIP
-
-A lot of entity models changed significantly in 1.21.2, which means a lot of models broke. Fixing them will take some time, so for now the broken models have been removed.
-
-Renamed all `skins` properties to `textures` in .properties files
-
-### Additions
-- Blocks
-  - Cross Emissive
-  - Flower Pot Cross Emissive
 
 ### Fixes
-- Entities
+- Blocks:
+  - Flower Pot Cross (make actually pixel consistent)
+  - Flower Pot Tinted Cross (make actually pixel consistent)
+- Entities:
   - Drowned (spawner)
   - Magma Cube (medium & large)
+  - Ghast (cleaned up 2 textures)
+- GUI:
+  - World List:
+    - Error (improved 2 textures)
+    - Warning (improved 2 textures)
 
 ### Disabled
 - All mod support
