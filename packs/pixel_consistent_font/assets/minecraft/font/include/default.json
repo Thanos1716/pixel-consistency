@@ -2,20 +2,20 @@
     "providers": [
         {
             "type": "bitmap",
-            "file": "minecraft:font/page_00/8x8.png",
+            "file": "minecraft:font/0000/8x8.png",
             "ascent": 7,
             "chars": [
-                "\u0000\u0001\u0002\u0003\u0004\u0005\u0006\u0007\u0008\u0009\u000a\u000b\u000c\u000d\u000e\u000f",
-                "\u0010\u0011\u0012\u0013\u0014\u0015\u0016\u0017\u0018\u0019\u001a\u001b\u001c\u001d\u001e\u001f",
-                "\u0020\u0021\u0022\u0023\u0024\u0025\u0026\u0027\u0028\u0029\u002a\u002b\u002c\u002d\u002e\u002f",
+                "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\u0000\u0021\u0022\u0023\u0024\u0025\u0026\u0027\u0028\u0029\u002a\u002b\u002c\u002d\u002e\u002f",
                 "\u0030\u0031\u0032\u0033\u0034\u0035\u0036\u0037\u0038\u0039\u003a\u003b\u003c\u003d\u003e\u003f",
                 "\u0040\u0041\u0042\u0043\u0044\u0045\u0046\u0047\u0048\u0049\u004a\u004b\u004c\u004d\u004e\u004f",
                 "\u0050\u0051\u0052\u0053\u0054\u0055\u0056\u0057\u0058\u0059\u005a\u005b\u005c\u005d\u005e\u005f",
                 "\u0060\u0061\u0062\u0063\u0064\u0065\u0066\u0067\u0068\u0069\u006a\u006b\u006c\u006d\u006e\u006f",
-                "\u0070\u0071\u0072\u0073\u0074\u0075\u0076\u0077\u0078\u0079\u007a\u007b\u007c\u007d\u007e\u007f",
-                "\u0080\u0081\u0082\u0083\u0084\u0085\u0086\u0087\u0088\u0089\u008a\u008b\u008c\u008d\u008e\u008f",
-                "\u0090\u0091\u0092\u0093\u0094\u0095\u0096\u0097\u0098\u0099\u009a\u009b\u009c\u009d\u009e\u009f",
-                "\u00a0\u00a1\u00a2\u00a3\u00a4\u00a5\u00a6\u00a7\u00a8\u00a9\u00aa\u00ab\u00ac\u00ad\u00ae\u00af",
+                "\u0070\u0071\u0072\u0073\u0074\u0075\u0076\u0077\u0078\u0079\u007a\u007b\u007c\u007d\u007e\u0000",
+                "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\u0000\u00a1\u00a2\u00a3\u00a4\u00a5\u00a6\u00a7\u00a8\u00a9\u00aa\u00ab\u00ac\u00ad\u00ae\u00af",
                 "\u00b0\u00b1\u00b2\u00b3\u00b4\u00b5\u00b6\u00b7\u00b8\u00b9\u00ba\u00bb\u00bc\u00bd\u00be\u00bf",
                 "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
                 "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00d7\u00d8\u0000\u0000\u0000\u0000\u0000\u00de\u00df",
@@ -25,7 +25,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/page_00/9x12.png",
+            "file": "minecraft:font/0000/9x12.png",
             "height": 12,
             "ascent": 10,
             "chars": [
@@ -49,7 +49,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/page_01/8x8.png",
+            "file": "minecraft:font/0001/8x8.png",
             "ascent": 7,
             "chars": [
                 "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
@@ -72,7 +72,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/page_01/9x12.png",
+            "file": "minecraft:font/0001/9x12.png",
             "height": 12,
             "ascent": 10,
             "chars": [
@@ -96,7 +96,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/page_02/8x8.png",
+            "file": "minecraft:font/0002/8x8.png",
             "ascent": 7,
             "chars": [
                 "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
@@ -119,7 +119,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/page_02/9x12.png",
+            "file": "minecraft:font/0002/9x12.png",
             "height": 12,
             "ascent": 10,
             "chars": [
@@ -143,7 +143,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/page_03/8x8.png",
+            "file": "minecraft:font/0003/8x8.png",
             "ascent": 7,
             "chars": [
                 "\u0300\u0301\u0302\u0303\u0304\u0305\u0306\u0307\u0308\u0309\u030a\u030b\u030c\u030d\u030e\u030f",
@@ -153,10 +153,10 @@
                 "\u0340\u0341\u0342\u0343\u0000\u0345\u0346\u0000\u0348\u0349\u0000\u0000\u0000\u0000\u0000\u034f",
                 "\u0350\u0351\u0352\u0000\u0354\u0355\u0356\u0357\u0358\u0000\u0000\u035b\u035c\u035d\u035e\u035f",
                 "\u0360\u0361\u0362\u0363\u0364\u0365\u0366\u0367\u0368\u0369\u036a\u036b\u036c\u036d\u036e\u036f",
-                "\u0370\u0371\u0372\u0373\u0374\u0375\u0376\u0377\u0378\u0379\u037a\u037b\u037c\u037d\u037e\u037f",
-                "\u0380\u0381\u0382\u0383\u0384\u0385\u0000\u0387\u0000\u0000\u0000\u038b\u0000\u038d\u0000\u0000",
+                "\u0370\u0371\u0372\u0373\u0374\u0375\u0376\u0377\u0000\u0000\u037a\u037b\u037c\u037d\u037e\u037f",
+                "\u0000\u0000\u0000\u0000\u0384\u0385\u0000\u0387\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
                 "\u0000\u0391\u0392\u0393\u0394\u0395\u0396\u0397\u0398\u0399\u039a\u039b\u039c\u039d\u039e\u039f",
-                "\u03a0\u03a1\u03a2\u03a3\u03a4\u03a5\u03a6\u03a7\u03a8\u03a9\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\u03a0\u03a1\u0000\u03a3\u03a4\u03a5\u03a6\u03a7\u03a8\u03a9\u0000\u0000\u0000\u0000\u0000\u0000",
                 "\u0000\u03b1\u03b2\u03b3\u03b4\u03b5\u03b6\u03b7\u03b8\u03b9\u03ba\u03bb\u03bc\u03bd\u03be\u03bf",
                 "\u03c0\u03c1\u03c2\u03c3\u03c4\u03c5\u03c6\u03c7\u03c8\u03c9\u0000\u0000\u0000\u0000\u0000\u0000",
                 "\u03d0\u03d1\u03d2\u0000\u0000\u03d5\u03d6\u0000\u03d8\u03d9\u03da\u03db\u03dc\u03dd\u03de\u03df",
@@ -166,7 +166,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/page_03/9x12.png",
+            "file": "minecraft:font/0003/9x12.png",
             "height": 12,
             "ascent": 10,
             "chars": [
@@ -190,7 +190,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/page_04/8x8.png",
+            "file": "minecraft:font/0004/8x8.png",
             "ascent": 7,
             "chars": [
                 "\u0000\u0000\u0402\u0000\u0404\u0405\u0406\u0000\u0408\u0409\u040a\u040b\u0000\u0000\u0000\u0000",
@@ -213,7 +213,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/page_04/9x12.png",
+            "file": "minecraft:font/0004/9x12.png",
             "height": 12,
             "ascent": 10,
             "chars": [
@@ -237,30 +237,30 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/page_05/8x8.png",
+            "file": "minecraft:font/0005/8x8.png",
             "ascent": 7,
             "chars": [
                 "\u0500\u0501\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
                 "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
                 "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
-                "\u0530\u0531\u0532\u0533\u0534\u0535\u0536\u0537\u0538\u0539\u053a\u053b\u053c\u053d\u053e\u053f",
+                "\u0000\u0531\u0532\u0533\u0534\u0535\u0536\u0537\u0538\u0539\u053a\u053b\u053c\u053d\u053e\u053f",
                 "\u0540\u0541\u0542\u0543\u0544\u0545\u0546\u0547\u0548\u0549\u054a\u054b\u054c\u054d\u054e\u054f",
-                "\u0550\u0551\u0552\u0553\u0554\u0555\u0556\u0557\u0558\u0559\u055a\u055b\u055c\u055d\u055e\u055f",
+                "\u0550\u0551\u0552\u0553\u0554\u0555\u0556\u0000\u0000\u0559\u055a\u055b\u055c\u055d\u055e\u055f",
                 "\u0560\u0561\u0562\u0563\u0564\u0565\u0566\u0567\u0568\u0569\u056a\u056b\u056c\u056d\u056e\u056f",
                 "\u0570\u0571\u0572\u0573\u0574\u0575\u0576\u0577\u0578\u0579\u057a\u057b\u057c\u057d\u057e\u057f",
-                "\u0580\u0581\u0582\u0583\u0584\u0585\u0586\u0587\u0588\u0589\u058a\u058b\u058c\u058d\u058e\u058f",
-                "\u0590\u0591\u0592\u0593\u0594\u0595\u0596\u0597\u0598\u0599\u059a\u059b\u059c\u059d\u059e\u059f",
+                "\u0580\u0581\u0582\u0583\u0584\u0585\u0586\u0587\u0588\u0589\u058a\u0000\u0000\u058d\u058e\u058f",
+                "\u0000\u0591\u0592\u0593\u0594\u0595\u0596\u0597\u0598\u0599\u059a\u059b\u059c\u059d\u059e\u059f",
                 "\u05a0\u05a1\u05a2\u05a3\u05a4\u05a5\u05a6\u05a7\u05a8\u05a9\u05aa\u05ab\u05ac\u05ad\u05ae\u05af",
                 "\u05b0\u05b1\u05b2\u05b3\u05b4\u05b5\u05b6\u05b7\u05b8\u05b9\u05ba\u05bb\u05bc\u05bd\u05be\u05bf",
-                "\u0000\u05c1\u05c2\u05c3\u05c4\u05c5\u05c6\u05c7\u05c8\u05c9\u05ca\u05cb\u05cc\u05cd\u05ce\u05cf",
+                "\u0000\u05c1\u05c2\u05c3\u05c4\u05c5\u05c6\u05c7\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
                 "\u05d0\u05d1\u05d2\u05d3\u05d4\u05d5\u05d6\u05d7\u05d8\u05d9\u05da\u05db\u05dc\u05dd\u05de\u05df",
-                "\u05e0\u05e1\u05e2\u05e3\u05e4\u05e5\u05e6\u05e7\u05e8\u05e9\u05ea\u05eb\u05ec\u05ed\u05ee\u05ef",
-                "\u05f0\u05f1\u05f2\u05f3\u05f4\u05f5\u05f6\u05f7\u05f8\u05f9\u05fa\u05fb\u05fc\u05fd\u05fe\u05ff"
+                "\u05e0\u05e1\u05e2\u05e3\u05e4\u05e5\u05e6\u05e7\u05e8\u05e9\u05ea\u0000\u0000\u0000\u0000\u05ef",
+                "\u05f0\u05f1\u05f2\u05f3\u05f4\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
             ]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/page_05/9x12.png",
+            "file": "minecraft:font/0005/9x12.png",
             "height": 12,
             "ascent": 10,
             "chars": [
@@ -284,7 +284,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/page_1d/8x8.png",
+            "file": "minecraft:font/001d/8x8.png",
             "ascent": 7,
             "chars": [
                 "\u1d00\u0000\u0000\u1d03\u1d04\u1d05\u1d06\u1d07\u1d08\u1d09\u1d0a\u1d0b\u1d0c\u1d0d\u1d0e\u1d0f",
@@ -307,7 +307,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/page_1d/9x12.png",
+            "file": "minecraft:font/001d/9x12.png",
             "height": 12,
             "ascent": 10,
             "chars": [
@@ -331,30 +331,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/page_1f/8x8.png",
-            "ascent": 7,
-            "chars": [
-                "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
-                "\u0000\u0000\u0000\u0000\u0000\u0000\u1f16\u1f17\u0000\u0000\u0000\u0000\u0000\u0000\u1f1e\u1f1f",
-                "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
-                "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
-                "\u0000\u0000\u0000\u0000\u0000\u0000\u1f46\u1f47\u0000\u0000\u0000\u0000\u0000\u0000\u1f4e\u1f4f",
-                "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u1f58\u0000\u1f5a\u0000\u1f5c\u0000\u1f5e\u0000",
-                "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
-                "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u1f7e\u1f7f",
-                "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
-                "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
-                "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
-                "\u0000\u0000\u0000\u0000\u0000\u1fb5\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
-                "\u0000\u0000\u0000\u0000\u0000\u1fc5\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
-                "\u0000\u0000\u0000\u0000\u1fd4\u1fd5\u0000\u0000\u0000\u0000\u0000\u0000\u1fdc\u0000\u0000\u0000",
-                "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
-                "\u1ff0\u1ff1\u0000\u0000\u0000\u1ff5\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u1fff"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "minecraft:font/page_1f/9x12.png",
+            "file": "minecraft:font/001f/9x12.png",
             "height": 12,
             "ascent": 10,
             "chars": [
@@ -378,7 +355,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/page_25/8x8.png",
+            "file": "minecraft:font/0025/8x8.png",
             "ascent": 7,
             "chars": [
                 "\u2500\u2501\u2502\u2503\u2504\u2505\u2506\u2507\u2508\u2509\u250a\u250b\u250c\u250d\u250e\u250f",
@@ -401,7 +378,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/page_26/8x8.png",
+            "file": "minecraft:font/0026/8x8.png",
             "ascent": 7,
             "chars": [
                 "\u2600\u2601\u2602\u2603\u2604\u2605\u2606\u2607\u2608\u2609\u260a\u260b\u260c\u260d\u260e\u260f",
@@ -424,7 +401,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/page_26/9x12.png",
+            "file": "minecraft:font/0026/9x12.png",
             "height": 12,
             "ascent": 10,
             "chars": [
@@ -448,7 +425,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/page_27/8x8.png",
+            "file": "minecraft:font/0027/8x8.png",
             "ascent": 7,
             "chars": [
                 "\u2700\u2701\u2702\u2703\u2704\u2705\u2706\u2707\u2708\u2709\u270a\u270b\u270c\u270d\u270e\u270f",
@@ -471,7 +448,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/page_27/9x12.png",
+            "file": "minecraft:font/0027/9x12.png",
             "height": 12,
             "ascent": 10,
             "chars": [
@@ -495,7 +472,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/page_28/8x8.png",
+            "file": "minecraft:font/0028/8x8.png",
             "ascent": 7,
             "chars": [
                 "\u2800\u2801\u2802\u2803\u2804\u2805\u2806\u2807\u2808\u2809\u280a\u280b\u280c\u280d\u280e\u280f",
@@ -518,7 +495,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/page_29/8x8.png",
+            "file": "minecraft:font/0029/8x8.png",
             "ascent": 7,
             "chars": [
                 "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
@@ -541,7 +518,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/page_29/9x12.png",
+            "file": "minecraft:font/0029/9x12.png",
             "height": 12,
             "ascent": 10,
             "chars": [
@@ -565,7 +542,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/page_2b/8x8.png",
+            "file": "minecraft:font/002b/8x8.png",
             "ascent": 7,
             "chars": [
                 "\u2b00\u2b01\u2b02\u2b03\u0000\u2b05\u2b06\u2b07\u2b08\u2b09\u2b0a\u2b0b\u0000\u0000\u0000\u0000",
@@ -575,9 +552,9 @@
                 "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
                 "\u2b50\u2b51\u2b52\u2b53\u2b54\u2b55\u2b56\u2b57\u2b58\u2b59\u0000\u0000\u0000\u0000\u0000\u0000",
                 "\u2b60\u2b61\u2b62\u2b63\u0000\u0000\u2b66\u2b67\u2b68\u2b69\u2b6a\u2b6b\u2b6c\u2b6d\u2b6e\u2b6f",
-                "\u0000\u0000\u0000\u0000\u2b74\u2b75\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u2b7e\u2b7f",
+                "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u2b7e\u2b7f",
                 "\u2b80\u2b81\u2b82\u2b83\u2b84\u2b85\u2b86\u2b87\u2b88\u2b89\u2b8a\u2b8b\u0000\u0000\u0000\u0000",
-                "\u0000\u0000\u0000\u0000\u0000\u2b95\u2b96\u0000\u2b98\u2b99\u2b9a\u2b9b\u2b9c\u2b9d\u2b9e\u2b9f",
+                "\u0000\u0000\u0000\u0000\u0000\u2b95\u0000\u0000\u2b98\u2b99\u2b9a\u2b9b\u2b9c\u2b9d\u2b9e\u2b9f",
                 "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u2ba8\u2ba9\u2baa\u2bab\u2bac\u2bad\u2bae\u2baf",
                 "\u2bb0\u2bb1\u2bb2\u2bb3\u2bb4\u2bb5\u2bb6\u2bb7\u2bb8\u0000\u2bba\u2bbb\u2bbc\u0000\u0000\u0000",
                 "\u2bc0\u2bc1\u2bc2\u2bc3\u2bc4\u2bc5\u2bc6\u2bc7\u2bc8\u0000\u2bca\u2bcb\u0000\u0000\u0000\u0000",
@@ -588,7 +565,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/page_2b/9x12.png",
+            "file": "minecraft:font/002b/9x12.png",
             "height": 12,
             "ascent": 10,
             "chars": [
@@ -612,39 +589,16 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/page_f9/8x8.png",
+            "file": "minecraft:font/00fe/8x8.png",
             "ascent": 7,
             "chars": [
-                "\uf900\uf901\uf902\uf903\uf904\uf905\uf906\uf907\uf908\uf909\uf90a\uf90b\uf90c\uf90d\uf90e\uf90f",
-                "\uf910\uf911\uf912\uf913\uf914\uf915\uf916\uf917\uf918\uf919\uf91a\uf91b\uf91c\uf91d\uf91e\uf91f",
-                "\uf920\uf921\uf922\uf923\uf924\uf925\uf926\uf927\uf928\uf929\uf92a\uf92b\uf92c\uf92d\uf92e\uf92f",
-                "\uf930\uf931\uf932\uf933\uf934\uf935\uf936\uf937\uf938\uf939\uf93a\uf93b\uf93c\uf93d\uf93e\uf93f",
-                "\uf940\uf941\uf942\uf943\uf944\uf945\uf946\uf947\uf948\uf949\uf94a\uf94b\uf94c\uf94d\uf94e\uf94f",
-                "\uf950\uf951\uf952\uf953\uf954\uf955\uf956\uf957\uf958\uf959\uf95a\uf95b\uf95c\uf95d\uf95e\uf95f",
-                "\uf960\uf961\uf962\uf963\uf964\uf965\uf966\uf967\uf968\uf969\uf96a\uf96b\uf96c\uf96d\uf96e\uf96f",
-                "\uf970\uf971\uf972\uf973\uf974\uf975\uf976\uf977\uf978\uf979\uf97a\uf97b\uf97c\uf97d\uf97e\uf97f",
-                "\uf980\uf981\uf982\uf983\uf984\uf985\uf986\uf987\uf988\uf989\uf98a\uf98b\uf98c\uf98d\uf98e\uf98f",
-                "\uf990\uf991\uf992\uf993\uf994\uf995\uf996\uf997\uf998\uf999\uf99a\uf99b\uf99c\uf99d\uf99e\uf99f",
-                "\uf9a0\uf9a1\uf9a2\uf9a3\uf9a4\uf9a5\uf9a6\uf9a7\uf9a8\uf9a9\uf9aa\uf9ab\uf9ac\uf9ad\uf9ae\uf9af",
-                "\uf9b0\uf9b1\uf9b2\uf9b3\uf9b4\uf9b5\uf9b6\uf9b7\uf9b8\uf9b9\uf9ba\uf9bb\uf9bc\uf9bd\uf9be\uf9bf",
-                "\uf9c0\uf9c1\uf9c2\uf9c3\uf9c4\uf9c5\uf9c6\uf9c7\uf9c8\uf9c9\uf9ca\uf9cb\uf9cc\uf9cd\uf9ce\uf9cf",
-                "\uf9d0\uf9d1\uf9d2\uf9d3\uf9d4\uf9d5\uf9d6\uf9d7\uf9d8\uf9d9\uf9da\uf9db\uf9dc\uf9dd\uf9de\uf9df",
-                "\uf9e0\uf9e1\uf9e2\uf9e3\uf9e4\uf9e5\uf9e6\uf9e7\uf9e8\uf9e9\uf9ea\uf9eb\uf9ec\uf9ed\uf9ee\uf9ef",
-                "\uf9f0\uf9f1\uf9f2\uf9f3\uf9f4\uf9f5\uf9f6\uf9f7\uf9f8\uf9f9\uf9fa\uf9fb\uf9fc\uf9fd\uf9fe\uf9ff"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "minecraft:font/page_fe/8x8.png",
-            "ascent": 7,
-            "chars": [
-                "\ufe00\ufe01\ufe02\ufe03\ufe04\ufe05\ufe06\ufe07\ufe08\ufe09\ufe0a\ufe0b\ufe0c\ufe0d\ufe0e\ufe0f",
-                "\ufe10\ufe11\ufe12\ufe13\ufe14\ufe15\ufe16\ufe17\ufe18\ufe19\ufe1a\ufe1b\ufe1c\ufe1d\ufe1e\ufe1f",
+                "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\ufe10\ufe11\ufe12\ufe13\ufe14\ufe15\ufe16\ufe17\ufe18\ufe19\u0000\u0000\u0000\u0000\u0000\u0000",
                 "\ufe20\ufe21\ufe22\ufe23\ufe24\ufe25\ufe26\ufe27\ufe28\ufe29\ufe2a\ufe2b\ufe2c\ufe2d\ufe2e\ufe2f",
                 "\ufe30\ufe31\ufe32\ufe33\ufe34\ufe35\ufe36\ufe37\ufe38\ufe39\ufe3a\ufe3b\ufe3c\ufe3d\ufe3e\ufe3f",
                 "\ufe40\ufe41\ufe42\ufe43\ufe44\ufe45\ufe46\ufe47\ufe48\ufe49\ufe4a\ufe4b\ufe4c\ufe4d\ufe4e\ufe4f",
-                "\ufe50\ufe51\ufe52\ufe53\ufe54\ufe55\ufe56\ufe57\ufe58\ufe59\ufe5a\ufe5b\ufe5c\ufe5d\ufe5e\ufe5f",
-                "\ufe60\ufe61\ufe62\ufe63\ufe64\ufe65\ufe66\ufe67\ufe68\ufe69\ufe6a\ufe6b\ufe6c\ufe6d\ufe6e\ufe6f",
+                "\ufe50\ufe51\ufe52\u0000\ufe54\ufe55\ufe56\ufe57\ufe58\ufe59\ufe5a\ufe5b\ufe5c\ufe5d\ufe5e\ufe5f",
+                "\ufe60\ufe61\ufe62\ufe63\ufe64\ufe65\ufe66\u0000\ufe68\ufe69\ufe6a\ufe6b\u0000\u0000\u0000\u0000",
                 "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
                 "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
                 "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
@@ -658,10 +612,10 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/page_ff/8x8.png",
+            "file": "minecraft:font/00ff/8x8.png",
             "ascent": 7,
             "chars": [
-                "\uff00\uff01\uff02\uff03\uff04\uff05\uff06\uff07\uff08\uff09\uff0a\uff0b\uff0c\uff0d\uff0e\uff0f",
+                "\u0000\uff01\uff02\uff03\uff04\uff05\uff06\uff07\uff08\uff09\uff0a\uff0b\uff0c\uff0d\uff0e\uff0f",
                 "\uff10\uff11\uff12\uff13\uff14\uff15\uff16\uff17\uff18\uff19\uff1a\uff1b\uff1c\uff1d\uff1e\uff1f",
                 "\uff20\uff21\uff22\uff23\uff24\uff25\uff26\uff27\uff28\uff29\uff2a\uff2b\uff2c\uff2d\uff2e\uff2f",
                 "\uff30\uff31\uff32\uff33\uff34\uff35\uff36\uff37\uff38\uff39\uff3a\uff3b\uff3c\uff3d\uff3e\uff3f",
@@ -671,12 +625,12 @@
                 "\uff70\uff71\uff72\uff73\uff74\uff75\uff76\uff77\uff78\uff79\uff7a\uff7b\uff7c\uff7d\uff7e\uff7f",
                 "\uff80\uff81\uff82\uff83\uff84\uff85\uff86\uff87\uff88\uff89\uff8a\uff8b\uff8c\uff8d\uff8e\uff8f",
                 "\uff90\uff91\uff92\uff93\uff94\uff95\uff96\uff97\uff98\uff99\uff9a\uff9b\uff9c\uff9d\uff9e\uff9f",
-                "\uffa0\uffa1\uffa2\uffa3\uffa4\uffa5\uffa6\uffa7\uffa8\uffa9\uffaa\uffab\uffac\uffad\uffae\uffaf",
-                "\uffb0\uffb1\uffb2\uffb3\uffb4\uffb5\uffb6\uffb7\uffb8\uffb9\uffba\uffbb\uffbc\uffbd\uffbe\uffbf",
-                "\uffc0\uffc1\uffc2\uffc3\uffc4\uffc5\uffc6\uffc7\uffc8\uffc9\uffca\uffcb\uffcc\uffcd\uffce\uffcf",
-                "\uffd0\uffd1\uffd2\uffd3\uffd4\uffd5\uffd6\uffd7\uffd8\uffd9\uffda\uffdb\uffdc\uffdd\uffde\uffdf",
-                "\uffe0\uffe1\uffe2\uffe3\uffe4\uffe5\uffe6\uffe7\uffe8\uffe9\uffea\uffeb\uffec\uffed\uffee\uffef",
-                "\ufff0\ufff1\ufff2\ufff3\ufff4\ufff5\ufff6\ufff7\ufff8\ufff9\ufffa\ufffb\ufffc\ufffd\ufffe\uffff"
+                "\u0000\uffa1\uffa2\uffa3\uffa4\uffa5\uffa6\uffa7\uffa8\uffa9\uffaa\uffab\uffac\uffad\uffae\uffaf",
+                "\uffb0\uffb1\uffb2\uffb3\uffb4\uffb5\uffb6\uffb7\uffb8\uffb9\uffba\uffbb\uffbc\uffbd\uffbe\u0000",
+                "\u0000\u0000\uffc2\uffc3\uffc4\uffc5\uffc6\uffc7\u0000\u0000\uffca\uffcb\uffcc\uffcd\uffce\uffcf",
+                "\u0000\u0000\uffd2\uffd3\uffd4\uffd5\uffd6\uffd7\u0000\u0000\uffda\uffdb\uffdc\u0000\u0000\u0000",
+                "\uffe0\uffe1\uffe2\uffe3\uffe4\uffe5\uffe6\u0000\uffe8\uffe9\uffea\uffeb\uffec\uffed\uffee\u0000",
+                "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\ufffd\u0000\u0000"
             ]
         }
     ]
